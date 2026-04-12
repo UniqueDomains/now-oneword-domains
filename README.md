@@ -1,22 +1,22 @@
-# Available .NOW One-Word Domains (5,621,926)
+# Available .NOW One-Word Domains (5,851)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-5%2C847%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C621%2C926%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-5%2C854%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C851%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .now one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .now one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 5,847-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,621,926 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 5,847 rows · **Live catalog:** 5,621,926 domains
+**Public extract:** 5,854 rows · **Live catalog:** 5,851 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/now`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .NOW one-word domain c
 
 ### Files
 
-- `now.csv` — public CSV extract (5,847 rows)
-- `now.json` — public JSON extract (5,847 rows)
+- `now.csv` — public CSV extract (5,854 rows)
+- `now.json` — public JSON extract (5,854 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -71,18 +71,18 @@ print(df.head())
 | senior.now     | resell    | $125      | $125          | 70             | 30     | 6      | Spaceship, Inc.          |
 | pay.now        | premium   | $25,000   | —             | 84             | 60     | 3      | name.com                 |
 | leaders.now    | available | $49.98    | —             | 80             | 27     | 7      | namecheap                |
-| sum.now        | resell    | $125      | $125          | 66             | 27     | 3      | Spaceship, Inc.          |
+| awe.now        | resell    | $14,214   | —             | 81             | 26     | 3      | Porkbun LLC              |
 | athletics.now  | premium   | $130      | $130          | 69             | 52     | 9      | namecheap                |
 | remedial.now   | available | $24.99    | $59.99        | 86             | 24     | 8      | name.com                 |
-| awe.now        | resell    | $14,214   | —             | 81             | 26     | 3      | Porkbun LLC              |
+| sum.now        | resell    | $125      | $125          | 66             | 26     | 3      | Spaceship, Inc.          |
 | world.now      | premium   | $592,250  | —             | 90             | 51     | 5      | 101domain GRS Limited    |
 | cooked.now     | available | $24.99    | $59.99        | 70             | 21     | 6      | name.com                 |
-| eight.now      | resell    | $125      | $125          | 102            | 25     | 5      | Spaceship, Inc.          |
+| eight.now      | resell    | $125      | $125          | 102            | 24     | 5      | Spaceship, Inc.          |
 | abc.now        | premium   | $1,250    | —             | 78             | 50     | 3      | name.com                 |
-| cracked.now    | available | $24.99    | $59.99        | 70             | 21     | 7      | name.com                 |
+| cracked.now    | available | $24.99    | $59.99        | 70             | 20     | 7      | name.com                 |
 | alternate.now  | resell    | $24.99    | $59.99        | 100            | 15     | 9      | Atom.com Domains LLC     |
 | team.now       | premium   | $625      | —             | 76             | 49     | 4      | name.com                 |
-| details.now    | available | $49.98    | —             | 78             | 20     | 7      | namecheap                |
+| details.now    | available | $49.98    | —             | 78             | 19     | 7      | namecheap                |
 | alive.now      | resell    | —         | —             | 84             | 99     | 5      | Porkbun LLC              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 5,847-row public sample | 5,621,926 live domains                           |
+| 5,854-row public sample | 5,851 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NOW One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NOW One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
