@@ -28,7 +28,7 @@ d8d39e62-5392-4d9e-a232-6ffd0ddfcf87,pancreas.now,premium,,,60,8,8,,,
 1fa3588d-52b1-4e8a-9a8a-ebc67cbebc4c,ifnot.now,premium,,,62,5,6,,,
 a9b38c97-7fc0-4dfe-84bc-483a193d5476,brainwash.now,premium,,,80,7,9,,,
 48d5342d-8999-4995-a9f7-1936c980c249,ordinarily.now,premium,,,62,2,10,,,
-fc4f0df8-860e-4e90-b732-840991f35b5c,swollen.now,available,24.99,59.99,65,3,7,name.com,,
+fc4f0df8-860e-4e90-b732-840991f35b5c,swollen.now,available,24.99,59.99,65,4,7,name.com,,
 318ecb79-0456-421c-8b1a-8e0b6951df35,buy.now,premium,,,106,40,3,,,
 10068e69-d355-44c4-94b6-f4720ca5041b,grass.now,resell,,,66,22,5,Gandi SAS,07/11/2024 13:13,07/11/2026 13:13
 884abb2a-91a4-4ae5-91f3-719d4b25e7c3,feature.now,resell,,,94,98,7,Dynadot Inc,10/02/2025 20:57,10/02/2026 20:57
@@ -38,7 +38,7 @@ c5c19f8c-4a3d-415b-9992-a72dee235495,eater.now,premium,,,70,9,5,,,
 dc1474e1-d892-4302-9843-f06759d65973,laughter.now,resell,,,80,7,8,"NameCheap, Inc.",25/07/2025 21:34,25/07/2026 21:34
 101fdab6-c633-4729-918c-7f03bebecbcb,exercisebicycle.now,premium,,,70,1,16,,,
 74b95953-7713-4acd-8442-af7f5798324b,Netherlands.now,premium,,,,4,11,,,
-a062a75e-f8de-4213-a04e-9fd3d7047ffc,brandnew.now,premium,,,72,15,9,,,
+a062a75e-f8de-4213-a04e-9fd3d7047ffc,brandnew.now,premium,,,72,14,9,,,
 a88d62a1-290c-42ce-af4f-e9c42fba75dc,bridget.now,premium,,,86,11,7,,,
 1ff38883-75dd-4032-98c0-ca0d0cb3c818,guts.now,premium,,,97,14,4,,,
 98884175-954a-407d-b93a-8e02b13ecffb,qualification.now,premium,,,,6,13,,,
@@ -46,7 +46,7 @@ a88d62a1-290c-42ce-af4f-e9c42fba75dc,bridget.now,premium,,,86,11,7,,,
 49ca3a12-fa43-4141-96ae-ef5420349121,spiceup.now,premium,,,72,6,8,,,
 4e26bcf6-fcdd-4c7f-8146-85b2fb56f5ea,condolence.now,premium,,,64,4,10,,,
 1d128090-b29f-4802-ac5e-a5a0734b971e,restinpeace.now,premium,,,,5,13,,,
-ce4569d1-9b7b-407d-8456-1a8917262065,brilliant.now,resell,,,96,35,9,"Spaceship, Inc.",18/07/2025 05:17,18/07/2026 05:17
+ce4569d1-9b7b-407d-8456-1a8917262065,brilliant.now,resell,,,96,34,9,"Spaceship, Inc.",18/07/2025 05:17,18/07/2026 05:17
 73d00beb-6645-40f0-86d3-5cdbf1f8c7a8,asia.now,resell,,,72,33,4,"NameCheap, Inc.",27/11/2024 16:31,27/11/2026 16:31
 55a70ba0-e67f-4f87-9be0-02ccb587b6da,done.now,resell,,,80,36,4,"Spaceship, Inc.",03/11/2025 12:26,03/11/2026 12:26
 94f7977b-eb98-4cf3-9f5c-e501d933a295,atthat.now,premium,,,75,1,7,,,
@@ -54,9 +54,9 @@ ce4569d1-9b7b-407d-8456-1a8917262065,brilliant.now,resell,,,96,35,9,"Spaceship, 
 ec635ff8-243d-4c35-bd63-d72a5d4f76fd,bubble.now,resell,,,94,35,6,Dynadot Inc,02/12/2024 06:31,02/12/2026 06:31
 2bb11b8d-ce0e-4f74-ae2c-c1f203011daa,NewOrleans.now,premium,,,,13,11,,,
 7906317e-0532-489e-ae54-dac345969b86,hanukah.now,premium,,,80,2,7,,,
-8f2f55f5-2aea-497f-9a4c-8d70571bd4d1,dock.now,resell,,,70,24,4,Unstoppable Domains Inc.,01/10/2024 18:58,01/10/2026 18:58
+8f2f55f5-2aea-497f-9a4c-8d70571bd4d1,dock.now,resell,,,70,23,4,Unstoppable Domains Inc.,01/10/2024 18:58,01/10/2026 18:58
 5b3d40e1-5d6b-4893-9ca7-e36117f2b12d,gotothebathroom.now,premium,,,60,1,18,,,
-8097ce4a-ba5b-4fa4-88d7-fea2324657c5,compact.now,resell,,,115,18,7,Dynadot Inc,16/01/2025 19:49,16/01/2027 19:49
+8097ce4a-ba5b-4fa4-88d7-fea2324657c5,compact.now,resell,,,115,17,7,Dynadot Inc,16/01/2025 19:49,16/01/2027 19:49
 439b2e30-8aba-407a-acf6-7f13560eaed8,account.now,resell,,,98,34,7,Dynadot Inc,25/12/2025 07:50,25/12/2026 07:50
 95dc71a5-fc88-42ec-a803-f6c745c3fa3d,joking.now,premium,,,79,7,6,,,
 a46fd655-ba1d-46a2-b1d1-2eae2172cea0,eyewitness.now,premium,,,66,5,10,,,
@@ -113,10 +113,10 @@ fb1c6f0c-685a-4f91-a5bd-6bc84740e9dd,putaway.now,premium,,,68,2,8,,,
 cb61674a-8a6d-4588-a3bd-9d41e6de60e2,naming.now,resell,,,92,16,6,"Spaceship, Inc.",14/03/2025 12:12,14/03/2027 12:12
 c748f4df-7d58-49fe-8f69-604eeb1894f1,woods.now,premium,,,66,25,5,,,
 5b88f88b-ac9a-401f-b976-6d2557a344e2,palace.now,resell,,,66,21,6,Dynadot Inc,16/01/2025 22:45,16/01/2027 22:45
-75bb12e5-7eee-4f33-9afc-9053faabd7c5,auburn.now,premium,,,64,16,6,,,
+75bb12e5-7eee-4f33-9afc-9053faabd7c5,auburn.now,premium,,,64,15,6,,,
 abf3427d-447c-452f-a53c-43380d9bd33a,thisway.now,premium,,,,6,8,,,
 a8e78110-f719-42ec-86c2-343a5e0e17d8,underarrest.now,premium,,,58,2,12,,,
-b25ba00d-9321-4bcc-b404-c9c87b110b52,vain.now,premium,,,68,13,4,,,
+b25ba00d-9321-4bcc-b404-c9c87b110b52,vain.now,premium,,,68,12,4,,,
 609e4854-60d6-4103-b60c-cdbfce923444,toying.now,premium,,,68,3,6,,,
 203a5743-add1-4023-868e-677634d05bdf,overtheboard.now,premium,,,,2,14,,,
 ce39950e-1739-457a-84c7-c30642bf25c8,orchestra.now,premium,,,76,24,9,,,
@@ -137,7 +137,7 @@ e15ce794-baea-4b73-8e15-78928b672df8,genuine.now,resell,,,78,24,7,"Spaceship, In
 b05269b0-53e5-4eeb-b505-50ec3876e15a,drivethru.now,resell,,,72,13,10,"NameCheap, Inc.",09/09/2025 09:29,09/09/2026 09:29
 344f02b1-e9be-4bf5-907e-173abef84819,k.now,premium,,,116,31,4,,,
 e48e3322-4253-475b-810c-9781f093e8bb,Rhianna.now,premium,,,81,2,7,,,
-b487a6a9-9837-4f96-882d-94593d41d2be,favored.now,premium,,,76,6,7,,,
+b487a6a9-9837-4f96-882d-94593d41d2be,favored.now,premium,,,76,7,7,,,
 7f96f27f-7774-4b95-9333-a3f35d9fc2ae,blackcomedy.now,premium,,,76,2,12,,,
 cbbbbc2b-5c5a-42e2-9458-b98a8c712dd7,thisinstant.now,premium,,,,1,12,,,
 89689e92-e386-46b9-9b56-ea7c445b3a9c,generalrelativity.now,premium,,,72,2,18,,,
@@ -184,7 +184,7 @@ fdfb6239-4991-413b-8f7f-c43173afe500,surface.now,premium,,,68,66,7,,,
 fe83eec5-1e93-484c-bdfb-df1a0be3c170,Ihaveatemperature.now,premium,,,54,1,20,,,
 159cab0c-fb03-4c04-ae2e-c49a5e668905,lucy.now,premium,,,84,25,4,,,
 790653fd-3f92-4428-b7b2-432f49dfe0ef,chance.now,resell,,,76,29,6,Unstoppable Domains Inc.,20/07/2025 17:11,20/07/2027 17:11
-8bbc664f-76ce-41d1-a186-75ec0e331b00,hopeful.now,resell,,,84,13,7,Dynadot Inc,22/01/2025 22:22,22/01/2027 22:22
+8bbc664f-76ce-41d1-a186-75ec0e331b00,hopeful.now,resell,,,84,14,7,Dynadot Inc,22/01/2025 22:22,22/01/2027 22:22
 5c683e89-aa48-4b72-9301-9281f1179754,universally.now,premium,,,62,5,11,,,
 66cca29c-235e-432b-ba19-f6f3c8e6eb33,thought.now,premium,,,78,27,7,,,
 1b7ec3b5-20aa-44e5-9f91-6461d5878504,nightsky.now,premium,,,72,12,9,,,
@@ -235,7 +235,7 @@ de50de42-b6de-4aa6-9a2c-456c9df0c8c9,reminder.now,resell,,,72,14,8,Dynadot Inc,1
 c1a0730b-0a66-4fd5-a5aa-ab6d1456e90d,adept.now,resell,,,92,26,5,Unstoppable Domains Inc.,10/01/2025 06:42,10/01/2028 06:42
 88212997-04fc-4424-8947-9ddf8fd25760,mouthwash.now,premium,,,,3,10,,,
 87963479-f557-4c61-8014-0c5e3ecb47bf,choppy.now,premium,,,62,6,6,,,
-ad70bdeb-916e-46bf-8f36-0fe5a7e846e9,common.now,resell,,,71,34,6,Dynadot Inc,14/03/2025 19:54,14/03/2027 19:54
+ad70bdeb-916e-46bf-8f36-0fe5a7e846e9,common.now,resell,,,71,33,6,Dynadot Inc,14/03/2025 19:54,14/03/2027 19:54
 66d3e435-3581-4b35-80bc-484c82565ab8,went.now,resell,,,70,11,4,Dynadot Inc,23/10/2025 23:38,23/10/2026 23:38
 9b12be5d-f6d3-407c-abf3-2214ef9d34b6,electricity.now,resell,,,80,15,11,Dynadot Inc,30/09/2024 21:27,30/09/2026 21:27
 d5cf3d29-a822-4e83-98cc-649611d9a4a6,stewart.now,premium,,,64,22,7,,,
@@ -273,7 +273,7 @@ d0a8fbaf-f9ae-4b9f-bfa0-2bdb6ecd954d,youneverk.now,premium,,,,4,14,,,
 20f22ce5-a9dd-49d0-ab5a-d4aae3f906a3,toobad.now,premium,,,,2,7,,,
 177100a7-6159-438f-8b9c-66541d6b8362,gaspowered.now,premium,,,60,2,11,,,
 97ca9ad7-1c41-4835-bfee-0046774a0bd7,reported.now,premium,,,64,5,8,,,
-2d628047-0d2b-4080-b7d1-6706763440bd,spiral.now,resell,,,112,33,6,Porkbun LLC,30/12/2024 04:30,30/12/2026 04:30
+2d628047-0d2b-4080-b7d1-6706763440bd,spiral.now,resell,,,112,34,6,Porkbun LLC,30/12/2024 04:30,30/12/2026 04:30
 344f0ea1-5fac-4c7e-b9f7-6ec1bf22758b,condition.now,premium,,,92,11,9,,,
 20a9fc7b-ba1c-404a-b29c-0b1c96b7455e,cinema.now,resell,,,84,31,6,Unstoppable Domains Inc.,04/10/2024 22:48,04/10/2026 22:48
 b8b882cc-42c5-4909-acdb-15d260118a2b,half.now,premium,,,152,18,4,,,
@@ -317,7 +317,7 @@ dde057fb-d973-41f0-b433-cfcea53a169f,wallet.now,resell,,,74,54,6,Dynadot Inc,02/
 841f9407-bb3d-4b5c-8844-299a9ff69a61,stain.now,premium,,,82,10,5,,,
 7a872f45-c64b-46eb-bfd8-8b59c92e3c9a,mild.now,resell,,,92,12,4,Dynadot Inc,23/10/2025 23:38,23/10/2026 23:38
 3ea48703-1142-451a-a785-b61df6d88dcf,airpressure.now,premium,,,64,2,12,,,
-84416b70-2b1d-4398-9648-2a42eb6884e6,discovered.now,premium,,,68,10,10,,,
+84416b70-2b1d-4398-9648-2a42eb6884e6,discovered.now,premium,,,68,11,10,,,
 717aa0fe-fd78-4092-928c-94d3bd488e2d,pollen.now,resell,,,78,19,6,Porkbun LLC,09/02/2026 05:59,09/02/2027 05:59
 feabce5f-0995-40b8-9991-58ef112f1bbe,told.now,resell,,,,7,4,Dynadot Inc,03/06/2025 08:17,03/06/2026 08:17
 bee514ca-36e1-4236-a2aa-12ca990853fd,riverotter.now,premium,,,72,2,11,,,
@@ -382,7 +382,7 @@ f4fa0844-16cb-4b7a-a69b-5e2abbfc5150,roman.now,premium,,,100,29,5,,,
 17afd051-d2b2-4c6f-a9e0-daf2945b992c,point.now,resell,,,78,33,5,Dynadot Inc,22/01/2025 22:22,22/01/2027 22:22
 46d95dd7-96e7-4de3-be83-324a8229abf0,bankmachine.now,premium,,,68,1,12,,,
 f03b3da4-2501-4234-ba50-7d879ecff936,carriage.now,available,49.98,,68,8,8,namecheap,,
-1cbcc3e6-ddab-45b1-9cfb-863bd30e43f6,subsidiary.now,premium,,,90,3,10,,,
+1cbcc3e6-ddab-45b1-9cfb-863bd30e43f6,subsidiary.now,premium,,,90,4,10,,,
 c0a3ce9a-020b-4c1d-94dc-742b64a7da77,flop.now,premium,,,60,13,4,,,
 5d64878a-0111-441b-bc18-0da8d20f97fd,Iwillyeah.now,premium,,,54,1,11,,,
 4dc53781-3a8c-4aed-85f2-195db3641a88,middleclass.now,premium,,,66,5,12,,,
@@ -477,7 +477,7 @@ dcaf25dd-3ce9-4522-a6f6-342b648a6b1e,flu.now,premium,,,62,10,3,,,
 669c7308-b618-4bb9-80dc-8888ad8ec25e,Marco.now,premium,,,76,34,5,,,
 0ea67c6c-685c-4d2d-9edb-848902ffa2a1,eatat.now,premium,,,72,3,6,,,
 653e57ba-2a03-484a-9fb0-64fd82ed9786,tatafor.now,premium,,,,1,13,,,
-d3aabc02-8f4c-4aaf-ab77-a5169acbfea4,clean.now,resell,,,130,35,5,Unstoppable Domains Inc.,30/09/2024 13:00,30/09/2028 13:00
+d3aabc02-8f4c-4aaf-ab77-a5169acbfea4,clean.now,resell,,,130,38,5,Unstoppable Domains Inc.,30/09/2024 13:00,30/09/2028 13:00
 98c84549-48d7-4bb3-9075-81081737ba49,simultaneously.now,premium,,,,1,14,,,
 cd9a55e0-ccfc-460a-a1fd-3e27bfbdad56,elaborated.now,available,24.99,59.99,64,1,10,name.com,,
 d54fca70-c37c-42d0-a7ec-a7a25aa6189c,highly.now,premium,,,62,9,6,,,
@@ -489,7 +489,7 @@ e7c2e326-05d3-4e93-9ebb-638eeb975df7,seeingas.now,premium,,,54,1,9,,,
 cbfb482c-b1ea-4633-aa9f-54424cfb6ff2,our.now,resell,,,,42,3,Porkbun LLC,05/08/2025 09:06,05/08/2026 09:06
 e9bdc6db-56f9-4c23-89fc-e0a8d8207b79,rural.now,premium,,,88,22,5,,,
 003d41ac-c12d-436b-a3d2-9cb35ccdc25c,inspiteof.now,premium,,,48,2,11,,,
-702b5d64-5997-4554-a4ed-8745a54c28fe,auriferous.now,premium,,,66,3,10,,,
+702b5d64-5997-4554-a4ed-8745a54c28fe,auriferous.now,premium,,,66,2,10,,,
 b97ac5c7-2bb1-4f15-863a-548ed3e5687a,accountstatement.now,premium,,,66,1,17,,,
 9acc9d80-7bb7-4a22-9cd2-662ee5a0eeaa,Siamesecat.now,premium,,,70,1,11,,,
 89b2a17b-3f01-4723-a8fb-e1fb5c61e9e7,conflicted.now,premium,,,58,3,10,,,
@@ -549,7 +549,7 @@ ff553c4e-14ab-4dd7-8af6-40089be01b13,Englishspeaking.now,premium,,,62,2,16,,,
 0d034cbf-8400-4101-bd9b-db332fcdd3d9,enthusiasm.now,premium,,,76,7,10,,,
 f56f3846-b53e-4d58-adcb-204ce79fe49d,commonly.now,premium,,,64,6,8,,,
 e8ef87da-f33b-45e0-94e1-81c59db6f901,trophy.now,resell,,,100,21,6,"Spaceship, Inc.",06/01/2025 18:26,06/01/2027 18:26
-261bfd92-f55e-4eb2-8914-8322a868e054,corporate.now,resell,,,90,32,9,"Spaceship, Inc.",27/07/2025 23:26,27/07/2026 23:26
+261bfd92-f55e-4eb2-8914-8322a868e054,corporate.now,resell,,,90,31,9,"Spaceship, Inc.",27/07/2025 23:26,27/07/2026 23:26
 0bc15f72-df2f-49c1-bfc2-0d78ae2eb382,portland.now,premium,,,62,21,8,,,
 f7b2aea0-c1e1-4970-9bb6-f2f1b5e7a6af,muhfucka.now,premium,,,62,1,8,,,
 15e07145-7746-42f5-94a4-004ed27e3817,corny.now,available,24.99,59.99,64,7,5,name.com,,
@@ -642,7 +642,7 @@ dfc19312-d620-4dc2-9d80-244fe50de465,rockrecord.now,premium,,,72,1,11,,,
 f95fa9fa-d98d-4901-b042-e62cce228e9e,dishonour.now,premium,,,82,2,9,,,
 67a055a5-1172-48f1-b1bb-26e421b28546,sweetFA.now,premium,,,38,2,8,,,
 6398d2e0-28ec-45e8-b862-06476071d63f,rejoin.now,resell,,,78,7,6,Dynadot Inc,11/07/2025 21:31,11/07/2026 21:31
-368b6676-7dae-4ac1-bd18-0edc0bb1efcb,middle.now,premium,,,116,19,6,,,
+368b6676-7dae-4ac1-bd18-0edc0bb1efcb,middle.now,premium,,,116,22,6,,,
 69772270-f918-4d86-a0de-88b6ca43bd58,amethyst.now,resell,,,58,21,8,"Spaceship, Inc.",30/11/2025 08:18,30/11/2026 08:18
 1fa00cb0-de34-4950-ade2-48f45405b500,irrational.now,premium,,,78,10,10,,,
 30328c60-4c89-4835-81ac-e507f8a5fd43,batup.now,premium,,,48,2,6,,,
@@ -676,7 +676,7 @@ ef34101f-5c93-48f2-8e60-65276790614d,ironic.now,premium,,,70,12,6,,,
 c2a0cbd1-aa7e-4577-aab3-09d1ed3c00f1,pauliii.now,premium,,,64,1,8,,,
 734c3707-1dc7-4628-8c6c-8accca8fe088,empty.now,resell,,,98,26,5,Dynadot Inc,12/07/2025 14:17,12/07/2026 14:17
 6249b6da-21c4-4032-8f21-f82f6d7257b1,inverse.now,premium,,,106,17,7,,,
-0bc8f62a-5975-41f5-94cb-bc15215e1a8e,boundary.now,resell,,,64,17,8,Dynadot Inc,22/01/2025 22:22,22/01/2027 22:22
+0bc8f62a-5975-41f5-94cb-bc15215e1a8e,boundary.now,resell,,,64,16,8,Dynadot Inc,22/01/2025 22:22,22/01/2027 22:22
 e79c526f-a339-4cca-b4f6-be031fc6dc54,whothehell.now,premium,,,,1,12,,,
 df92342a-d0ff-4bb6-acfa-aa8c50d08787,psychologist.now,premium,,,68,13,12,,,
 c36654d5-fde5-4807-8b03-f7e82d441dca,allweathertyre.now,premium,,,76,1,16,,,
@@ -691,7 +691,7 @@ a6c5544a-0193-45c1-8d0b-f582341bd044,cafeterrace.now,premium,,,76,1,12,,,
 88b1710c-fdd5-4e4c-ba88-e159d39cfbcd,mass.now,premium,125,125,78,28,4,name.com,,
 aba75649-0605-4e34-a694-c159f9975b3b,allthetime.now,premium,,,56,3,12,,,
 7d43f547-1a8a-4327-b823-f4e323b5186b,deskorganizer.now,premium,,,66,1,14,,,
-94317de1-40fe-464e-a3f9-b6aaa4188d6e,nuts.now,resell,,,64,21,4,"Spaceship, Inc.",08/11/2024 09:18,08/11/2026 09:18
+94317de1-40fe-464e-a3f9-b6aaa4188d6e,nuts.now,resell,,,64,22,4,"Spaceship, Inc.",08/11/2024 09:18,08/11/2026 09:18
 50b34df8-d4b0-44a6-9e34-234f3b876ac3,champion.now,resell,,,72,32,8,Dynadot Inc,07/03/2025 00:37,07/03/2027 00:37
 e154ca28-1342-4980-9fb8-800446f4dc0d,treasurydepartment.now,premium,,,68,1,19,,,
 53ea4485-52c1-4e12-9061-4afccb44d1bf,rejected.now,premium,,,52,7,8,,,
@@ -749,9 +749,9 @@ ed54de59-2812-4095-b6a0-8a7c60de7be6,dignified.now,available,24.99,59.99,66,5,9,
 4cf6e494-6216-4a9a-b614-26200e9a477d,disregarded.now,premium,,,52,1,11,,,
 085e0e29-7f5b-43b7-b34b-242c7c58146e,masters.now,premium,125,,78,24,7,name.com,,
 eed1efaa-3c66-4d19-aac0-cc60e3c3669a,despiteof.now,premium,,,46,1,10,,,
-e9df6621-f16f-4ab5-88be-020b89f7adb7,late.now,premium,,,76,16,4,,,
+e9df6621-f16f-4ab5-88be-020b89f7adb7,late.now,premium,,,76,17,4,,,
 b5b1bee1-5c35-458e-98f1-5f70a0d201c9,giveamanafish.now,premium,,,52,1,17,,,
-52a36a03-cd72-4aa8-ad2a-25ee9ae653da,iron.now,resell,,,84,31,4,Unstoppable Domains Inc.,05/10/2024 20:36,05/10/2026 20:36
+52a36a03-cd72-4aa8-ad2a-25ee9ae653da,iron.now,resell,,,84,32,4,Unstoppable Domains Inc.,05/10/2024 20:36,05/10/2026 20:36
 9364be01-6ebd-43d6-83f3-790446f6c3ca,unconvinced.now,premium,,,54,1,11,,,
 ef85712e-8ca4-4750-8c96-773fa5c1fc6f,goover.now,premium,,,74,6,7,,,
 565ed783-b326-4067-951c-bbe53e5e570e,childofthekitchen.now,premium,,,64,1,20,,,
@@ -831,7 +831,7 @@ afc2a659-344a-4a3e-a27f-f4fde3e21952,showed.now,premium,,,,3,6,,,
 8292fead-b544-4a2f-950d-64a62d985149,fillin.now,premium,,,76,7,7,,,
 25606ef0-49c8-48be-b710-4696196835f0,halfass.now,premium,,,56,2,8,,,
 f96d52d1-5c6c-42c6-a267-9bde17f2c5d1,Iaskyou.now,premium,,,54,1,9,,,
-96b4cc89-a1ee-4403-abcc-beef6a9092b8,infront.now,available,24.99,59.99,60,10,8,name.com,,
+96b4cc89-a1ee-4403-abcc-beef6a9092b8,infront.now,available,24.99,59.99,60,9,8,name.com,,
 9f683677-1f96-4aba-b858-01061f58f892,sofarsogood.now,premium,,,64,5,14,,,
 3342d34b-c952-4b38-873b-a43b6312876a,reassuringly.now,premium,,,60,1,12,,,
 771ea0c2-9be3-4dea-88e9-96542b5414cf,rightnow.now,premium,,,,14,9,,,
@@ -862,7 +862,7 @@ edd8fd23-88e6-422a-9d27-2efb4115687d,withoutfail.now,premium,,,74,2,12,,,
 1f80e69c-ad8a-4e57-84d6-f297edd2b63a,incommon.now,premium,,,58,10,9,,,
 45d3abd7-1a71-4281-8b0e-e37f3a3d50f1,leavethechat.now,premium,,,72,1,14,,,
 102300e7-51d6-4173-b3e1-60be687ff86f,xvi.now,premium,125,125,66,7,3,name.com,,
-ea49a317-0653-441b-96b8-7eacd9cc2b30,hunkydory.now,available,24.99,59.99,70,6,10,name.com,,
+ea49a317-0653-441b-96b8-7eacd9cc2b30,hunkydory.now,available,24.99,59.99,70,7,10,name.com,,
 9be8bfa9-c95b-40d8-b3cf-bf40446a5d0a,retain.now,resell,,,98,15,6,Unstoppable Domains Inc.,21/01/2025 23:45,21/01/2028 23:45
 61f6e2b4-9d57-4404-a137-44967386505c,midFebruary.now,premium,,,98,1,12,,,
 bf2d8fdb-99c7-46a6-bfc2-b69ebc83ea55,whatittakes.now,premium,,,,3,13,,,
@@ -898,7 +898,7 @@ c3fe0c49-eca6-4f94-abf9-4f6e589eeffa,bearinmind.now,premium,,,72,3,12,,,
 29c53f00-ebca-4e90-ab42-0043d4d28cbb,howno.now,premium,,,54,1,6,,,
 ea57b389-7c1d-4885-aed0-22f0875df022,speedlimit.now,premium,,,66,3,11,,,
 ec892b2c-46df-4332-bf43-7737492a278f,WestBay.now,premium,,,,6,8,,,
-746a285c-7a4f-4320-ad56-b364c7460fbe,calm.now,resell,,,118,32,4,Unstoppable Domains Inc.,30/09/2024 13:32,30/09/2026 13:32
+746a285c-7a4f-4320-ad56-b364c7460fbe,calm.now,resell,,,118,33,4,Unstoppable Domains Inc.,30/09/2024 13:32,30/09/2026 13:32
 cf90dcaa-19c5-483a-a940-66df9f57de03,backup.now,resell,,,106,32,6,Porkbun LLC,14/10/2024 15:04,14/10/2026 15:04
 0f7348f5-6ffc-4d87-b501-a80e3c2230ed,china.now,premium,,,84,5,5,,,
 58241034-64f1-4f44-991f-17630a7fb375,filming.now,premium,,,74,8,7,,,
@@ -1100,7 +1100,7 @@ eb0c6343-1dc8-4348-88e0-f1cf82ebed32,analyst.now,resell,,,82,19,7,"NameCheap, In
 d78057ef-b2e6-46a8-ba92-37ee96b8fe21,wink.now,resell,,,104,28,4,Unstoppable Domains Inc.,05/10/2024 11:48,05/10/2026 11:48
 5c9ed341-5403-4e49-b99a-672b80e4a18d,morgan.now,premium,,,64,82,6,,,
 4e467989-f80a-43b1-a9f5-1a53e14cc73d,wheretheheck.now,premium,,,,1,14,,,
-3ea7f904-3d73-4869-a0ef-a0cde314a9b0,leap.now,resell,,,76,41,4,Unstoppable Domains Inc.,30/09/2024 13:13,30/09/2026 13:13
+3ea7f904-3d73-4869-a0ef-a0cde314a9b0,leap.now,resell,,,76,39,4,Unstoppable Domains Inc.,30/09/2024 13:13,30/09/2026 13:13
 0237d52c-c0b6-4b76-a80f-68bf4e80f990,NewGuinea.now,premium,,,,2,10,,,
 5d1be8b1-53f4-4e25-a1f8-48fc9b506e4d,wise.now,resell,,,88,72,4,"NameCheap, Inc.",21/11/2024 16:17,21/11/2026 16:17
 2a92d5a7-d34c-48d8-9b05-6ad008ab06a8,chair.now,resell,,,66,17,5,"Spaceship, Inc.",22/07/2025 14:49,22/07/2026 14:49
@@ -1111,7 +1111,7 @@ ebf72b83-1bad-40e8-b984-6615ef9de021,nose.now,resell,,,94,17,4,Dynadot Inc,24/07
 572a8f47-4090-4481-bc6b-4f494809dd35,corridor.now,premium,,,68,14,8,,,
 61ba488a-9397-40e7-8d99-8bb54aa7c9ce,fallover.now,premium,,,62,1,9,,,
 83074e40-0c9f-44e7-8bed-a1142b7721a2,widely.now,premium,,,62,6,6,,,
-0469e1e2-bf6f-445a-96cd-92679ad3e659,lover.now,resell,,,89,16,5,Dynadot Inc,07/07/2025 22:24,07/07/2026 22:24
+0469e1e2-bf6f-445a-96cd-92679ad3e659,lover.now,resell,,,89,17,5,Dynadot Inc,07/07/2025 22:24,07/07/2026 22:24
 afdc3c51-7835-4851-85ea-89d785315afc,whitepepper.now,premium,,,,2,12,,,
 87bdd46e-0491-4ee7-a0e9-2a29a6033e2e,haste.now,resell,,,60,12,5,Porkbun LLC,21/11/2025 13:04,21/11/2029 13:04
 dc0ce549-41b1-4e52-9d98-4e77d274bbfe,farmwork.now,premium,,,68,2,9,,,
@@ -1128,7 +1128,7 @@ f45ea5b0-8d67-4345-af8f-fb5f621464e0,hundred.now,premium,125,125,88,18,7,name.co
 f49d19fc-0685-4034-8567-47c508e0cee2,engrossed.now,available,24.99,59.99,72,1,9,name.com,,
 a99781b6-90a2-4bc5-ba27-85e7fa57f915,safety.now,resell,,,88,37,6,"Spaceship, Inc.",20/07/2025 09:07,20/07/2026 09:07
 fd660272-ec8c-4a66-9338-8095bb7dae2d,publicity.now,resell,,,70,11,9,Dynadot Inc,07/07/2025 19:16,07/07/2026 19:16
-13f251a9-c8b1-48f7-90f4-7354ea96b404,leading.now,premium,,,102,21,7,,,
+13f251a9-c8b1-48f7-90f4-7354ea96b404,leading.now,premium,,,102,20,7,,,
 1a617e07-d517-4a84-9c3d-ef9b9942d7d2,nationalconvention.now,premium,,,66,2,19,,,
 7f491d54-4d58-488e-affb-2d9c8a71db34,redhot.now,premium,,,72,13,7,,,
 b8dd2c68-3ae3-4df6-8928-16dd82b0d4cb,allergic.now,available,24.99,59.99,84,6,8,name.com,,
@@ -1183,7 +1183,7 @@ e932ff4c-04da-4277-b265-22ab89b287b2,ISO.now,premium,,,80,6,3,,,
 0d3e71e5-cf13-40a4-a836-a0803235259f,surprised.now,premium,,,70,6,9,,,
 e33ab721-c41f-44df-a4b6-4574f77f66b3,atheart.now,premium,,,64,8,8,,,
 fe10870a-11f2-4af0-b810-9f85fb27a8fc,patriotism.now,premium,,,76,3,10,,,
-209311cd-d728-4542-9772-df577da70f2c,marginal.now,premium,,,74,10,8,,,
+209311cd-d728-4542-9772-df577da70f2c,marginal.now,premium,,,74,9,8,,,
 7e1fede4-329c-4e4c-8314-ef32db324589,protective.now,premium,,,89,11,10,,,
 47e0ba36-f9c3-4496-b506-5cea37b5bd52,Westcott.now,premium,,,,5,8,,,
 b308880f-85e7-4085-b81a-787a95a5ca44,cuisine.now,resell,,,78,15,7,Dynadot Inc,12/07/2025 00:24,12/07/2027 00:24
@@ -1193,14 +1193,14 @@ e7959cf4-5528-47a8-90b3-b742874b4ec5,BlackTuesday.now,premium,,,48,2,13,,,
 aa964cd9-c120-4ec2-bb60-ba881d9c7e17,enginedriver.now,premium,,,68,1,13,,,
 92b609d6-d4ee-486f-bf39-a01e99b344b7,letterspatents.now,premium,,,65,1,15,,,
 81599fd6-5de4-4251-b084-aca97f3f6699,providence.now,premium,,,78,22,10,,,
-3ef17df6-4f65-4afa-a080-72ce112a59e9,built.now,resell,,,103,23,5,Dynadot Inc,30/09/2024 14:04,30/09/2026 14:04
+3ef17df6-4f65-4afa-a080-72ce112a59e9,built.now,resell,,,103,22,5,Dynadot Inc,30/09/2024 14:04,30/09/2026 14:04
 c3f23284-ed81-4ac2-8a86-5e9f11e08bc2,gotten.now,premium,,,66,3,6,,,
 3498076e-ed5a-49de-bea0-82c7b8434ed3,nosecount.now,premium,,,,1,10,,,
 ab6a02a0-8765-4421-a9c6-b51f30104078,charge.now,resell,,,86,29,6,"Spaceship, Inc.",30/09/2024 17:11,30/09/2026 17:11
 70e1a771-806c-4257-8287-7026a0a1b301,gramme.now,premium,,,68,6,6,,,
 0de5a8bb-850b-4038-b5ad-f8fe929a0ac8,cap.now,resell,,,84,31,3,"Spaceship, Inc.",03/01/2025 20:01,03/01/2027 20:01
 2df84380-8e83-4ab3-a552-a8fcb6bfa5f5,youre.now,premium,,,62,16,5,,,
-58c19353-6e05-4d18-8e8c-f281821291ad,prenuptial.now,premium,,,88,3,10,,,
+58c19353-6e05-4d18-8e8c-f281821291ad,prenuptial.now,premium,,,88,2,10,,,
 58c2572b-cc28-4c0c-b2bc-73dd118e66b3,maintained.now,premium,,,60,4,10,,,
 a1fe1340-7f3f-4f51-a715-c453f102ad7f,intensive.now,premium,,,82,7,9,,,
 9ec07942-5b06-462c-8315-6752288acbc0,licenced.now,available,24.99,59.99,68,3,8,name.com,,
@@ -1240,7 +1240,7 @@ b0cc4722-c8fb-4dab-b178-3a2fe9794357,illustrated.now,premium,,,68,7,11,,,
 14471c75-3b66-4fbb-a837-74af8e3d52d1,sweetdreams.now,premium,,,,14,12,,,
 dfb67f82-5315-4426-a65b-9083fd1903b2,acappella.now,available,24.99,59.99,66,7,10,name.com,,
 fe7b9cc9-8263-4eaa-8922-aefac2cd89c0,dickens.now,premium,,,72,9,7,,,
-72a2f40f-46df-4eb8-9dc3-e4a1b4dd3f75,integral.now,resell,,,73,30,8,Unstoppable Domains Inc.,02/12/2024 23:38,02/12/2027 23:38
+72a2f40f-46df-4eb8-9dc3-e4a1b4dd3f75,integral.now,resell,,,73,29,8,Unstoppable Domains Inc.,02/12/2024 23:38,02/12/2027 23:38
 a366d784-7222-465c-8a8c-410b23e14a14,Frenchlavender.now,premium,,,76,1,15,,,
 6a2edd0a-5fb0-4f1d-a552-8ddff52ebb0f,despise.now,premium,,,66,3,7,,,
 24737af1-9aea-4913-bb34-47a96038ca35,needing.now,premium,,,70,5,7,,,
@@ -1286,7 +1286,7 @@ cfec663d-a006-4725-ae81-0a76286b664d,stone.now,resell,,,62,31,5,Dynadot Inc,24/0
 8eb05faa-0ba2-4b2e-9c94-d1ed7de9bf9f,hypocritically.now,premium,,,42,1,14,,,
 9485d005-b06c-4984-afe0-a3334d10f23e,Christalmighty.now,premium,,,72,1,15,,,
 dabd3f01-44c2-497b-a556-6517d644916a,knowsomeone.now,premium,,,68,1,12,,,
-1536f411-47fb-4aa1-a228-dbda43eb2a19,encouraged.now,premium,,,68,6,10,,,
+1536f411-47fb-4aa1-a228-dbda43eb2a19,encouraged.now,premium,,,68,5,10,,,
 b4db115f-933b-4a83-be3a-c2a5af374cd3,lately.now,premium,,,64,9,6,,,
 ec9e8aaf-a79a-4c33-8b50-698f33d31a52,birth.now,resell,,,114,15,5,"Spaceship, Inc.",25/01/2025 01:06,25/01/2026 01:06
 cd2655f1-23a5-4dec-a720-eee1f9a6478b,sail.now,resell,,,70,31,4,Dynadot Inc,15/12/2025 15:15,15/12/2026 15:15
@@ -1325,7 +1325,7 @@ d3fb9142-2edf-4080-8f59-af77176a078a,viceversa.now,premium,,,,14,10,,,
 1562e331-4f86-4fa0-948d-31fa31fcb19e,babies.now,premium,,,64,11,6,,,
 e4debe32-cdc9-4963-9ef1-0769276c79a0,midspring.now,premium,,,98,1,10,,,
 f4767c04-a945-4b4c-be25-1c2fdbaabbc7,against.now,premium,,,60,10,7,,,
-690eab52-15f6-4530-a2bd-e78317d8acfa,antique.now,premium,125,125,72,19,7,name.com,,
+690eab52-15f6-4530-a2bd-e78317d8acfa,antique.now,premium,125,125,72,18,7,name.com,,
 8608cb47-1bf5-4642-8acc-c0db4462cbab,mixture.now,premium,,,70,11,7,,,
 7eea2f19-ab00-4c83-8d20-86912b2f19e2,usage.now,available,24.99,59.99,70,9,5,name.com,,
 09c64698-10fa-4f33-9cfc-83577cbf7791,detached.now,available,24.99,59.99,56,7,8,name.com,,
@@ -1365,7 +1365,7 @@ d8b77187-1b0e-4075-9c1e-6b5a1645eea5,childbenefit.now,premium,,,64,2,13,,,
 49f5273c-43db-4e1a-9afd-0cda7f7c1157,absorbing.now,available,24.99,59.99,70,4,9,name.com,,
 ed87e55f-d95d-4d25-982d-fdded71af093,drawn.now,premium,,,66,9,5,,,
 d87c366e-a5d5-4d70-9712-2f68150543fa,systematically.now,premium,,,56,2,14,,,
-e9165de0-4ce7-4a93-bfe1-5c4c5c399a28,courageous.now,premium,,,72,12,10,,,
+e9165de0-4ce7-4a93-bfe1-5c4c5c399a28,courageous.now,premium,,,72,11,10,,,
 2155ae20-c05d-4bbd-83d1-70e4c7151c41,whatitis.now,premium,,,,3,10,,,
 32222bdc-1939-4501-a4af-9aea72ba8e5a,young.now,resell,,,84,24,5,Dynadot Inc,11/07/2025 09:02,11/07/2026 09:02
 9fb7305b-61f9-4053-ad11-80c8f196728a,findout.now,premium,,,74,11,8,,,
@@ -1384,7 +1384,7 @@ f78c60f3-2f60-472d-887e-25eee21859a2,getthewordout.now,premium,,,73,2,16,,,
 49c9ebf3-e51d-450b-9242-6d3f54069098,cabbage.now,premium,,,94,15,7,,,
 733b5d0b-f51e-44cc-b17b-2ebe0b79ed6d,aboveabit.now,available,49.98,,56,1,11,namecheap,,
 cbd7af07-e3cf-40e4-abfc-e16b8ece7f07,polonecksweater.now,premium,,,73,1,17,,,
-0a5e23d9-4d47-4562-9b86-58138dcd3ae7,builtin.now,premium,,,91,10,8,,,
+0a5e23d9-4d47-4562-9b86-58138dcd3ae7,builtin.now,premium,,,91,9,8,,,
 ec2725a9-a18b-4e25-8b28-33fa2670f88b,aaron.now,premium,,,88,35,5,,,
 2d1a8e6e-1261-409a-9a34-e9397c329d62,demand.now,resell,,,100,21,6,Dynadot Inc,02/10/2024 19:00,02/10/2026 19:00
 72209ecf-ccc7-41d7-93dc-cc6c20313cdf,pretzel.now,resell,,,98,15,7,Gandi SAS,27/01/2025 01:34,27/01/2027 01:34
@@ -1454,7 +1454,7 @@ a37529ae-9c42-421e-9d8c-678c5af9edf3,thus.now,premium,,,80,9,4,,,
 6f54287a-549d-4415-ba6c-2b9c11562a40,hammer.now,resell,,,84,34,6,Unstoppable Domains Inc.,01/12/2024 00:19,01/12/2026 00:19
 67bdd2de-4b8f-433a-bca9-40fc00864c0b,jazz.now,premium,,,72,28,4,,,
 29166d3c-310d-4074-957c-5eb4df5554b1,lace.now,premium,,,98,17,4,,,
-e515f60d-4707-4189-9e07-c567218708f4,fearless.now,resell,,,72,32,8,Unstoppable Domains Inc.,12/12/2024 19:02,12/12/2026 19:02
+e515f60d-4707-4189-9e07-c567218708f4,fearless.now,resell,,,72,33,8,Unstoppable Domains Inc.,12/12/2024 19:02,12/12/2026 19:02
 d157c041-0435-403d-b813-69879e97dd9b,rushing.now,premium,,,62,8,7,,,
 35eef8c7-1915-4d6b-b381-0a9e013ff25e,amazed.now,resell,,,72,8,6,"NameCheap, Inc.",26/07/2025 00:12,26/07/2026 00:12
 45d95b0e-5649-451f-a43c-fdec1b3b2a1b,watercooler.now,premium,,,84,10,12,,,
@@ -1517,7 +1517,7 @@ a42cac5c-70c2-4a7c-a239-ac03c9288b15,cinderella.now,resell,,,78,12,10,"Spaceship
 1b15be49-4470-4bd9-b9dc-2d4f6b123a5b,poorly.now,premium,,,66,3,6,,,
 6ee6509d-5595-4e6f-80cd-28bff44749fa,intears.now,premium,,,44,1,8,,,
 2ef5d753-8ed0-4b4b-870f-0be4bb4f71f9,procedure.now,premium,,,68,8,9,,,
-901d990f-d89c-4a54-85e3-4432da877a13,cherry.now,resell,,,86,32,6,Dynadot Inc,15/07/2025 23:28,15/07/2026 23:28
+901d990f-d89c-4a54-85e3-4432da877a13,cherry.now,resell,,,86,32,6,Dynadot Inc,15/07/2025 23:28,15/07/2027 23:28
 f4f5d913-bc6e-4a93-b290-98f9efb00a0e,kindof.now,premium,,,62,7,7,,,
 d9d8043a-390a-4bc8-a230-1298104220cd,howdoyedo.now,premium,,,48,1,12,,,
 db1bd1f6-b14d-4cb7-8941-ba34f6ccbea7,whitesnow.now,premium,,,,4,10,,,
@@ -1559,7 +1559,7 @@ f1358c38-9877-4a0e-a77c-0e6d3c0a9f01,twin.now,resell,,,80,33,4,Unstoppable Domai
 fe9e7941-ec03-4e0a-927e-e9bfe6b13922,planning.now,resell,,,70,26,8,Dynadot Inc,05/10/2024 04:29,05/10/2026 04:29
 08d29227-3b22-4abf-8586-85f6723d7c60,rootbeer.now,premium,,,,6,9,,,
 20876fa3-faa0-4f55-8168-26f3796295a6,casket.now,premium,,,84,8,6,,,
-4e5d8f6e-23f2-4405-a784-4e552c9f730f,bush.now,premium,,,64,18,4,,,
+4e5d8f6e-23f2-4405-a784-4e552c9f730f,bush.now,premium,,,64,19,4,,,
 4818fe7d-c97d-412f-823b-15ddc49e9c29,discussion.now,premium,,,78,12,10,,,
 fb418dbd-3c92-4f9a-89d8-90a45886ef56,foodcoma.now,premium,,,64,3,9,,,
 9023ab42-a224-4858-99c5-225bb194d929,master.now,resell,,,94,35,6,Dynadot Inc,28/12/2024 09:42,28/12/2026 09:42
@@ -1602,7 +1602,7 @@ be82a1af-776d-47c6-a81d-117586365c67,moderator.now,premium,,,74,10,9,,,
 b54beb71-9a1b-4dd3-beda-c086c1ecce5a,backward.now,premium,,,88,6,8,,,
 c5992512-e52a-4836-8f86-a9d459bc096c,apologise.now,premium,,,74,3,9,,,
 f9994761-ad8e-4199-9877-592fc4f3a69f,him.now,premium,,,74,22,3,,,
-20ff5930-f06e-4aa0-85fa-79257eb36c25,tender.now,resell,,,120,26,6,Unstoppable Domains Inc.,31/01/2025 03:32,31/01/2027 03:32
+20ff5930-f06e-4aa0-85fa-79257eb36c25,tender.now,resell,,,120,25,6,Unstoppable Domains Inc.,31/01/2025 03:32,31/01/2027 03:32
 ee11efb2-5ffa-4702-aba9-982ff66e79af,northandsouth.now,premium,,,62,2,15,,,
 42e02c86-4a6c-4adc-8730-063c8932689e,scientist.now,premium,,,80,12,9,,,
 68b5ed19-cda5-4e6f-877d-f0c3a54b9b09,stockholm.now,premium,,,90,17,9,,,
@@ -1684,7 +1684,7 @@ a1ee8c84-6f85-472c-943d-66d3c438e2ae,chiaseed.now,premium,,,74,3,9,,,
 83eac83e-723f-4f3e-9e09-517119aa1af2,lawyer.now,resell,,,64,34,6,"Spaceship, Inc.",30/09/2024 13:00,30/09/2026 13:00
 475e95cc-5b12-4c8c-bef1-065dd89870fe,drinkup.now,premium,,,76,7,8,,,
 96141bf4-ffb4-4020-a3f2-a9a813fda940,keepitreal.now,premium,,,72,8,12,,,
-e78712da-5f95-4ebc-8adf-e00872c15e28,stamp.now,resell,,,64,22,5,"Spaceship, Inc.",30/09/2024 13:00,30/09/2026 13:00
+e78712da-5f95-4ebc-8adf-e00872c15e28,stamp.now,resell,,,64,21,5,"Spaceship, Inc.",30/09/2024 13:00,30/09/2026 13:00
 d9320552-be66-4504-8477-00b0a3853ef4,memorise.now,premium,,,80,6,8,,,
 6e35737b-c7cb-4885-9955-d7e1ea33aa49,nutritious.now,available,24.99,59.99,80,6,10,name.com,,
 47877584-5125-4e99-a52f-ac73b0c1ab7f,brag.now,resell,,,114,14,4,Dynadot Inc,23/10/2025 23:38,23/10/2026 23:38
@@ -1782,7 +1782,7 @@ c49e9bf7-eb0a-4804-98e2-72027869b1e3,low.now,resell,,,78,22,3,Dynadot Inc,30/07/
 b06591b6-af70-4ec4-b713-c7c5c61ed2a5,takeonboard.now,premium,,,,1,13,,,
 066de24a-c41d-48b0-ae78-64d8f5325cb9,peaking.now,premium,,,88,3,7,,,
 4bb4ca85-37d8-4e2d-b8a1-35697724a8a2,PubMed.now,premium,,,72,6,6,,,
-19031901-c253-4027-bc8e-34ba92d62516,behind.now,premium,,,102,12,6,,,
+19031901-c253-4027-bc8e-34ba92d62516,behind.now,premium,,,102,13,6,,,
 835c7c08-aad5-4103-96ef-02475bab026d,participant.now,premium,,,84,10,11,,,
 01329f53-82e0-4156-a88c-511481b705c5,burden.now,premium,,,52,10,6,,,
 765422b6-5168-4d4a-97a5-e3524413db2f,wrongcrowd.now,premium,,,58,2,11,,,
@@ -1820,7 +1820,7 @@ b580dbbe-f7e7-4fbc-a127-a016fee85b9f,condiment.now,premium,,,95,4,9,,,
 70cce10a-310b-40b0-9319-3811b4c14c17,pure.now,resell,,,126,45,4,"Spaceship, Inc.",05/12/2024 22:28,05/12/2026 22:28
 fa2d46eb-e6f5-4811-a01d-9ef8e1f2dcb8,unbearable.now,premium,,,58,5,10,,,
 97ca4e28-503b-4a6e-ac8b-0cf4714b08e8,gearchange.now,premium,,,70,2,11,,,
-0d2683b6-1918-47a7-8383-378431e571b0,bland.now,premium,,,54,13,5,,,
+0d2683b6-1918-47a7-8383-378431e571b0,bland.now,premium,,,54,12,5,,,
 c8243f73-38db-4ed9-b099-03af9f3461c3,alaska.now,resell,,,76,34,6,Porkbun LLC,10/07/2025 22:59,10/07/2026 22:59
 ea06792c-b753-403c-86dd-44316a018bbe,confusion.now,premium,,,64,9,9,,,
 d72a4887-14be-4c9a-9c13-ca850ee5018a,bringto.now,premium,,,70,3,8,,,
@@ -1848,7 +1848,7 @@ c23fd2ef-bdd5-44ad-9297-d35a92858183,refundable.now,premium,,,84,3,10,,,
 64e2f16d-737a-4135-85b9-af8d8471aa3a,airfreshener.now,premium,,,76,3,13,,,
 c72ed26c-8950-4134-bbe4-e2fd7dc8702d,feminism.now,premium,,,68,7,8,,,
 912d1520-b640-409f-9f7c-478b36a8d6a9,finalsay.now,premium,,,72,3,9,,,
-772559f4-a85c-43a2-a0a5-ff91bf3fa5fd,colored.now,premium,,,72,9,7,,,
+772559f4-a85c-43a2-a0a5-ff91bf3fa5fd,colored.now,premium,,,72,8,7,,,
 be72d925-578c-4acb-afec-f436d75fb348,whatwasthat.now,premium,,,,3,13,,,
 5364737d-e307-478b-b7a9-0642b8135563,direct.now,resell,,,104,39,6,Dynadot Inc,17/07/2025 11:02,17/07/2026 11:02
 de2c6f4a-f643-4d00-80b6-1194cdf1eae5,easter.now,resell,,,110,19,6,"Spaceship, Inc.",06/01/2025 23:51,06/01/2027 23:51
@@ -1884,14 +1884,14 @@ e3f373e5-e5d0-43e9-8a4a-95b26a0b272d,walk.now,resell,,,80,24,4,"Spaceship, Inc."
 9e8d2bb2-2751-402d-a524-9211bdf814bc,alternate.now,resell,24.99,59.99,100,15,9,Atom.com Domains LLC,26/03/2026 03:10,26/03/2027 03:10
 c28902d3-6a76-4052-ace2-39bb69342fb7,illuminated.now,premium,,,72,9,11,,,
 69d4c466-24bb-4154-b33e-36af72aa09ae,calf.now,premium,,,74,9,4,,,
-f04f9c7a-8ce9-4bfa-86d8-18555a5d93ba,large.now,premium,,,82,24,5,,,
+f04f9c7a-8ce9-4bfa-86d8-18555a5d93ba,large.now,premium,,,82,23,5,,,
 f28d3391-6da1-45c4-a502-82c6cfacc99c,generalequilibrium.now,premium,,,66,1,19,,,
 84ce2fba-8a9a-4891-92b4-b8999e338403,payfor.now,premium,,,74,8,7,,,
 56f800b0-7463-4b20-b3f5-35fe2694ae4f,Godlovesomeone.now,premium,,,54,1,16,,,
 01d622d1-9e44-4b58-aea7-030ada62825e,oversee.now,premium,,,78,7,7,,,
 f8c496ff-a4d5-48c8-aa9d-2ed641d4bf3e,attheelbow.now,premium,,,67,1,12,,,
 d43d69d2-b439-458c-a817-9d01521e206d,fortyeight.now,premium,,,70,4,11,,,
-5fb95bc8-850d-457b-8f0c-ab541637002d,teasing.now,premium,,,72,5,7,,,
+5fb95bc8-850d-457b-8f0c-ab541637002d,teasing.now,premium,,,72,4,7,,,
 913ae0c8-b146-440b-a5a8-2e5a129a50e3,steam.now,resell,,,68,40,5,Dynadot Inc,16/01/2025 19:36,16/01/2027 19:36
 a1e3189f-3e8d-4b0d-b1b3-7a364c0c4b20,raised.now,premium,,,76,8,6,,,
 eaa3cb58-81ee-4137-b8f7-c6f6642548e6,SouthAfrica.now,premium,,,,4,12,,,
@@ -2004,7 +2004,7 @@ f0876398-8179-4152-b29c-cbc6b803f07d,inexpensive.now,premium,,,70,5,11,,,
 5975fabe-6c0a-4485-8229-5f035acacad5,unjustified.now,premium,,,54,2,11,,,
 991a4c72-3252-493e-81c5-20cea5e06098,stick.now,resell,,,80,18,5,Unstoppable Domains Inc.,12/02/2025 00:28,12/02/2027 00:28
 60f79782-123d-4317-8ee3-410914be33d9,termination.now,premium,,,,2,11,,,
-ecee97b5-aa43-406c-ba56-901ec789113d,individual.now,premium,,,92,16,10,,,
+ecee97b5-aa43-406c-ba56-901ec789113d,individual.now,premium,,,92,17,10,,,
 d0d79f4b-294a-446f-b72f-862e1ec27c0f,carrie.now,premium,,,82,9,6,,,
 12801872-8011-4a39-b5d3-46cd71ef00e3,whitemeat.now,premium,,,,2,10,,,
 8f3016e9-4e3e-4d91-a66c-49df0e37e533,adrenalinerush.now,premium,,,76,4,15,,,
@@ -2036,7 +2036,7 @@ edd653c1-0828-4468-be43-9857e79656e3,bankholiday.now,premium,,,72,3,12,,,
 fee3b088-8486-401d-945b-f7af2bc0a2f9,notwithstanding.now,premium,,,60,3,15,,,
 d6f08d1a-0944-4270-986b-d8beaf73847f,righteous.now,premium,,,91,10,9,,,
 6bf5bb3a-93dc-418b-95b0-943b7c7e9250,whizz.now,available,24.99,59.99,98,10,5,name.com,,
-2fd4b1fa-378e-40d9-85a6-f949662b3d73,animating.now,premium,,,72,3,9,,,
+2fd4b1fa-378e-40d9-85a6-f949662b3d73,animating.now,premium,,,72,4,9,,,
 c9020819-2dd2-4e1f-9ac6-dc794ebe2211,antiseptic.now,premium,,,88,4,10,,,
 fbc12e40-396a-44d7-9f40-ad5a45fc4553,disposed.now,premium,,,60,4,8,,,
 134d98ae-5723-4cd4-895f-b5f54054ceec,luncheon.now,premium,,,96,3,8,,,
@@ -2128,7 +2128,7 @@ b6e8a6df-d6db-4370-99b7-50680359efa6,bemother.now,premium,,,,1,9,,,
 8cad47fc-b711-4b0e-b61a-b4e4f39b536b,forthat.now,premium,,,54,1,8,,,
 e7e9d16d-2845-43d5-a71e-527aed0e56f9,sacrificial.now,premium,,,,2,11,,,
 bfc189ec-791c-45da-b8bb-43e101be3a3d,practicalnurse.now,premium,,,76,1,15,,,
-f7fa93e6-abf3-49e1-adf8-1697ffc8c5cb,authorised.now,premium,,,70,3,10,,,
+f7fa93e6-abf3-49e1-adf8-1697ffc8c5cb,authorised.now,premium,,,70,4,10,,,
 9302acdc-df62-45f5-a56f-1fd8f8b4ec3c,everyyear.now,premium,,,68,3,10,,,
 0826e863-7283-4b54-a98f-930dae554ad7,addicted.now,available,24.99,59.99,72,11,8,name.com,,
 fbbed0c9-0c0a-4872-810c-5cb5fe51dfde,letterofindemnity.now,premium,,,50,1,19,,,
@@ -2145,7 +2145,7 @@ add82f5e-f7a4-4f8c-98da-af8a44ed075f,dream.now,resell,,,116,45,5,Porkbun LLC,30/
 f70d8c2c-794e-4203-aeeb-04b8aaac99c4,feeling.now,resell,,,106,19,7,Dynadot Inc,15/07/2025 23:28,15/07/2027 23:28
 ab8290e5-86b1-419b-a33a-fe4d2d476d44,Nicki.now,premium,,,66,8,5,,,
 fc12cbfa-55e1-4a24-bf40-3494cfc8d849,conducting.now,premium,,,68,5,10,,,
-0f91ea0e-ee16-4145-b11e-c7bcdcd5d9d6,british.now,premium,,,98,27,7,,,
+0f91ea0e-ee16-4145-b11e-c7bcdcd5d9d6,british.now,premium,,,98,26,7,,,
 492ff017-37c6-4653-adec-0a42093d05be,rod.now,premium,,,64,21,3,,,
 a65ed4ba-a8a1-49b5-9ee1-83626f56f97e,myapologies.now,premium,,,74,1,12,,,
 d8bea76d-bfc1-4698-8468-828b5c8dbd83,tylenol.now,premium,,,78,59,7,,,
@@ -2163,7 +2163,7 @@ e810f3e3-68c0-48b2-ae3b-39c988e22b2c,holdfirm.now,premium,,,75,1,9,,,
 94fe92a4-b4f4-44e1-9420-5e0777e7b013,film.now,premium,,,102,35,4,,,
 8a82abad-4e78-41da-b5c6-04310f2d4cfe,finalyearproject.now,premium,,,70,2,18,,,
 c857bded-67e2-4677-86f1-980bb6c53d9a,respects.now,premium,,,76,4,8,,,
-4e78e490-6190-4da0-8f12-49c47aa17ea5,totally.now,resell,,,70,18,7,Dynadot Inc,03/12/2024 23:15,03/12/2026 23:15
+4e78e490-6190-4da0-8f12-49c47aa17ea5,totally.now,resell,,,70,17,7,Dynadot Inc,03/12/2024 23:15,03/12/2026 23:15
 90d65449-265a-4dc5-af44-92fd2dc4d0db,disclosed.now,available,24.99,59.99,58,6,9,name.com,,
 008549cd-d116-41df-8b5d-22fcb8388d70,destroyed.now,available,24.99,59.99,52,4,9,name.com,,
 e34fd488-d153-4247-a35c-de96d131aed9,propagated.now,premium,,,,2,10,,,
@@ -2241,7 +2241,7 @@ fded15c7-4f54-4d83-ad0d-93ca4c7ea0fe,letknow.now,premium,,,74,2,8,,,
 1a210c46-a409-42fd-9505-eb70f03384f6,greenparty.now,premium,,,64,5,11,,,
 dc6b5580-48e8-4905-993c-e22fb36f4a6a,regarded.now,premium,,,64,4,8,,,
 1f53fa7f-224b-4d8e-b925-b948c48709f2,level.now,resell,,,74,27,5,"NameCheap, Inc.",09/07/2025 05:26,09/07/2026 05:26
-a933c5cb-f6c1-4a0c-85c0-cb5ecfba33f9,keen.now,resell,,,64,27,4,Unstoppable Domains Inc.,04/12/2024 18:17,04/12/2026 18:17
+a933c5cb-f6c1-4a0c-85c0-cb5ecfba33f9,keen.now,resell,,,64,26,4,Unstoppable Domains Inc.,04/12/2024 18:17,04/12/2026 18:17
 12ff701e-7bbf-4df4-bdda-c34015a5b085,restless.now,premium,,,63,17,8,,,
 09cb434e-6dec-40fc-9753-1660dfb8b0e9,promising.now,premium,,,93,8,9,,,
 d0803239-dcae-476a-8e84-0b325c5487f9,publication.now,premium,,,,8,11,,,
@@ -2253,7 +2253,7 @@ b780bc37-ce9b-4bfc-8098-0e149432abc8,bellyshirt.now,premium,,,70,1,11,,,
 c916e0e5-ceb0-4d83-b80e-3d05af05ec65,hardfeelings.now,premium,,,62,3,13,,,
 f23116ae-2cda-40be-920a-7f581934544b,whatisthat.now,premium,,,,5,12,,,
 bf292bd1-d227-48e0-b44e-896dd5d7ba5a,attheready.now,premium,,,74,2,12,,,
-9c575cb5-b0ae-46f9-ab7a-8c6f7b6056f9,severe.now,premium,,,56,7,6,,,
+9c575cb5-b0ae-46f9-ab7a-8c6f7b6056f9,severe.now,premium,,,56,8,6,,,
 f7d4c180-6676-4fa0-bbe9-656ea805d6d9,comeintoforce.now,premium,,,70,1,15,,,
 78d91459-d349-4b42-bb09-8f0353c8df8c,registeredtrademark.now,premium,,,66,3,20,,,
 66818a34-0a42-40c5-ad86-8297655f7916,auto.now,resell,,,68,45,4,101domain GRS Limited,30/09/2024 13:02,30/09/2026 13:02
@@ -2288,7 +2288,7 @@ a30b99fe-1c8a-4169-a7c3-7badc9f256ae,canada.now,premium,,,83,5,6,,,
 598f0f36-9a6c-451b-b77a-5321db581a56,ColonelSanders.now,premium,,,72,1,15,,,
 942c1ddb-ab25-48d0-aea6-da08c3cb3749,lettherebelight.now,premium,,,64,8,18,,,
 c95628fb-f90d-4ed5-b7b2-c2c9c5c3e9b2,mum.now,premium,,,76,15,3,,,
-132dbb01-ab87-45c2-b4bf-8d9150848636,compelling.now,available,24.99,59.99,92,9,10,name.com,,
+132dbb01-ab87-45c2-b4bf-8d9150848636,compelling.now,available,24.99,59.99,92,8,10,name.com,,
 0f7ac3ac-1ee7-4aa5-bbb0-c7634ba7e517,sawtooth.now,premium,,,,7,9,,,
 5c1d98fa-709b-4da3-b354-aabc37ce8195,alittlebit.now,premium,,,64,2,12,,,
 2b97ae77-81a0-4249-9c0f-d5a34e68c369,columbia.now,premium,,,66,49,8,,,
@@ -2367,7 +2367,7 @@ e135325a-f872-43e7-a71a-496693c04cef,buried.now,premium,,,62,7,6,,,
 d5367a58-9aa4-4d1f-ab79-0b34756ff021,gala.now,resell,,,76,33,4,Dynadot Inc,02/12/2024 23:38,02/12/2026 23:38
 a3262a98-b6bb-44ed-8cac-b476a702d434,foundingfather.now,premium,,,76,2,15,,,
 7e8557c6-80d2-4a31-b47b-afa03ac93a1d,thirdperson.now,premium,,,,5,12,,,
-6b4a8431-5a2c-4541-865d-e61967217d73,numb.now,resell,,,74,9,4,"Spaceship, Inc.",20/09/2025 21:01,20/09/2026 21:01
+6b4a8431-5a2c-4541-865d-e61967217d73,numb.now,resell,,,74,10,4,"Spaceship, Inc.",20/09/2025 21:01,20/09/2026 21:01
 12814079-dbed-4102-899a-e2c1627f4031,adolescent.now,available,24.99,59.99,86,6,10,name.com,,
 06bef3bd-0f16-46f6-96f5-045d06319afd,deep.now,resell,,,72,40,4,"NameCheap, Inc.",03/12/2024 15:14,03/12/2026 15:14
 dfca6247-b104-4135-8821-efe977fe24ec,freshaspaint.now,premium,,,66,1,14,,,
@@ -2438,7 +2438,7 @@ da8cc2dd-21bb-4adc-8976-e3d26c9bc52f,hardwork.now,premium,,,72,9,9,,,
 5786e451-1b1c-454b-8c34-47d0fe18ec22,digitalcamera.now,premium,,,70,6,14,,,
 6d83e8d3-1cdb-449b-8791-a218e42239e3,pyjamaparty.now,premium,,,82,1,12,,,
 6587e71a-76af-4853-a934-971362ed5f5b,pattycase.now,premium,,,64,1,10,,,
-03365e8c-37e9-46f4-b3ac-bca618c013bd,tedious.now,premium,,,60,6,7,,,
+03365e8c-37e9-46f4-b3ac-bca618c013bd,tedious.now,premium,,,60,5,7,,,
 6fcae833-a6bb-4ff5-909a-37a216ec4a76,existing.now,premium,,,62,7,8,,,
 e9fce3bb-b308-4779-a975-570db13829dd,unfearing.now,premium,,,66,1,9,,,
 e413fe38-a652-4973-b4e0-78f2a1460692,reunion.now,premium,,,70,17,7,,,
@@ -2466,7 +2466,7 @@ fbd8680a-5e55-4ff3-9993-1d4c56bf7c96,falldown.now,premium,,,60,1,9,,,
 bdb8cdf4-abe9-47a9-b804-6f5a757d7ca5,gofor.now,premium,,,80,14,6,,,
 31fb9d4c-91c7-4333-89b3-b148d7fdde6b,theseones.now,premium,,,,1,10,,,
 183c00f3-c62f-4b0d-ae68-99817a369829,ricepaper.now,premium,,,,3,10,,,
-4514d633-2efa-4d68-9706-048fdec846bf,false.now,premium,,,64,16,5,,,
+4514d633-2efa-4d68-9706-048fdec846bf,false.now,premium,,,64,15,5,,,
 69cd3564-2c1d-4a23-863e-e53eda90e88e,kangeroo.now,premium,,,76,1,8,,,
 af0002e5-0fb6-42c8-9d1c-145ca07bd726,sleepwith.now,premium,,,,1,10,,,
 473bb454-6e43-478a-8b81-c3c4895d8bf3,gardencentre.now,premium,,,74,3,13,,,
@@ -2620,7 +2620,7 @@ c9224157-a719-4492-942f-bbfd40812cf5,pleasing.now,premium,,,96,9,8,,,
 e4b06a67-9fca-45e5-b86b-217cbbca16d7,jamesbond.now,premium,,,88,10,10,,,
 d3164fdf-2bd3-4393-a1eb-0fb18ed07927,boring.now,premium,,,62,34,6,,,
 53c6730a-5d1b-4459-bf8d-5947fe4c88ad,IndianaJones.now,premium,,,80,4,13,,,
-9a3949c2-7758-4fc3-b010-ba322be5ee50,before.now,resell,,,84,19,6,Porkbun LLC,02/10/2024 17:21,02/10/2026 17:21
+9a3949c2-7758-4fc3-b010-ba322be5ee50,before.now,resell,,,84,18,6,Porkbun LLC,02/10/2024 17:21,02/10/2026 17:21
 d56d09c9-152d-4e50-a952-060f4fee5342,adaptive.now,resell,,,76,32,8,Porkbun LLC,29/12/2024 03:13,29/12/2026 03:13
 a68a158d-b390-4d0c-8bc4-51062d793cdd,disturb.now,premium,,,82,6,7,,,
 d848cb6a-d4e2-4f93-88a2-dcc37abf2294,jeep.now,premium,,,69,66,4,,,
@@ -2796,7 +2796,7 @@ a936e10c-0474-4638-91c5-26b817f39c1e,discdrive.now,premium,,,72,1,10,,,
 7d4e2b25-b532-4b35-92fd-d369d88d36c8,labour.now,premium,,,62,12,6,,,
 87294e14-5145-425a-8b6f-b8a8f93dd82b,axiom.now,resell,,,79,44,5,Unstoppable Domains Inc.,11/12/2024 10:01,11/12/2026 10:01
 d67f2a8d-63e9-4284-903a-775fd34630ae,needy.now,available,24.99,59.99,58,10,5,name.com,,
-6e2f70a8-bcd2-4062-8ad3-f4b6f3113539,convenient.now,premium,,,78,9,10,,,
+6e2f70a8-bcd2-4062-8ad3-f4b6f3113539,convenient.now,premium,,,78,10,10,,,
 305ee529-51fb-402b-8fa2-05bffd48cb7e,ballroom.now,premium,,,96,11,8,,,
 91591970-f652-407b-ba2f-aca8b39bed57,plier.now,premium,,,70,4,5,,,
 eb09be96-5174-4fa6-8b4c-1844a02bf9c7,taiwan.now,premium,,,66,17,6,,,
@@ -2832,10 +2832,10 @@ da2a8507-4b34-451a-b76c-753dced155d7,wideopen.now,premium,,,64,7,9,,,
 bfad2d81-8c2f-4eb7-bc59-734f8de465ee,invigorate.now,resell,,,78,6,10,"Spaceship, Inc.",11/11/2024 22:52,11/11/2026 22:52
 b1c69f00-b1fd-4de5-995e-a4cf8918a8a5,hug.now,resell,,,104,24,3,Dynadot Inc,26/02/2025 00:44,26/02/2027 00:44
 64a4c7a2-00f6-45e0-b921-36a89502b417,economical.now,available,24.99,59.99,68,5,10,name.com,,
-9e7b727d-acba-4ce9-bfa3-0163687b3516,bounce.now,resell,,,98,26,6,Dynadot Inc,02/12/2024 15:22,02/12/2026 15:22
+9e7b727d-acba-4ce9-bfa3-0163687b3516,bounce.now,resell,,,98,25,6,Dynadot Inc,02/12/2024 15:22,02/12/2026 15:22
 0e837c1a-5692-454c-8055-891a5a0b3245,wanted.now,resell,,,70,23,6,Dynadot Inc,17/07/2025 06:49,17/07/2026 06:49
 62b53b6e-4871-49f7-9b86-f2190dc8639b,considered.now,available,24.99,59.99,71,10,10,name.com,,
-baec3d00-ca4f-4146-a3b1-06e4c86ef272,blacktie.now,premium,,,66,13,9,,,
+baec3d00-ca4f-4146-a3b1-06e4c86ef272,blacktie.now,premium,,,66,12,9,,,
 e7567ced-b10d-42a0-a18d-d3f87fe03319,surrogate.now,available,24.99,59.99,100,10,9,name.com,,
 22b2df3b-6480-4104-a98b-07e2136fe745,jacks.now,premium,,,54,18,5,,,
 2f66a118-108b-4f31-8bbe-dd5ce8bc8edd,Ihearyousay.now,premium,,,54,1,14,,,
@@ -2846,14 +2846,14 @@ c19ba6a5-f78d-4a1c-8a01-5f92b0a22b38,fence.now,resell,,,85,20,5,Gandi SAS,07/10/
 e2387096-6fc6-4455-becb-e263403db788,loads.now,resell,,,72,10,5,Porkbun LLC,25/02/2026 08:20,25/02/2027 08:20
 4e3d0eef-b23b-439f-935c-4271ed0e1843,showaleg.now,premium,,,,1,10,,,
 26d63842-0bd7-4b5f-b109-968f8eb2a97b,ideally.now,premium,,,68,8,7,,,
-2aa2d1f4-40a1-4614-b96b-11b36433d53f,bluish.now,premium,,,72,6,6,,,
+2aa2d1f4-40a1-4614-b96b-11b36433d53f,bluish.now,premium,,,72,5,6,,,
 c9377021-6a0e-46a4-8e59-495c3891bd8b,specific.now,premium,,,82,12,8,,,
 c1e4c955-73c5-4e8d-8ee6-5b614f153c68,photographicmemory.now,premium,,,70,4,19,,,
 a858ba25-13c9-4b6a-a382-f4800cec2836,proportion.now,premium,,,94,6,10,,,
 407814c4-d3c2-4413-b369-b4d555fd4c49,velvet.now,resell,,,112,30,6,Dynadot Inc,06/01/2025 00:47,06/01/2027 00:47
 c5bf69cd-0e65-4138-b174-4ab9d055a1ec,coefficient.now,premium,,,90,13,11,,,
 4830433b-c771-4974-82bd-7ca7100cbed7,beingas.now,premium,,,54,1,8,,,
-b9e6fec6-4dd9-4a5c-a880-26f4083cc8c8,limited.now,premium,,,82,21,7,,,
+b9e6fec6-4dd9-4a5c-a880-26f4083cc8c8,limited.now,premium,,,82,20,7,,,
 b0d486e4-db18-4c55-a087-02d721d40285,armada.now,resell,,,50,29,6,"Spaceship, Inc.",14/01/2025 10:03,14/01/2027 10:03
 fb0602e6-cc02-4857-ba98-27562e16ea05,server.now,premium,,,64,38,6,,,
 9ac8ad5d-6656-44c3-91c1-31ad97db4f19,directly.now,resell,,,70,10,8,Dynadot Inc,12/07/2025 13:52,12/07/2026 13:52
@@ -2865,9 +2865,9 @@ dd7963d0-91d3-42b3-ac89-5cf1f6bcce75,scientifically.now,premium,,,60,3,14,,,
 3f9d3c51-5d85-49de-8b7c-ca09970434a1,provide.now,resell,,,80,14,7,Dynadot Inc,26/02/2025 00:44,26/02/2027 00:44
 9aa1902d-a61e-4269-984e-c34640ffc125,requested.now,premium,,,64,5,9,,,
 831cd033-a879-404b-bf2e-8d3dd0943083,seize.now,premium,625,625,69,10,5,name.com,,
-05e5b347-5f8d-401b-bebd-3c36bc2f6447,fatal.now,premium,,,76,15,5,,,
+05e5b347-5f8d-401b-bebd-3c36bc2f6447,fatal.now,premium,,,76,16,5,,,
 351df498-08a1-42aa-8fa3-e701c8eed7e1,gforce.now,resell,,,76,12,7,"NameCheap, Inc.",01/10/2024 23:16,01/10/2026 23:16
-77afcffc-53b0-4d2a-8e4c-30d925e25460,competent.now,available,24.99,59.99,73,10,9,name.com,,
+77afcffc-53b0-4d2a-8e4c-30d925e25460,competent.now,available,24.99,59.99,73,9,9,name.com,,
 79491f6c-02f0-4d17-977d-633976470859,abouteast.now,available,49.98,,58,1,10,namecheap,,
 64239981-a155-49d8-b5f7-260ed6616663,girth.now,premium,,,88,5,5,,,
 085a1a4e-05ad-4285-8425-b5f4de7cd323,blind.now,resell,,,68,22,5,Dynadot Inc,04/07/2025 02:37,04/07/2026 02:37
@@ -2945,14 +2945,14 @@ db7add5c-78e2-4d57-9bc3-d91d0d61b6bb,Wikimedia.now,premium,,,,9,9,,,
 62700c9d-cee1-4d33-a3e6-4b17817f5aec,sinners.now,premium,,,,8,7,,,
 16d99cee-d744-49e1-ac22-f7b3f7d80265,dancehall.now,premium,,,70,6,10,,,
 f90d42f4-498d-4b04-9dc6-c1b684f40e51,makegood.now,premium,,,82,10,9,,,
-2356b303-fe62-404c-a291-cc94e70b844d,staring.now,available,24.99,59.99,64,8,7,name.com,,
+2356b303-fe62-404c-a291-cc94e70b844d,staring.now,available,24.99,59.99,64,7,7,name.com,,
 ec8253c2-f2f3-4b23-93e8-88c5fd27e91e,stranded.now,premium,,,58,9,8,,,
 b0337869-255e-4b4d-8538-dc1f04111c1e,envious.now,available,24.99,59.99,62,7,7,name.com,,
 39b1cac9-63fc-4b75-9143-dca57118aa05,somebody.now,premium,,,88,12,8,,,
 4a1fcb60-5f77-4318-82ec-6f9626c9f253,graywolf.now,premium,,,70,6,9,,,
 5a830aab-d088-4a87-9319-afb66963ec0a,carcoat.now,premium,,,76,1,8,,,
 b5926d20-c17c-4440-949b-5895755eccf0,irritate.now,premium,,,60,2,8,,,
-a6cb25b1-11bd-4f51-bcca-5204434c8ded,gas.now,resell,,,72,32,3,Dynadot Inc,11/10/2024 14:40,11/10/2026 14:40
+a6cb25b1-11bd-4f51-bcca-5204434c8ded,gas.now,resell,,,72,31,3,Dynadot Inc,11/10/2024 14:40,11/10/2026 14:40
 279139ac-7278-4004-bb1d-5ba7dad6397a,instruct.now,resell,,,106,12,8,Unstoppable Domains Inc.,02/12/2024 14:34,02/12/2027 14:34
 1f2483fe-af58-4f90-9d42-6ec574324fae,inon.now,premium,,,60,6,5,,,
 95440c0a-8d1d-4383-b332-e052b2f7621f,storyteller.now,premium,,,78,21,11,,,
@@ -2999,7 +2999,7 @@ db65012f-3ee8-458d-a2d4-1f64b266fcdd,inpublic.now,premium,,,58,4,9,,,
 9ad8da5b-1501-46cd-bc95-7be95a2a2694,lie.now,premium,,,66,13,3,,,
 71562bb5-77c8-4ddb-a158-ddf75dca3cce,jersey.now,premium,,,84,96,6,,,
 dc5c34e9-d7be-4f21-8f83-7ab8e4e74597,lane.now,resell,,,62,24,4,"Spaceship, Inc.",26/07/2025 05:34,26/07/2026 05:34
-aaadd238-4743-4651-80c1-21837c5f469a,terrible.now,premium,,,72,22,8,,,
+aaadd238-4743-4651-80c1-21837c5f469a,terrible.now,premium,,,72,23,8,,,
 c0996aa5-9b38-4338-8426-16c37337f037,gettothepoint.now,premium,,,75,3,16,,,
 88a97884-e78b-468b-8e8b-12c752ffee67,flooring.now,resell,,,70,19,8,Unstoppable Domains Inc.,09/10/2024 11:11,09/10/2026 11:11
 3ba63f03-178c-4843-a149-0a6730aa31ff,including.now,premium,,,56,3,9,,,
@@ -3056,7 +3056,7 @@ edb8bf3d-c75d-4e12-99fd-ad9863e525ac,yesterday.now,resell,,,80,14,9,"Spaceship, 
 525b168b-7787-40b8-8320-b4022574aad2,artistic.now,resell,,,78,19,8,"Spaceship, Inc.",10/01/2025 19:14,10/01/2027 19:14
 7f5d981e-5c44-452a-9338-83ab5b2d76e6,Americas.now,premium,,,60,13,8,,,
 2f07baf0-40c5-4406-aa9e-adad6f579610,undoubtedly.now,premium,,,62,3,11,,,
-41a0f9b1-4075-47dd-88e7-7341116563aa,parody.now,premium,,,92,10,6,,,
+41a0f9b1-4075-47dd-88e7-7341116563aa,parody.now,premium,,,92,11,6,,,
 a24843d3-cb21-4428-8c1f-fbd69903ab07,seed.now,resell,,,62,39,4,Unstoppable Domains Inc.,30/09/2024 13:00,30/09/2028 13:00
 d62106cd-d39a-4da2-9fbf-99567254be8c,jenny.now,premium,,,87,22,5,,,
 87642d56-3f7b-4894-b0f6-1e18309232e7,ivy.now,resell,,,74,33,3,"Spaceship, Inc.",26/07/2025 09:09,26/07/2026 09:09
@@ -3168,13 +3168,13 @@ e683f8be-3145-4e50-a3bc-7a3642ef8038,congregation.now,premium,,,70,5,12,,,
 10859007-250b-45af-bd6d-d318a1b6084b,absolute.now,resell,,,80,31,8,"Spaceship, Inc.",09/01/2025 02:18,09/01/2027 02:18
 473cf290-1ada-4be2-9fa9-a57577e7364f,fork.now,resell,,,94,23,4,Dynadot Inc,03/10/2024 01:47,03/10/2026 01:47
 afaf8807-7691-4962-b75d-91bdec9ef745,disadvantage.now,premium,,,80,4,12,,,
-4d7342d3-b075-4b6f-9f1a-6919960fe4bb,augratin.now,premium,,,70,2,9,,,
+4d7342d3-b075-4b6f-9f1a-6919960fe4bb,augratin.now,premium,,,70,1,9,,,
 d96d5580-4d52-40f4-b00b-9f2d887bbcda,fog.now,premium,,,82,20,3,,,
 1f9dad9c-6f7d-4356-a65f-1a03a8300ef2,PuertoRico.now,premium,,,,5,11,,,
 d73c3fa8-31f1-4252-9e51-0c32338fc6b0,alphabetic.now,available,24.99,59.99,66,3,10,name.com,,
 e033aa13-bc57-4591-b109-829380506baf,helping.now,resell,,,78,14,7,Dynadot Inc,03/12/2024 10:01,03/12/2026 10:01
 56a7a30f-743d-41ac-850e-6906f8f4b1be,philip.now,premium,,,72,21,6,,,
-5b690024-e1db-44b7-88db-e6a6af7f1479,famous.now,resell,,,98,24,6,Dynadot Inc,18/01/2025 22:20,18/01/2027 22:20
+5b690024-e1db-44b7-88db-e6a6af7f1479,famous.now,resell,,,98,23,6,Dynadot Inc,18/01/2025 22:20,18/01/2027 22:20
 58be658c-d593-4a9b-b234-95aa234c1bbe,seem.now,premium,,,78,8,4,,,
 d97bf958-f706-4f01-8c50-dcb7063e1a42,blowout.now,premium,,,80,8,7,,,
 fb17881f-7b8a-4e49-9541-fc69303145c8,dismissal.now,premium,,,66,4,9,,,
@@ -3254,7 +3254,7 @@ ce5b38a1-2f0c-4202-874e-e776e15b9020,european.now,premium,,,80,23,8,,,
 b6872a2e-3da0-4d62-b18a-07c32a2f8b1e,overall.now,premium,,,96,11,7,,,
 10031ef9-70ce-439b-8843-1959a86ee29d,insulting.now,available,24.99,59.99,70,3,9,name.com,,
 677071c4-ac2a-41b1-b814-09978d898a95,terms.now,resell,,,78,20,5,Dynadot Inc,12/07/2025 09:50,12/07/2026 09:50
-464a6c21-82c0-4dc1-84c2-1c1ab6b97576,awaken.now,resell,,,76,27,6,Porkbun LLC,04/10/2024 11:35,04/10/2026 11:35
+464a6c21-82c0-4dc1-84c2-1c1ab6b97576,awaken.now,resell,,,76,26,6,Porkbun LLC,04/10/2024 11:35,04/10/2026 11:35
 4493a3a9-39ff-449c-b47d-f3a72cd76c97,cleverly.now,resell,,,69,8,8,Porkbun LLC,03/12/2025 21:42,03/12/2026 21:42
 0caa8337-3089-4b54-8b48-4af8f1fca70b,size.now,resell,,,96,16,4,"NameCheap, Inc.",13/07/2025 21:20,13/07/2026 21:20
 a402be31-1fbc-4271-8c8d-25996f65987c,springsnow.now,premium,,,,2,11,,,
@@ -3317,7 +3317,7 @@ e9a6e389-3777-4c04-a95d-247ad70bd2a2,detour.now,resell,,,90,15,6,"Spaceship, Inc
 c67fdb1c-a284-47a4-9601-13218e310c21,motherfuckah.now,premium,,,62,1,12,,,
 b862919c-724f-46c3-8fc9-c10288b3a2e0,standup.now,resell,,,,17,8,Porkbun LLC,05/10/2024 14:27,05/10/2026 14:27
 f948ba1d-837b-4057-b15d-fe5f51a3f9bf,machinery.now,resell,,,66,16,9,"Spaceship, Inc.",14/01/2025 10:03,14/01/2027 10:03
-9454ef85-7ac0-4771-80c9-6335a9b6459e,blurry.now,premium,,,62,9,6,,,
+9454ef85-7ac0-4771-80c9-6335a9b6459e,blurry.now,premium,,,62,10,6,,,
 eacdb972-6476-45c8-91ad-6205ddf92ed0,medium.now,resell,,,98,24,6,Gandi SAS,07/03/2025 15:54,07/03/2027 15:54
 26afb903-af1d-4dd8-a77e-14e33e8575c7,blob.now,resell,,,60,24,4,Dynadot Inc,23/10/2025 23:38,23/10/2026 23:38
 7f12be3e-57af-4516-9707-59730ba1c96f,inspired.now,resell,,,74,31,8,Unstoppable Domains Inc.,05/11/2024 12:06,05/11/2026 12:06
@@ -3328,7 +3328,7 @@ eacdb972-6476-45c8-91ad-6205ddf92ed0,medium.now,resell,,,98,24,6,Gandi SAS,07/03
 d2a5fb3f-f285-4e01-8f8b-ab7f635b9951,gutfeeling.now,premium,,,70,8,11,,,
 8673df99-2184-4c4a-b2db-538c68719d33,goldenopportunity.now,premium,,,80,3,18,,,
 dd7ca8d7-e5aa-4549-b58e-5e04aab7e0a9,warrant.now,resell,,,90,9,7,Porkbun LLC,30/12/2025 12:54,30/12/2026 12:54
-c49c49d9-8557-4bce-a6d1-2be52694521e,bouncing.now,premium,,,90,7,8,,,
+c49c49d9-8557-4bce-a6d1-2be52694521e,bouncing.now,premium,,,90,6,8,,,
 d0fba7ec-f601-4e14-b4ae-40d31d204864,sheet.now,resell,,,64,18,5,Porkbun LLC,30/09/2024 19:02,30/09/2026 19:02
 765e07c9-40b4-4f0b-925c-9f740e39e7cf,closeofplay.now,premium,,,70,1,13,,,
 25e31d5e-7638-4556-9ba5-10538d228d93,did.now,resell,,,78,23,3,Dynadot Inc,28/10/2025 19:35,28/10/2026 19:35
@@ -3356,7 +3356,7 @@ b525db7f-e36f-4f92-b2d1-4dc2ab232cf7,promoter.now,premium,,,72,10,8,,,
 b33db025-3888-4477-a0a5-31e105efe3da,campaigning.now,premium,,,68,5,11,,,
 ed6d3c6e-51cf-4c08-8906-20387943b678,grandpa.now,premium,,,78,10,7,,,
 d69f1140-02a5-4063-bf8b-869e59846ae7,never.now,premium,,,76,28,5,,,
-01b6d0e5-3075-480f-94d8-4028cfeb28db,ago.now,premium,125,125,66,18,3,name.com,,
+01b6d0e5-3075-480f-94d8-4028cfeb28db,ago.now,premium,125,125,66,19,3,name.com,,
 2d8aa35a-5caf-4532-89e7-e9c6cc4eceee,themself.now,premium,,,,2,8,,,
 4030c4c2-382d-4fce-b3af-47217a878487,grandad.now,premium,,,80,3,7,,,
 9027dfb0-5114-4772-a9aa-976685543044,stern.now,resell,,,56,24,5,Dynadot Inc,30/11/2025 14:22,30/11/2026 14:22
@@ -3571,7 +3571,7 @@ c37fe6d8-825c-464f-bd51-da5c360371f9,mothafukka.now,premium,,,62,1,10,,,
 23df14b0-3cba-4761-b8c2-a56bc4af6104,TempleCity.now,premium,,,,2,11,,,
 0ae9631e-13d9-4704-88de-7cf2484da62c,aseptic.now,premium,,,72,5,7,,,
 de0187c0-3f97-4e55-a23d-faf3682f931f,coherently.now,premium,,,62,3,10,,,
-a54091b1-583b-4ef6-91f5-02352386e06a,prejudice.now,premium,,,86,3,9,,,
+a54091b1-583b-4ef6-91f5-02352386e06a,prejudice.now,premium,,,86,4,9,,,
 9849f921-a92e-4099-908c-3b4613051f51,possible.now,resell,,,90,25,8,Porkbun LLC,10/07/2025 13:08,10/07/2026 13:08
 026dcab4-7a6e-408d-8928-c50700c5a849,grandkid.now,premium,,,80,1,8,,,
 173501df-4863-43c8-b12c-3ebfdf355786,getreligion.now,premium,,,73,1,12,,,
@@ -3624,12 +3624,12 @@ cb1244f6-2ee9-41c5-8080-df31d4f0201e,WWWpage.now,premium,,,76,1,8,,,
 ffecebeb-7e1e-4fc7-9355-d526508f59b7,defined.now,resell,,,68,21,7,Dynadot Inc,30/11/2025 15:14,30/11/2026 15:14
 cc4b23eb-b217-4f14-a322-4ed5159acad8,both.now,premium,,,80,12,4,,,
 3c03be1e-81e1-4605-8ce2-e0b76c78a56d,term.now,resell,,,112,16,4,Dynadot Inc,12/07/2025 09:50,12/07/2026 09:50
-df09e230-901e-4504-a877-f95b34707217,bothered.now,premium,,,64,4,8,,,
+df09e230-901e-4504-a877-f95b34707217,bothered.now,premium,,,64,3,8,,,
 cb61999b-799b-4dff-985d-5a4e67eb1786,borderon.now,premium,,,66,1,9,,,
 b2fb661d-3efb-4c16-866d-d0b5821aed58,lafayette.now,premium,,,60,21,9,,,
 46a86655-532d-453e-96bb-92681dc7533e,getoutofhere.now,premium,,,94,1,15,,,
 fa848831-aff8-4c14-85aa-01745256add9,crying.now,available,24.99,59.99,82,9,6,name.com,,
-b015f34e-1180-4006-b9b8-2abaa7a3a020,blurred.now,premium,,,62,10,7,,,
+b015f34e-1180-4006-b9b8-2abaa7a3a020,blurred.now,premium,,,62,9,7,,,
 93ed806f-b5e7-451a-9e7c-1c97fe8b79d8,notify.now,resell,,,74,28,6,"Spaceship, Inc.",30/09/2024 13:00,30/09/2026 13:00
 201ebf58-c322-4212-9918-74c384c4327a,pity.now,available,24.99,59.99,112,7,4,name.com,,
 55e4485a-5080-4f30-8209-2b8088b42ac7,receipts.now,premium,,,68,10,8,,,
@@ -3687,7 +3687,7 @@ c3c4e095-3fb3-4a28-998c-772fb38d416c,hardcoded.now,premium,,,66,5,10,,,
 0ea9898c-0437-41da-a9e2-b2b0004f3426,box.now,resell,,,68,76,3,Unstoppable Domains Inc.,03/10/2024 19:36,03/10/2026 19:36
 e3e5ad2e-1c5c-417e-b37f-55a33dccb456,separation.now,premium,,,68,7,10,,,
 41eb35ee-8387-40e5-a37f-44e0a0ba9d90,lots.now,resell,,,70,10,4,"NameCheap, Inc.",11/07/2025 05:27,11/07/2026 05:27
-387d0a04-d9c3-4d3c-8e21-4b408490bd5a,comparable.now,available,24.99,59.99,87,6,10,name.com,,
+387d0a04-d9c3-4d3c-8e21-4b408490bd5a,comparable.now,available,24.99,59.99,87,5,10,name.com,,
 5b88540a-d764-4e55-84f7-db6dbe5433d6,alamode.now,available,24.99,59.99,96,13,9,name.com,,
 019521d0-9e6c-43f5-adc7-dae4a0db9843,adieu.now,premium,,,90,8,5,,,
 57c6ede6-e96d-4fef-9957-dcdd1229c9f1,glancing.now,premium,,,78,3,8,,,
@@ -3697,7 +3697,7 @@ ccb3d128-0a74-4893-b479-984447f492a6,organized.now,resell,,,74,13,9,Unstoppable 
 723cf51e-bf5b-48b2-af87-4617399dfdd6,matte.now,premium,,,90,16,5,,,
 bb18f2b9-534a-4c86-9bdd-c43eba6723e8,nation.now,resell,,,78,26,6,"Spaceship, Inc.",12/07/2025 17:02,12/07/2026 17:02
 6b26fccc-232b-490d-b1af-7b409519bc87,recorded.now,premium,,,66,9,8,,,
-0ac984ee-1c76-4e86-9250-e23adc2b150e,damn.now,resell,,,140,24,4,Dynadot Inc,11/07/2025 18:22,11/07/2026 18:22
+0ac984ee-1c76-4e86-9250-e23adc2b150e,damn.now,resell,,,140,23,4,Dynadot Inc,11/07/2025 18:22,11/07/2026 18:22
 b2692748-fafb-4dbb-a75c-b9f71b187806,break.now,resell,,,82,20,5,Dynadot Inc,26/03/2026 01:13,26/03/2027 01:13
 bd3940b1-a28b-4766-8ad2-e00b10a3e598,resounding.now,premium,,,88,5,10,,,
 e865682e-cb09-4e64-8e27-bab4317cce9a,havethefirstidea.now,premium,,,62,1,19,,,
@@ -3852,7 +3852,7 @@ a5b9c387-26b7-4af7-baa2-0d423a63deee,statutoryrape.now,premium,,,,1,14,,,
 e251a592-a547-41a5-bcf8-1d76174c7f72,overjoy.now,premium,,,102,4,7,,,
 6833372b-b469-43e9-83c9-0b4e7e77eb5f,backtosquareone.now,premium,,,70,1,18,,,
 47160206-13e6-4545-aa89-ac2502c6dfda,dominated.now,available,24.99,59.99,56,3,9,name.com,,
-551ff13d-4c21-4f73-9d27-fa4c8608c32e,binding.now,premium,,,92,9,7,,,
+551ff13d-4c21-4f73-9d27-fa4c8608c32e,binding.now,premium,,,92,8,7,,,
 674b22d0-e647-4086-b6ab-96cf779465b2,streetnumber.now,premium,,,66,1,13,,,
 52defa22-cf03-4f67-b5b7-96c32ce28dc2,attraction.now,resell,,,76,13,10,Dynadot Inc,12/07/2025 00:13,12/07/2026 00:13
 e62d84a6-f671-4c8b-a1a3-efab0f1cdc1f,coat.now,premium,,,100,11,4,,,
@@ -3912,7 +3912,7 @@ dee90dca-2250-48f3-b7d5-53126ba65e3d,paperplate.now,premium,,,70,2,11,,,
 11bff3b8-b79a-48ad-8788-3bdca1839693,scientificname.now,premium,,,66,1,15,,,
 992f036f-ca7c-4c83-9e00-784edfd87f23,windows.now,resell,,,58,67,7,Porkbun LLC,05/12/2024 01:42,05/12/2026 01:42
 8723644b-19a4-4d53-b37a-e627c924fff9,amuse.now,resell,,,82,13,5,Dynadot Inc,16/01/2025 22:45,16/01/2027 22:45
-dafbc9f5-8dd8-474b-8ee5-834c6c9d4c07,pack.now,resell,,,82,32,4,Dynadot Inc,13/01/2026 16:17,13/01/2027 16:17
+dafbc9f5-8dd8-474b-8ee5-834c6c9d4c07,pack.now,resell,,,82,30,4,Dynadot Inc,13/01/2026 16:17,13/01/2027 16:17
 58b0be4c-1d55-4f57-b7b4-c0e49c2901da,hidden.now,resell,,,65,35,6,Dynadot Inc,03/12/2024 07:52,03/12/2026 07:52
 77eb7f1a-bbc6-4d2e-928c-acd8c453d1bc,band.now,premium,,,66,26,4,,,
 04c6b3b6-836d-495d-ab59-d7d8b28179d2,balmy.now,premium,,,72,8,5,,,
@@ -3944,7 +3944,7 @@ d23c2731-d6a4-4e34-855a-72f5c720ba0e,top.now,resell,,,82,48,3,"Spaceship, Inc.",
 3105b8ac-1de0-4122-aef5-2163c1f85e27,hashtag.now,resell,,,100,31,7,"Spaceship, Inc.",14/08/2025 20:24,14/08/2026 20:24
 d8327867-abcb-4da0-a15a-a3b334bf85be,jamesdean.now,premium,,,85,6,10,,,
 cf9c2e4e-6b7d-4922-9a4e-5325a852dd64,outofaction.now,premium,,,,1,13,,,
-fa0e765f-a29f-499d-911b-deb429563810,completed.now,available,24.99,59.99,74,7,9,name.com,,
+fa0e765f-a29f-499d-911b-deb429563810,completed.now,available,24.99,59.99,74,6,9,name.com,,
 62e94684-8a7d-4634-95e8-3ea4c056f59f,producing.now,premium,,,,4,9,,,
 858da920-38c4-4613-a9e6-03ecd9952e4b,disagree.now,premium,,,68,6,8,,,
 d04d29f3-f0a6-46fe-9b07-72945c05ca7a,ounce.now,premium,,,74,10,5,,,
@@ -3961,9 +3961,9 @@ faa047ae-1824-47f3-a5d4-ae4d6b7e5680,tshirt.now,premium,,,80,24,7,,,
 a4c1df68-298c-4f4c-bbd7-39087ea22f3f,viewer.now,resell,,,68,12,6,Dynadot Inc,11/07/2025 13:20,11/07/2026 13:20
 94a48f01-d187-4a3a-8f73-b094a06ac280,gasstation.now,premium,,,68,8,11,,,
 b4ad3ccb-248a-4104-a23b-b317a2baa142,hairwax.now,premium,,,72,1,8,,,
-bc3a9169-5b90-47e0-960f-16a4d6bbdbaa,august.now,resell,,,72,31,6,101domain GRS Limited,11/08/2025 15:30,11/08/2026 15:30
+bc3a9169-5b90-47e0-960f-16a4d6bbdbaa,august.now,resell,,,72,32,6,101domain GRS Limited,11/08/2025 15:30,11/08/2026 15:30
 06e305fc-8de2-40db-a11e-4c79a51b0398,youguys.now,premium,,,,2,8,,,
-82eee77b-86a7-4dea-a91f-5a9bc61c68ea,hiding.now,available,24.99,59.99,70,5,6,name.com,,
+82eee77b-86a7-4dea-a91f-5a9bc61c68ea,hiding.now,available,24.99,59.99,70,6,6,name.com,,
 566e6af0-5a6a-4c5e-8369-4445acffeee0,lamp.now,resell,,,62,21,4,"Spaceship, Inc.",26/07/2025 05:34,26/07/2026 05:34
 2658727e-cbf9-4a0a-abcb-001978068e18,genial.now,resell,,,80,18,6,"Spaceship, Inc.",19/11/2025 13:06,19/11/2026 13:06
 f494fae2-eb9a-43bf-adfe-99a8f5017996,childlabor.now,premium,,,52,3,11,,,
@@ -3975,13 +3975,13 @@ de808a06-bb1e-445b-bb80-a2b1303f1edf,perceiving.now,premium,,,70,2,10,,,
 1dd9da00-ef3f-4c58-945e-a2d9123960e6,retarded.now,resell,,,48,18,8,Gandi SAS,31/12/2024 01:17,31/12/2026 01:17
 808d45ca-a452-4b1c-a598-bebc2826ef83,coverart.now,premium,,,74,5,9,,,
 b7f5a83c-d6ec-4438-84ee-7dddcc8fe5c6,howtheturntables.now,premium,,,48,1,18,,,
-e92302c3-316c-4619-b299-247800d11f11,aujus.now,premium,,,68,3,6,,,
+e92302c3-316c-4619-b299-247800d11f11,aujus.now,premium,,,68,2,6,,,
 e2e6655d-eeac-4c38-b560-6b45943f27bc,leavethedooropen.now,premium,,,80,1,19,,,
 f65deabe-5126-481e-b422-d37f9dba6fe0,receptionchair.now,premium,,,68,1,15,,,
 5a8296fe-999f-4907-8203-be1ad43bdb3e,wind.now,resell,,,76,24,4,Dynadot Inc,16/04/2025 15:25,16/04/2027 15:25
 602e96de-c561-4c99-961a-68d630600e82,penetration.now,premium,,,,4,11,,,
 08b58699-1c59-48f5-8375-c5fcbab451d7,confetti.now,resell,,,81,16,8,"NameCheap, Inc.",05/10/2024 14:29,05/10/2026 14:29
-fe329e28-e968-42cf-8e61-7e76c7aa6ffa,mandatory.now,available,24.99,59.99,84,7,9,name.com,,
+fe329e28-e968-42cf-8e61-7e76c7aa6ffa,mandatory.now,available,24.99,59.99,84,8,9,name.com,,
 1680b034-57fa-4a46-84a0-9aa157c046c1,childmolestation.now,premium,,,52,1,17,,,
 eff9e6a4-7383-40a5-946c-3c32591bc487,Bflat.now,premium,,,68,4,6,,,
 494420b4-8b12-4a5c-a2b8-bc87c405a6fa,purple.now,resell,,,62,41,6,"NameCheap, Inc.",25/04/2025 08:13,25/04/2027 08:13
@@ -4010,7 +4010,7 @@ caf0c597-b273-418f-b66d-a312d7fa2b01,public.now,resell,,,100,38,6,Porkbun LLC,06
 f14183a5-6c80-449e-aef6-074e77757cb6,televisionprogram.now,premium,,,70,1,18,,,
 e2750cc2-42a3-4e51-a809-003b61e207b2,tel.now,premium,,,60,17,3,,,
 115cee04-cd80-4f26-a86f-324820e021a1,unadvisable.now,premium,,,52,1,11,,,
-646e88dd-a53f-479a-8fca-3f4d8e7054de,bright.now,resell,,,74,39,6,Dynadot Inc,01/10/2024 02:07,01/10/2026 02:07
+646e88dd-a53f-479a-8fca-3f4d8e7054de,bright.now,resell,,,74,38,6,Dynadot Inc,01/10/2024 02:07,01/10/2026 02:07
 b1c277dc-514b-4b4e-b899-b0d5feb36620,certainly.now,premium,,,66,7,9,,,
 3a0681a2-05d8-4c66-9bc2-082b6249dfe8,acronym.now,premium,,,94,16,7,,,
 aa975e6f-4b3f-4544-832c-483c06c1d0ce,secondly.now,premium,,,54,4,8,,,
@@ -4028,7 +4028,7 @@ b04e1383-e3d9-4a27-84a9-da2df17f3f62,orso.now,available,24.99,59.99,62,10,5,name
 aab60c3f-1c38-4705-bdb3-52ed3950fa68,freshasarose.now,premium,,,66,1,15,,,
 965cdf25-409c-45b4-acdf-e54d0401e885,vigor.now,resell,,,80,18,5,Unstoppable Domains Inc.,07/01/2025 00:24,07/01/2027 00:24
 882d9243-5d88-45fc-82e4-8793468659db,Iwantmymoneyback.now,premium,,,54,2,20,,,
-97ee87a8-9c1a-4ae0-970c-e5d19c10b8c9,whatever.now,premium,,,116,28,8,,,
+97ee87a8-9c1a-4ae0-970c-e5d19c10b8c9,whatever.now,premium,,,116,29,8,,,
 ea2e4180-8195-4f26-8071-93be563f4707,turmeric.now,premium,,,72,9,8,,,
 a63686a2-10c4-4622-a7d9-998df8edb739,disney.now,premium,,,82,24,6,,,
 01098b11-b62f-4910-9da5-b6cc1aefab7d,gym.now,premium,,,105,26,3,,,
@@ -4097,9 +4097,9 @@ eff5d9a2-4241-4cb6-851e-a00d290c3987,desert.now,resell,,,104,22,6,Dynadot Inc,18
 ccf68140-f478-4f25-839f-5a74ec228137,shelf.now,resell,,,74,19,5,Unstoppable Domains Inc.,15/02/2025 02:15,15/02/2027 02:15
 bd9d7fcd-f5aa-49b2-b62a-684d79d7e81f,putitabout.now,premium,,,,1,12,,,
 2307ea53-dc69-4acf-bfd0-a8251c76a1f4,kingdom.now,resell,,,74,40,7,Dynadot Inc,08/02/2025 01:11,08/02/2027 01:11
-9da53750-d913-437d-8a48-4ddd58a43b78,binary.now,resell,,,96,36,6,"Spaceship, Inc.",09/01/2025 20:14,09/01/2027 20:14
+9da53750-d913-437d-8a48-4ddd58a43b78,binary.now,resell,,,96,35,6,"Spaceship, Inc.",09/01/2025 20:14,09/01/2027 20:14
 f7b94b4e-3508-4e40-8a91-3106540a3d90,liveblog.now,premium,,,90,4,9,,,
-353f3e4b-1671-41a9-b175-6ee72f294b9d,blonde.now,resell,,,110,15,6,Porkbun LLC,01/12/2025 20:11,01/12/2026 20:11
+353f3e4b-1671-41a9-b175-6ee72f294b9d,blonde.now,resell,,,110,16,6,Porkbun LLC,01/12/2025 20:11,01/12/2026 20:11
 2a952526-0290-4730-bb53-dab2f827025d,pandabear.now,premium,,,80,5,10,,,
 22a078d5-31e0-4afe-bdbd-82c43365b4f9,northern.now,premium,,,96,23,8,,,
 e80cf302-f404-42a0-904a-6ccab042dec5,Ibegyourpardon.now,premium,,,54,2,17,,,
@@ -4114,14 +4114,14 @@ d01f36f8-958e-4d30-b4f9-bc7da4c0a510,latitude.now,resell,,,74,26,8,"Spaceship, I
 3529013f-fea5-4a75-b2a7-8a20999186ef,roast.now,resell,,,107,20,5,Porkbun LLC,14/10/2024 04:50,14/10/2026 04:50
 228fbc54-e1bd-4f83-89ea-6ad8eb419324,bridges.now,premium,,,74,23,7,,,
 e58c25ce-7e1b-4847-8e49-33ad64738bd9,hence.now,premium,,,64,9,5,,,
-b9e5cfc5-cadf-4d01-a98c-8b1e1a1dac5e,armed.now,resell,,,70,11,5,Dynadot Inc,25/07/2025 17:56,25/07/2026 17:56
-ae9d6608-8a50-4958-b3cc-8153b6b7b8b2,futile.now,premium,,,60,6,6,,,
-ba8aefe9-75a3-48df-a200-8b829052b2e0,weakened.now,premium,,,52,2,8,,,
+b9e5cfc5-cadf-4d01-a98c-8b1e1a1dac5e,armed.now,resell,,,70,10,5,Dynadot Inc,25/07/2025 17:56,25/07/2026 17:56
+ae9d6608-8a50-4958-b3cc-8153b6b7b8b2,futile.now,premium,,,60,5,6,,,
+ba8aefe9-75a3-48df-a200-8b829052b2e0,weakened.now,premium,,,52,1,8,,,
 2137de61-0e8a-4f4c-9088-96a915152e53,inthethickofit.now,premium,,,62,1,18,,,
 c8160156-0543-4f8f-a12f-f959bcaccd44,Philippines.now,premium,,,,5,11,,,
 fbc2c659-d3f2-4c7f-86c2-55d469954651,IsaidwhatIsaid.now,premium,,,54,2,18,,,
 eedd60d9-f563-4b81-95dc-289bb6f440bf,atatime.now,premium,,,61,2,9,,,
-2abb61e4-7938-47b8-821f-6f36dfbd486d,heavy.now,resell,,,122,24,5,Dynadot Inc,15/07/2025 23:28,15/07/2027 23:28
+2abb61e4-7938-47b8-821f-6f36dfbd486d,heavy.now,resell,,,122,23,5,Dynadot Inc,15/07/2025 23:28,15/07/2027 23:28
 718d41df-0806-472e-844c-0f40f64e68be,candidate.now,premium,,,99,16,9,,,
 a426fc1a-9635-4922-903c-196b2b31153c,cherryblossom.now,premium,,,82,10,14,,,
 0cf87442-63cc-4a4f-b39f-0cc0b4b230e4,deliver.now,premium,,,90,32,7,,,
@@ -4167,7 +4167,7 @@ d494da02-93fb-4b97-9fd3-930e6f702979,springs.now,premium,,,,2,11,,,
 980146ab-9662-49b3-bd17-11ff5f39c5d5,quick.now,resell,,,72,41,5,"NameCheap, Inc.",16/11/2024 14:19,16/11/2026 14:19
 5a948ced-33d6-4f8e-b67d-f0c5b7e1e64e,compete.now,resell,,,85,15,7,Dynadot Inc,02/10/2024 18:32,02/10/2026 18:32
 b42b7b5a-1594-4734-aefa-db7a9508df0f,nowfor.now,premium,,,,2,7,,,
-a5698bea-f0d0-4226-9c5c-eb110aa0e58e,bob.now,resell,,,78,43,3,"NameCheap, Inc.",27/10/2024 22:34,27/10/2026 22:34
+a5698bea-f0d0-4226-9c5c-eb110aa0e58e,bob.now,resell,,,78,41,3,"NameCheap, Inc.",27/10/2024 22:34,27/10/2026 22:34
 850967a2-04ba-42e2-9346-f3272524f484,wearoff.now,premium,,,,1,8,,,
 e2f0decd-cf21-47db-be12-e71e51f28107,wound.now,premium,,,88,14,5,,,
 5ccb1595-f273-4fac-8122-c05395fbc937,side.now,resell,,,78,25,4,"Spaceship, Inc.",22/08/2025 08:47,22/08/2026 08:47
@@ -4181,7 +4181,7 @@ c7b62ab5-ef09-499c-8b83-83cd7f3ece85,hardcider.now,premium,,,76,3,10,,,
 067c1115-3355-457c-a481-1c32df7b2177,inhibit.now,premium,,,68,4,7,,,
 29becacf-6a6a-405a-a24e-1e25001a6d7d,hannukah.now,premium,,,68,2,8,,,
 2cba8dd5-e7a8-465d-ade8-102f1f8571bd,pizzeria.now,premium,,,82,9,8,,,
-29d016e7-97f7-4b7c-a37f-f351629f0347,ecological.now,premium,,,74,12,10,,,
+29d016e7-97f7-4b7c-a37f-f351629f0347,ecological.now,premium,,,74,11,10,,,
 a773e6f1-b408-4262-92bf-41739c139529,Jewnose.now,premium,,,62,1,8,,,
 ed857fc8-c0e8-42b1-bbe4-414a9c029ee3,absorbed.now,available,24.99,59.99,72,4,8,name.com,,
 685853c1-4941-4cc3-852f-d7126baaea52,poisoning.now,premium,,,56,3,9,,,
@@ -4228,7 +4228,7 @@ a72043bd-0b54-43dd-8946-6b57b64b497c,mini.now,resell,,,70,22,4,Gandi SAS,18/11/2
 3f7bb8eb-5136-4f1e-a05e-7bf862efc8d7,takeaknee.now,premium,,,,2,11,,,
 4ff79967-568e-4923-82bb-75e37d32b784,entitled.now,premium,,,66,8,8,,,
 4a368677-05ea-4fe8-9b49-953585a9d0ae,bedlinen.now,premium,,,74,2,9,,,
-350d5cc5-5dff-4050-abeb-481e1ca7e752,asteroid.now,resell,,,66,18,8,Dynadot Inc,03/12/2024 08:32,03/12/2026 08:32
+350d5cc5-5dff-4050-abeb-481e1ca7e752,asteroid.now,resell,,,66,19,8,Dynadot Inc,03/12/2024 08:32,03/12/2026 08:32
 29495687-ae40-4eb8-9ce8-19c44b718eb4,bendystraw.now,premium,,,76,2,11,,,
 981c22fe-99cf-4dae-a8c0-b30bdba7c1fc,owens.now,premium,,,69,14,5,,,
 1ea7c8e0-3ee9-4ef2-8ba3-b5828bf32655,affiliation.now,premium,,,74,6,11,,,
@@ -4325,7 +4325,7 @@ a2ff9853-eb57-4e8d-a9dd-f59cb73d8481,unusual.now,resell,,,84,18,7,"Spaceship, In
 ec17acad-e0f4-419a-abde-9a8e9152f9e9,carefully.now,premium,,,61,8,9,,,
 2a89a3ad-1ddd-4918-8c88-80c8fb1f58fb,establishmentgrowth.now,premium,,,64,1,20,,,
 805f15aa-7c58-47e4-8b6f-aa045b84736b,generalpopulation.now,premium,,,68,1,18,,,
-6add40c9-c9a0-42e3-b899-2e3674a95eb3,conclusion.now,premium,,,78,9,10,,,
+6add40c9-c9a0-42e3-b899-2e3674a95eb3,conclusion.now,premium,,,78,10,10,,,
 f6020a27-258f-46dd-a660-214115df0054,experiment.now,resell,,,94,18,10,Unstoppable Domains Inc.,29/11/2024 05:50,29/11/2026 05:50
 32db6207-fad4-455a-aadd-361e1b60aa2e,firefighter.now,premium,,,78,16,11,,,
 3815851e-584f-41c0-8afb-9bedbe4d6ff4,generalpractice.now,premium,,,72,4,16,,,
@@ -4358,7 +4358,7 @@ c72e2595-f460-4b99-9680-d0045e85e80b,estado.now,premium,,,76,7,6,,,
 f3cbc995-c934-49bb-ba65-616f611d3f38,truly.now,available,49.98,,76,19,5,namecheap,,
 4b5f936b-aa0f-497d-8bd3-302c5fcf982c,impress.now,resell,,,104,23,7,Dynadot Inc,29/11/2024 20:41,29/11/2026 20:41
 0c96870c-c2f7-4c52-805d-3ebcd0e19a5c,humourous.now,premium,,,70,1,9,,,
-43bb1d6f-dae5-4cdc-b63e-a70f06440839,average.now,premium,,,112,16,7,,,
+43bb1d6f-dae5-4cdc-b63e-a70f06440839,average.now,premium,,,112,15,7,,,
 8183a477-d422-439d-8823-298ba723565e,surprisingly.now,premium,,,60,3,12,,,
 ea01636d-9791-4639-95ea-4204b2a83124,vary.now,resell,,,90,7,4,Dynadot Inc,03/06/2025 08:17,03/06/2026 08:17
 80861863-50ef-48f3-b508-0e6e7ff12845,gently.now,resell,,,70,10,6,"Spaceship, Inc.",11/07/2025 17:17,11/07/2026 17:17
@@ -4406,7 +4406,7 @@ e4dc0c95-3dba-45ee-ad1d-8022bce06667,province.now,premium,,,58,10,8,,,
 35129942-de50-40fb-a020-b9832ba27b7f,toneofvoice.now,premium,,,,3,13,,,
 a16173e7-025d-4155-8066-e6fa9a22d6b4,tickledpink.now,premium,,,,3,12,,,
 4f060082-555d-41e1-ac17-5d0179daa8f2,Codes.now,premium,,,45,18,5,,,
-a0b337bd-9756-4f7d-926a-768aeae3e12a,awkward.now,premium,,,94,13,7,,,
+a0b337bd-9756-4f7d-926a-768aeae3e12a,awkward.now,premium,,,94,12,7,,,
 0c2f67e4-491e-4b8f-a5d3-8ed55c38d33c,firstly.now,premium,,,64,6,7,,,
 b59a0612-2db6-484d-a297-dac9fdf6c6be,allowfor.now,premium,,,70,0,9,,,
 8900c686-ec92-476c-a062-034764a813e6,halfassed.now,premium,,,52,2,10,,,
@@ -4438,7 +4438,7 @@ aedb72cb-312e-40d9-b85f-313c1e32b1b7,quieter.now,premium,,,70,2,7,,,
 c6fe9b19-307e-40a2-b5f5-c6c011a2ca3e,flamboyant.now,premium,,,66,7,10,,,
 21f740b1-b1f4-4549-804c-9939e3414c93,sad.now,premium,125,125,72,27,3,name.com,,
 cfe63ef0-110e-4e31-95d2-50d2a4f1edd2,interpersonal.now,premium,,,70,5,13,,,
-4cbcd82e-a405-48c5-a556-fb1ac013a6b7,shrub.now,premium,,,62,9,5,,,
+4cbcd82e-a405-48c5-a556-fb1ac013a6b7,shrub.now,premium,,,62,10,5,,,
 687f74ee-e621-4eec-b224-ec2f534b9f34,stood.now,premium,,,,3,5,,,
 b972878f-e5cf-4de1-af26-ae67287dd655,mothahfuckah.now,premium,,,62,1,12,,,
 3cc37efe-1b8c-4515-a607-7de320e8b917,mom.now,resell,,,86,31,3,Dynadot Inc,04/12/2024 08:55,04/12/2026 08:55
@@ -4468,7 +4468,7 @@ a3a365f7-57a4-4b2f-8b79-b2626d8e64f9,flight.now,resell,,,80,30,6,"Spaceship, Inc
 bd5bd139-3ec6-4da2-8b4c-b60520fb63e1,achievable.now,resell,,,74,6,10,Dynadot Inc,11/07/2025 22:09,11/07/2026 22:09
 dc3a157a-703d-45ec-859b-9e6677679926,sloth.now,premium,,,80,24,5,,,
 034515bf-4587-4d5c-8244-3dd3990e702f,fist.now,premium,,,86,14,4,,,
-349c99e0-f736-497a-8270-987e7acbfef4,backwards.now,premium,,,70,10,9,,,
+349c99e0-f736-497a-8270-987e7acbfef4,backwards.now,premium,,,70,9,9,,,
 174da953-a6ed-45c7-8a97-ccd545d08d91,canoe.now,premium,,,98,13,5,,,
 a51667f9-ca28-46e8-bfc4-f8988161dc22,shineat.now,premium,,,78,2,8,,,
 073ac6b7-b543-4d0a-8e14-02a00521d3a3,phrase.now,resell,,,94,10,6,Porkbun LLC,23/07/2025 19:42,23/07/2026 19:42
@@ -4565,7 +4565,7 @@ c906c994-7ce5-414f-949f-1a9356963252,cometomind.now,premium,,,70,1,12,,,
 df286a55-3023-45fb-9c8d-37f0a491d4c8,track.now,resell,,,94,42,5,Porkbun LLC,30/09/2024 17:39,30/09/2026 17:39
 4ba8b39d-1e1a-4080-a9e2-e5a36611bfcc,lookupto.now,premium,,,78,1,10,,,
 f71e1f08-8592-4d5b-b164-b44ae511582c,personally.now,premium,,,62,6,10,,,
-4a3b037d-0f10-4a76-9757-3709cd813695,elderly.now,available,24.99,59.99,94,12,7,name.com,,
+4a3b037d-0f10-4a76-9757-3709cd813695,elderly.now,available,24.99,59.99,94,11,7,name.com,,
 3ee432c4-89d1-49f1-8f23-61e5d46cfa62,endup.now,premium,,,72,3,6,,,
 69b5da1f-487e-4a30-9b95-12e4412285e5,restrain.now,premium,,,58,4,8,,,
 2412e346-a4bd-4bee-8f5c-108baf7fda49,journal.now,premium,,,110,28,7,,,
@@ -4600,7 +4600,7 @@ d572901e-d576-4b41-8a2d-63bb4403b86f,jetace.now,premium,,,62,1,7,,,
 d6ac58f5-7b5b-418c-91ef-4090474f0ee0,speculate.now,resell,,,70,6,9,"Spaceship, Inc.",13/02/2025 20:44,13/02/2027 20:44
 c71407c7-b814-48a0-8074-b882e4ed6899,champagne.now,premium,,,106,26,9,,,
 c4cfad34-a8af-461c-a555-d4161b54a225,IKiribati.now,premium,,,72,1,10,,,
-e8065014-0f78-481d-b74f-95677c2bcec9,aussie.now,premium,,,96,24,6,,,
+e8065014-0f78-481d-b74f-95677c2bcec9,aussie.now,premium,,,96,25,6,,,
 ef3dd3d1-dadf-413d-b93a-0844afcfd636,agreed.now,resell,,,96,8,6,Dynadot Inc,16/01/2025 22:45,16/01/2027 22:45
 9c9b410b-9e7f-4e5e-b41f-71b78208f809,Rhiannon.now,premium,,,73,5,8,,,
 0866bdab-221e-4f89-9312-8eacf24afeb9,guide.now,resell,,,72,29,5,Dynadot Inc,24/07/2025 18:41,24/07/2026 18:41
@@ -4631,7 +4631,7 @@ ec6b7fd9-f7c0-4a5a-9266-70a3fd287ffc,merrymen.now,premium,,,76,2,9,,,
 998dfd20-6804-44bc-b942-db90c6887eb1,streetart.now,resell,,,,14,10,Dynadot Inc,02/12/2025 11:54,02/12/2026 11:54
 c439b139-a2d6-46bf-8793-c5b981e9ffd5,megeneration.now,premium,,,64,1,13,,,
 fffa46f6-a04f-49d1-b879-6b93854610eb,smallwords.now,premium,,,,2,11,,,
-ae4aa08a-223c-47fb-9894-8ad53574f08a,authorized.now,resell,,,70,9,10,Dynadot Inc,16/01/2025 19:30,16/01/2027 19:30
+ae4aa08a-223c-47fb-9894-8ad53574f08a,authorized.now,resell,,,70,10,10,Dynadot Inc,16/01/2025 19:30,16/01/2027 19:30
 24ad5bc7-0181-413a-be5b-b4289ee79468,olivejuice.now,premium,,,,4,11,,,
 96b229fa-7046-46ed-97b5-b5f1183f916c,contented.now,available,24.99,59.99,70,10,9,name.com,,
 70db44de-04a0-4e31-9e90-62c8bf189a06,anyway.now,premium,,,70,16,6,,,
@@ -4687,7 +4687,7 @@ b558d5b7-8066-48db-a806-11ea9a0d635d,putinaword.now,premium,,,,1,13,,,
 b7a45e56-ae54-4783-9e74-ac5730fb4564,actionable.now,resell,,,88,14,10,"Spaceship, Inc.",16/07/2025 20:18,16/07/2026 20:18
 a2261168-0b14-4efb-871c-81de00381edd,enterinto.now,premium,,,66,1,10,,,
 59569906-34d1-4996-93eb-b4adad329d45,midSeptember.now,premium,,,98,1,13,,,
-4cb70a29-de90-4a7e-ae41-75f8c6074c14,austrian.now,premium,,,82,17,8,,,
+4cb70a29-de90-4a7e-ae41-75f8c6074c14,austrian.now,premium,,,82,18,8,,,
 930730a9-1a5f-426e-9107-72dae986dc14,lizard.now,premium,,,66,26,6,,,
 96a4defd-de78-4d1e-910f-6ecf2a36b360,therefore.now,premium,,,58,13,9,,,
 888a2d6e-7812-4c91-bc86-826e8880a3d3,thereagain.now,premium,,,,1,11,,,
@@ -4699,7 +4699,7 @@ b6961f9d-9e24-4947-90ab-132cfc3b1727,kgb.now,premium,,,74,15,3,,,
 9472d802-c5c2-4a29-b271-c22043527408,closerange.now,premium,,,68,1,11,,,
 6f5a2cb9-5bba-4325-bf5a-26d33f32a755,thisafternoon.now,premium,,,,1,14,,,
 5907a792-9b13-4bfa-92b0-37ac5808292a,lecture.now,premium,,,96,11,7,,,
-6713a491-2539-4a76-9e4e-cb43a39e354b,awfully.now,premium,,,62,2,7,,,
+6713a491-2539-4a76-9e4e-cb43a39e354b,awfully.now,premium,,,62,3,7,,,
 a60698a7-418f-4ce4-8c98-41451df5f40a,advocate.now,resell,,,90,21,8,Unstoppable Domains Inc.,08/11/2024 15:30,08/11/2026 15:30
 787d5d32-182d-4692-9afd-b52cf919b2a9,alleyway.now,premium,,,58,4,8,,,
 054cf2b6-4f04-4791-a684-04a5635fd646,intrinsic.now,resell,,,85,25,9,Atom.com Domains LLC,25/11/2025 10:21,25/11/2027 10:21
@@ -4744,7 +4744,7 @@ f0cccf52-7602-4384-9f3a-6f5681b8eb59,madrid.now,premium,,,76,24,6,,,
 3e855fd4-635f-434b-bb62-e2c2e5e2ac0a,shift.now,resell,,,70,46,5,Dynadot Inc,30/09/2024 14:05,30/09/2026 14:05
 a47a9442-dce8-4b9f-9604-c58e1f599eb7,lacking.now,premium,,,82,6,7,,,
 e5a42673-8883-430c-af83-87ed6f7c7e4f,management.now,premium,650,650,76,26,10,namecheap,,
-3c2bd3c5-9acf-4671-ab55-6b1dcce832b5,wet.now,premium,,,84,24,3,,,
+3c2bd3c5-9acf-4671-ab55-6b1dcce832b5,wet.now,premium,,,84,23,3,,,
 60cbd1ba-d68a-476b-9b43-2575317f5082,subtle.now,resell,,,70,17,6,Unstoppable Domains Inc.,01/08/2025 15:33,01/08/2026 15:33
 e86d1cb7-6184-4f3d-98e5-aceefa56205c,lively.now,resell,,,70,65,6,"NameCheap, Inc.",28/10/2024 15:50,28/10/2026 15:50
 c420c26f-2acf-472c-8857-4eef623b1b90,sisterinlaw.now,premium,,,,1,13,,,
@@ -4793,7 +4793,7 @@ ea917bbc-fa98-4c85-a0b3-a76ac7414391,suspend.now,premium,,,70,5,7,,,
 d6d075fd-1c96-4615-80ac-3a4d4685da5d,abdominal.now,available,24.99,59.99,82,3,9,name.com,,
 478539f1-bf49-41bf-bf2f-f4a95aa858e9,aim.now,resell,,,77,41,3,Porkbun LLC,01/11/2024 22:32,01/11/2026 22:32
 f12af545-f816-4d40-974f-b74ce4bf4719,fought.now,premium,,,62,3,6,,,
-79a81d2d-9f1f-4171-9b7b-70702bdceca8,heart.now,resell,,,84,36,5,Dynadot Inc,20/01/2025 00:06,20/01/2027 00:06
+79a81d2d-9f1f-4171-9b7b-70702bdceca8,heart.now,resell,,,84,35,5,Dynadot Inc,20/01/2025 00:06,20/01/2027 00:06
 56b2c931-9ecd-4d33-907d-5a329689ac71,interstate.now,premium,,,90,11,10,,,
 7b2ef026-8785-4f03-b80b-1d93086e1c7b,newbie.now,premium,,,68,19,6,,,
 22d669ff-9955-411b-8f0c-cead5003154d,motive.now,resell,,,112,62,6,Porkbun LLC,29/12/2024 04:54,29/12/2026 04:54
@@ -4868,7 +4868,7 @@ ac1c025d-c9f0-4f2e-8c68-d1d04125383a,atthecorner.now,premium,,,69,2,13,,,
 cbd12630-08e8-4d44-8cd9-4e5e3288e352,antibiotic.now,premium,,,88,6,10,,,
 ec87c65e-ef7c-482f-a30e-c08a983623f5,supported.now,premium,,,70,8,9,,,
 12f5f729-3116-42bd-bb74-62fb8cf57c0b,laboratory.now,premium,,,72,17,10,,,
-e62d494f-afb9-401f-945c-b0c5cd92b35d,panoramic.now,premium,,,88,12,9,,,
+e62d494f-afb9-401f-945c-b0c5cd92b35d,panoramic.now,premium,,,88,13,9,,,
 d57aebe6-5f17-460f-b971-032802c03885,pickuptruck.now,premium,,,58,4,13,,,
 61465163-90fc-4081-b30e-13590de988b3,despondent.now,available,24.99,59.99,47,2,10,name.com,,
 339bdfdc-92fb-47cb-846f-030bd446dc7d,australia.now,premium,,,66,6,9,,,
@@ -4924,7 +4924,7 @@ e1f07b0f-b02a-4d5c-90bb-bb7de26ed29d,obtuse.now,available,24.99,59.99,78,5,6,nam
 483f8d08-b4a6-46f2-b2f3-b3676785baea,tie.now,premium,,,96,23,3,,,
 8d9fbbbb-662e-436f-8a11-1cef53ce1d66,ten.now,resell,,,88,31,3,Porkbun LLC,08/07/2025 14:10,08/07/2026 14:10
 66770892-8f3c-4dab-8f83-d7f3dbfa3935,relation.now,resell,,,70,12,8,Dynadot Inc,03/03/2025 01:22,03/03/2027 01:22
-d94c2135-56e7-44ef-9cd9-8cf18cfad896,blanket.now,resell,,,100,13,7,Porkbun LLC,06/11/2025 15:24,06/11/2026 15:24
+d94c2135-56e7-44ef-9cd9-8cf18cfad896,blanket.now,resell,,,100,12,7,Porkbun LLC,06/11/2025 15:24,06/11/2026 15:24
 85c7d97d-b202-4285-8cd6-2ab787f08600,discomfort.now,premium,,,82,4,10,,,
 e78f7cf0-9898-4e6e-9b62-51520b24bff1,walkabout.now,premium,,,,9,10,,,
 ab59269b-9e7f-49b5-94df-917a5c433f0c,wrong.now,premium,,,122,17,5,,,
@@ -4985,7 +4985,7 @@ ada7ffc9-5375-4c63-ba99-55f36d651864,skirt.now,premium,,,90,8,5,,,
 31d31752-c7bb-4933-a382-1d5cfe291237,dustyrose.now,premium,,,,3,10,,,
 54e02ad2-899e-4a98-b5b8-276a900e7ec4,windsor.now,premium,,,66,23,7,,,
 6b0a8a7c-33af-4c59-be59-091073386542,shin.now,resell,,,62,17,4,"NameCheap, Inc.",31/01/2025 22:03,31/01/2026 22:03
-25d5ad3c-76f2-44d1-891b-1ad5f20cc9cc,bearing.now,premium,,,86,19,7,,,
+25d5ad3c-76f2-44d1-891b-1ad5f20cc9cc,bearing.now,premium,,,86,17,7,,,
 d32feda1-eeb9-44e0-a18c-23e3bf306c70,rude.now,available,49.98,,68,17,4,namecheap,,
 63e8d466-9a17-4fe5-a8bf-0c694fb38801,gripping.now,available,24.99,59.99,90,4,8,name.com,,
 ca40cfee-7a95-48f5-a2c4-a12fde358752,enlighten.now,resell,,,77,20,9,"Spaceship, Inc.",07/01/2025 03:05,07/01/2027 03:05
@@ -4995,7 +4995,7 @@ c97c2ff9-193d-4d6a-993a-1cc75d734f4b,multiplication.now,premium,,,,5,14,,,
 392873fe-5414-4c95-80ce-c01533a80b74,baking.now,premium,,,92,10,6,,,
 1fb92283-53ad-4968-818a-3d38d9a03c2c,breakinto.now,premium,,,68,3,10,,,
 c819bb84-c28c-4a59-9909-6c7587509635,each.now,premium,125,125,102,15,4,name.com,,
-ba1108bb-3fd6-4cc3-be0b-031d2a9d21d4,aerobic.now,premium,125,125,74,7,7,name.com,,
+ba1108bb-3fd6-4cc3-be0b-031d2a9d21d4,aerobic.now,premium,125,125,74,6,7,name.com,,
 3a9ca7b6-a7be-4da0-a6b2-00f91fefe333,sentence.now,premium,,,88,8,8,,,
 1d48e64d-81ac-4297-82d8-8040f5d5e238,blanksheet.now,premium,,,76,2,11,,,
 4254ae84-937a-443a-a723-e2c0f3a267f1,chairperson.now,premium,,,66,3,11,,,
@@ -5063,12 +5063,12 @@ a551a0e1-6201-4bc0-84c9-1b3242b1f6ec,tangle.now,resell,,,88,12,6,Dynadot Inc,21/
 dbdf00ae-822e-42b0-b056-829d1e499599,Frenchrice.now,premium,,,70,1,11,,,
 ada4cac5-3485-48e7-a725-e072b005de99,decay.now,premium,,,70,12,5,,,
 f661fbed-6901-4e93-b56d-15fe0596d2f5,highschool.now,premium,,,72,15,10,,,
-215f70f1-4cdb-4b1a-be66-c85009ecdd4d,fair.now,resell,,,106,38,4,Dynadot Inc,30/09/2024 14:05,30/09/2026 14:05
+215f70f1-4cdb-4b1a-be66-c85009ecdd4d,fair.now,resell,,,106,37,4,Dynadot Inc,30/09/2024 14:05,30/09/2026 14:05
 1c56353c-be48-4746-b8c1-5bc3cbc45c05,obese.now,available,24.99,59.99,78,6,5,name.com,,
 6fb8dc6a-4752-4f46-8b49-cbf00fd49e15,petty.now,premium,,,60,13,5,,,
-ba106d22-fcd8-4536-86ca-042cf954d29d,arabic.now,premium,,,96,20,6,,,
+ba106d22-fcd8-4536-86ca-042cf954d29d,arabic.now,premium,,,96,21,6,,,
 228fb8ed-e3c2-4598-8cf7-31f0bd11823a,below.now,available,24.99,59.99,66,10,5,name.com,,
-4b2eb38c-959b-4166-886b-f41c6472bd25,dauntless.now,premium,,,66,12,9,,,
+4b2eb38c-959b-4166-886b-f41c6472bd25,dauntless.now,premium,,,66,13,9,,,
 63f04b5f-54ff-47ed-9fdb-450523f67ba8,lit.now,resell,,,78,41,3,Dynadot Inc,17/03/2026 07:12,17/03/2027 07:12
 8c98a637-d011-4f6d-af68-647b55e79620,sexhair.now,premium,,,,1,8,,,
 28311fb4-3ed5-493d-a8ca-f5dd4a34ef82,prolife.now,resell,,,66,17,8,"Spaceship, Inc.",22/07/2025 11:58,22/07/2026 11:58
@@ -5099,7 +5099,7 @@ fd2479b1-0b52-48ff-bfbd-25c8d27c1199,island.now,resell,,,72,35,6,Dynadot Inc,16/
 474d7eef-492e-4df8-97f5-00added0aa5e,forgiving.now,available,24.99,59.99,96,5,9,name.com,,
 ea222827-5a3c-4cf2-a6e7-7a4e39103174,coffeegrinder.now,premium,,,79,2,14,,,
 f3fe9222-b50c-40d6-a882-09c36126ad47,standupto.now,premium,,,,1,11,,,
-4ecb8b88-8db6-4760-8916-5146b3bc3114,fierce.now,resell,,,80,28,6,Porkbun LLC,05/01/2025 23:54,05/01/2027 23:54
+4ecb8b88-8db6-4760-8916-5146b3bc3114,fierce.now,resell,,,80,30,6,Porkbun LLC,05/01/2025 23:54,05/01/2027 23:54
 da99f6f9-4728-46d9-b982-eb36d25008ff,dishup.now,premium,,,78,4,7,,,
 4f18f9b8-e2bb-4fce-a896-c8b2a272f26b,stroke.now,premium,,,92,14,6,,,
 67c42fb0-a3c1-4ebf-aaa2-d0da28824bf4,landline.now,premium,,,66,11,9,,,
@@ -5121,12 +5121,12 @@ b08409ec-d58e-429f-9931-e34ff6335593,footballhooliganism.now,premium,,,56,1,20,,
 b0c4ad86-9d1a-49c4-bd1d-05f7841317b0,unfair.now,premium,,,78,13,6,,,
 c9b2cc4b-4249-4904-adf4-f2a078516344,childpornography.now,premium,,,52,2,17,,,
 077d3c18-8046-4fea-8bb6-87de3fe18ed8,marks.now,premium,,,66,21,5,,,
-e3b291d5-5bf7-4a9d-abb5-38ac9b9a88fe,bouncy.now,premium,,,72,8,6,,,
+e3b291d5-5bf7-4a9d-abb5-38ac9b9a88fe,bouncy.now,premium,,,72,7,6,,,
 4a9e718c-e0b0-4d08-afc0-3c8a82d455d7,neighboring.now,premium,,,,3,11,,,
 26c73e86-2b77-45a6-a46f-107e9ba776dd,adequate.now,available,24.99,59.99,94,11,8,name.com,,
 dd12e76b-701c-40ea-9e7d-6845838a52a0,nosehair.now,premium,,,,1,9,,,
 805e0a5d-d09f-4e47-8f61-73350fbdbd30,environment.now,resell,,,84,19,11,Porkbun LLC,31/07/2025 07:49,31/07/2026 07:49
-a6cd04c0-84f2-4ed4-8f36-28aa92892c5f,oldtimer.now,premium,,,70,14,9,,,
+a6cd04c0-84f2-4ed4-8f36-28aa92892c5f,oldtimer.now,premium,,,70,15,9,,,
 a181257b-983f-4d0c-836b-49cf3fdb8449,require.now,premium,,,76,8,7,,,
 527f5dd9-7055-40c6-9716-fc1ce63a1a3b,flat.now,resell,,,116,27,4,Dynadot Inc,01/01/2025 11:27,01/01/2027 11:27
 9a3ae207-3a93-46eb-ba04-7efd0ab5ce4e,sheraton.now,premium,,,52,84,8,,,
@@ -5171,7 +5171,7 @@ b2856b01-f340-420e-bcc2-e379ab85821e,toiletroll.now,premium,,,68,3,11,,,
 00a1b6bd-afc4-45bb-bb5f-aa0be3aed0a1,poor.now,premium,,,54,16,4,,,
 cac1fcdf-5e9c-4bff-8186-6b1247a49a09,confirming.now,available,24.99,59.99,73,5,10,name.com,,
 6555d0cb-a23f-45a9-93ca-f5e34c994ed4,tourist.now,resell,,,98,20,7,Dynadot Inc,25/11/2025 04:01,25/11/2026 04:01
-8886c98f-f8a8-40ae-9c2a-b9481e1f9c8e,wild.now,resell,,,66,42,4,"NameCheap, Inc.",17/10/2024 15:05,17/10/2026 15:05
+8886c98f-f8a8-40ae-9c2a-b9481e1f9c8e,wild.now,resell,,,66,40,4,"NameCheap, Inc.",17/10/2024 15:05,17/10/2026 15:05
 a000b051-6db2-46b5-bc5f-b66f9434782a,hightechnology.now,premium,,,77,2,15,,,
 c35bfd04-d54d-4b87-bd13-0a11e99dcefd,ole.now,premium,,,74,23,3,,,
 a7851cf5-fade-4239-9726-b3b1fa84e413,paperback.now,premium,,,104,7,9,,,
@@ -5215,7 +5215,7 @@ ad60d924-4436-4948-8103-cffd196281ac,trivial.now,premium,,,78,10,7,,,
 291290e1-43b8-4e73-82de-8e0c5f522916,buzzed.now,premium,,,72,12,6,,,
 9f6fc023-6366-4baf-8481-21c79f5bb418,intheair.now,premium,,,70,4,10,,,
 300d7aa6-1677-4a79-b7d3-75622e750418,engineer.now,premium,,,96,25,8,,,
-807191ba-c612-4256-aa8d-b4250ce2a7e8,textbook.now,resell,,,84,13,8,Dynadot Inc,04/03/2025 20:19,04/03/2027 20:19
+807191ba-c612-4256-aa8d-b4250ce2a7e8,textbook.now,resell,,,84,14,8,Dynadot Inc,04/03/2025 20:19,04/03/2027 20:19
 0911abbd-3a7a-4ac6-b782-b21f87907822,success.now,resell,,,80,37,7,Porkbun LLC,24/06/2025 08:52,24/06/2026 08:52
 9986795c-f923-4036-a9da-627971e50ce3,GermanEmpire.now,premium,,,56,1,13,,,
 6c5adc91-eaca-4ff7-bf80-a6c8263fb0f9,chemically.now,premium,,,68,1,10,,,
@@ -5237,7 +5237,7 @@ caf05dbb-75cf-456d-aefb-1b1b5579dafe,practicing.now,premium,,,82,3,10,,,
 29ff1746-78b8-4847-b1b8-98cd117f3ada,wrongly.now,premium,,,56,2,7,,,
 f0f0dbaa-ef08-4e35-82e6-6f2c8e56c459,yourstruly.now,premium,,,60,9,11,,,
 a366d2c5-fdf8-473f-a847-20eaeb0023be,foolish.now,available,24.99,59.99,60,15,7,name.com,,
-44958766-4604-447f-9389-9a69d84ff90d,central.now,resell,,,70,35,7,Dynadot Inc,26/02/2025 00:44,26/02/2027 00:44
+44958766-4604-447f-9389-9a69d84ff90d,central.now,resell,,,70,34,7,Dynadot Inc,26/02/2025 00:44,26/02/2027 00:44
 b7be6383-5297-45c8-93d3-43de0a71eb81,strengthen.now,premium,,,78,5,10,,,
 428ec578-b919-489d-b2d8-50fa577779ec,wire.now,resell,,,58,30,4,Unstoppable Domains Inc.,30/09/2024 13:53,30/09/2026 13:53
 f34e629d-fe6d-442e-bb8a-9ad8ae3dec57,various.now,premium,,,82,15,7,,,
@@ -5252,12 +5252,12 @@ bc32c3e1-d683-484b-87af-29855aa84ae8,thirteen.now,available,24.99,59.99,84,12,8,
 6b5da572-8f6c-4355-8274-2f136aa59cd1,HillCity.now,premium,,,62,5,9,,,
 9fb2aebb-6eee-4f7a-9a23-5f51c2468657,case.now,premium,,,90,34,4,,,
 d8dcfb2a-8482-4cfc-b515-8c6bdd426c59,tend.now,premium,,,76,21,4,,,
-8318a5f5-6828-4003-9c1d-e1fa09d4dbdc,allout.now,available,24.99,59.99,84,9,7,name.com,,
+8318a5f5-6828-4003-9c1d-e1fa09d4dbdc,allout.now,available,24.99,59.99,84,8,7,name.com,,
 346b2cf7-eb67-49af-873c-6c1f253e370f,tribute.now,resell,,,88,20,7,Gandi SAS,29/12/2024 01:36,29/12/2026 01:36
 6d892e9b-b9b7-4b92-ba04-173fcd169bf3,commonguineapig.now,premium,,,52,1,17,,,
 44799c72-57c0-4bc6-a2b6-632d0eb954ea,thisminute.now,premium,,,,2,11,,,
 b0d555cb-5fbb-4d27-bec8-2a5bd828a3dd,outback.now,premium,,,114,17,7,,,
-7ed3d14d-4c0c-497d-94d0-d9c675a48347,allied.now,resell,,,74,22,6,Porkbun LLC,30/12/2024 03:53,30/12/2026 03:53
+7ed3d14d-4c0c-497d-94d0-d9c675a48347,allied.now,resell,,,74,23,6,Porkbun LLC,30/12/2024 03:53,30/12/2026 03:53
 ddd9fed4-d0c8-47d4-876d-226b1837d8c2,Godonlyknows.now,premium,,,54,2,14,,,
 ebbbe9a4-79d6-4b59-ab0e-3579a5ac5e15,forestfire.now,premium,,,58,5,11,,,
 3ab6eab1-0a94-4755-81d0-b0d9581fdc5c,athletics.now,premium,130,130,69,52,9,namecheap,,
@@ -5290,7 +5290,7 @@ f864392a-eb98-4077-ac30-0ad226175a56,onebyone.now,premium,,,56,10,10,,,
 13d0f990-1888-45b5-8373-4532a14ce6d7,conscious.now,resell,,,79,38,9,Dynadot Inc,14/01/2026 21:34,14/01/2027 21:34
 a2f52bd4-0217-43f3-85de-d4f495350f7a,stations.now,premium,,,62,6,8,,,
 1b4d329e-4c92-453d-8fcf-49793b9c90a5,ensure.now,resell,,,80,12,6,"Spaceship, Inc.",06/01/2025 16:11,06/01/2027 16:11
-9b552980-3048-4a67-bcd4-101f57301a0b,converted.now,premium,,,64,7,9,,,
+9b552980-3048-4a67-bcd4-101f57301a0b,converted.now,premium,,,64,6,9,,,
 168e31ba-f01d-499d-81d7-da55ee87d1b9,intheend.now,premium,,,63,2,10,,,
 94d496b7-0d0d-458a-a530-a08318ffa38f,garlic.now,resell,,,102,20,6,Dynadot Inc,03/12/2024 08:31,03/12/2026 08:31
 81fb05dc-7518-4eda-a1de-871edcea13bf,anumberof.now,premium,,,56,1,11,,,
@@ -5389,7 +5389,7 @@ e08e1361-32fd-412e-920c-66a5cd8da8f7,crimes.now,premium,,,64,10,6,,,
 04270c4a-7284-40ad-89d5-a65a683420c8,owing.now,premium,,,,3,5,,,
 97aef2af-c7a4-4c8d-81ec-b885aa87164a,hopefully.now,premium,,,70,6,9,,,
 a4cdcf27-e041-4485-992b-d8d353bd922e,accustomed.now,available,24.99,59.99,72,2,10,name.com,,
-054fa851-f7e1-4254-90ba-68c43a10ec50,fused.now,available,24.99,59.99,66,15,5,name.com,,
+054fa851-f7e1-4254-90ba-68c43a10ec50,fused.now,available,24.99,59.99,66,16,5,name.com,,
 414f4890-3446-4499-9e2d-2828c0118de4,basis.now,resell,,,72,29,5,Porkbun LLC,03/01/2025 17:53,03/01/2027 17:53
 d0a0d3da-c160-4af9-b050-d67b3c132bb9,invoice.now,resell,,,68,32,8,Dynadot Inc,30/09/2024 13:02,30/09/2026 13:02
 725b0af4-5baa-4f5c-b0f9-df4e56a180f2,tossout.now,premium,,,64,1,8,,,
@@ -5398,17 +5398,17 @@ d0a0d3da-c160-4af9-b050-d67b3c132bb9,invoice.now,resell,,,68,32,8,Dynadot Inc,30
 35ff9ef0-cbf2-414f-a93d-3379434dcee2,pyrenees.now,premium,,,64,5,8,,,
 4112fe1f-7481-4c31-b095-356b59710038,certificate.now,premium,,,92,18,11,,,
 cb767035-86ce-496f-b53a-aefbf379acfb,brushing.now,premium,,,80,4,8,,,
-82a08db7-eb8c-493d-8ec6-96d4de3eb477,wing.now,resell,,,62,28,4,Unstoppable Domains Inc.,08/10/2024 23:45,08/10/2026 23:45
+82a08db7-eb8c-493d-8ec6-96d4de3eb477,wing.now,resell,,,62,29,4,Unstoppable Domains Inc.,08/10/2024 23:45,08/10/2026 23:45
 9c154f57-31f1-4adc-ae39-8e594847c15d,idiom.now,premium,,,74,11,5,,,
 6577c717-bcea-4d09-a836-ea853d0cc064,spontaneity.now,premium,,,,3,11,,,
 d8a6d1f2-6d26-477e-9ce0-7c6eca13e44a,winterblues.now,premium,,,,1,12,,,
 d2a6c0a9-0f92-4b57-9c0e-06428ff4456c,theones.now,premium,,,,6,8,,,
 cc710675-3deb-47f2-a15f-9f6831a87b92,aswhat.now,premium,,,56,1,7,,,
-31906297-7b3d-4428-ab37-fcc2cccd72e0,esthetic.now,available,24.99,59.99,70,8,8,name.com,,
+31906297-7b3d-4428-ab37-fcc2cccd72e0,esthetic.now,available,24.99,59.99,70,9,8,name.com,,
 60a07e44-1cc5-4a8c-8f7e-023b6ff3915f,andfinally.now,premium,,,66,2,11,,,
 8a7269ca-2606-48f1-b2cf-9593ea9b0fe2,Germanpizza.now,premium,,,78,1,12,,,
 c64cff8d-8ef4-49e5-9d28-7d4f40e17c79,Romannumerals.now,premium,,,,2,14,,,
-f6738216-a839-44f6-b0c5-3dbebe53c447,comical.now,premium,,,75,6,7,,,
+f6738216-a839-44f6-b0c5-3dbebe53c447,comical.now,premium,,,75,5,7,,,
 8c0e2989-87dd-4d66-9bb1-2d1ca4066b15,astimegoesby.now,premium,,,44,1,15,,,
 7192b6e6-4df6-41b2-b9d5-6db2cabb7bfb,involve.now,premium,,,80,13,7,,,
 330ae5d9-469b-4216-9497-e6b1284a0c08,total.now,resell,,,108,38,5,"Spaceship, Inc.",07/01/2025 16:50,07/01/2027 16:50
@@ -5419,8 +5419,8 @@ f099b4d3-6678-48f3-a052-6a1f5801bdd0,Tahoe.now,premium,,,42,30,5,,,
 6513aa0c-7c8c-475c-ac67-6d16fff3daa6,drift.now,resell,,,86,38,5,Unstoppable Domains Inc.,04/12/2024 05:18,04/12/2026 05:18
 4f5c4585-09da-4a68-b0d4-a44f9c12e042,many.now,resell,,,76,26,4,"Spaceship, Inc.",22/07/2025 13:16,22/07/2026 13:16
 a7a018fb-0613-4a59-a3d7-8538756a6735,incorrect.now,premium,,,78,6,9,,,
-4333339c-261d-45b7-abbd-fae32fab883b,deadly.now,premium,,,60,11,6,,,
-b4c20f64-fb45-44ef-b9d2-16cbe759088d,austere.now,premium,,,60,7,7,,,
+4333339c-261d-45b7-abbd-fae32fab883b,deadly.now,premium,,,60,12,6,,,
+b4c20f64-fb45-44ef-b9d2-16cbe759088d,austere.now,premium,,,60,6,7,,,
 778d4333-d901-4cd3-88b2-63fd382fe9b0,stink.now,premium,,,86,11,5,,,
 4e5fa7fa-c3cd-40ec-973f-bf52153d2880,deficit.now,premium,,,70,8,7,,,
 fe62fdb6-64aa-4c36-b5c7-18af0e87eac6,techno.now,resell,,,70,26,6,"NameCheap, Inc.",19/08/2025 08:00,19/08/2026 08:00
@@ -5507,11 +5507,11 @@ f98a924f-fde4-442c-92de-7de1976536ee,conclusive.now,available,49.98,,69,6,10,nam
 1d8651cf-e9b7-4b55-9199-827822a76fb2,necessary.now,premium,,,66,12,9,,,
 2fe959e3-93a4-4b66-8b4e-9dde97a25941,fireengine.now,premium,,,80,3,11,,,
 6a290387-fa6c-41aa-9572-1d58b8dbcc2a,WikiLeaks.now,premium,,,,7,9,,,
-f71e15ff-7848-46f8-b4f6-e63f63954f0a,worn.now,premium,,,66,9,4,,,
+f71e15ff-7848-46f8-b4f6-e63f63954f0a,worn.now,premium,,,66,10,4,,,
 7871d7c8-70be-44ff-98b9-26aa18ad8785,lightningstrike.now,premium,,,64,3,16,,,
 2d6105bf-5d87-4bf3-bb55-2d4f635ec9fd,tippingpoint.now,premium,,,70,12,13,,,
 848dbf15-b6b4-4daf-956e-7aa7bfe0b9d5,overdue.now,premium,,,62,9,7,,,
-1f5fcd2e-b728-492c-8d6d-03290c053ed3,amenable.now,premium,,,68,3,8,,,
+1f5fcd2e-b728-492c-8d6d-03290c053ed3,amenable.now,premium,,,68,2,8,,,
 5043ed08-1ced-47b4-ac59-ec6ad770a56e,such.now,premium,,,76,17,4,,,
 3d9ef51b-7fc8-4985-a422-d4f7f9391e77,modeler.now,premium,,,74,6,7,,,
 143da8ad-410f-496f-8036-4fcd20daa44e,daggum.now,premium,,,92,1,6,,,
@@ -5563,13 +5563,13 @@ d436ee85-281f-4ba6-aa26-4f3f5bb62e66,setonfoot.now,premium,,,,1,11,,,
 8e733aaf-c45a-46ab-9af4-185ad4df3119,rotten.now,available,24.99,59.99,68,13,6,name.com,,
 1eaa5a64-ebed-4f70-b53d-f47ca9ea1c82,whichever.now,premium,,,60,3,9,,,
 8f67d6ba-7e5a-42cc-b105-8a6e4a277f62,mentallyill.now,premium,,,52,1,12,,,
-8c1d6939-c797-44d7-985a-9df9d19c0820,commanding.now,premium,,,87,4,10,,,
+8c1d6939-c797-44d7-985a-9df9d19c0820,commanding.now,premium,,,87,3,10,,,
 687969a9-4b0b-48ea-939c-1aa5efa8f2b5,metre.now,premium,,,92,8,5,,,
 24e29222-1538-4f29-a296-43083d6d6d45,cairo.now,premium,,,68,17,5,,,
 3f9c798b-cacc-4a20-a7b9-e6b1e6c6124f,forced.now,available,24.99,59.99,67,5,6,name.com,,
 6058dfec-8d8d-41ba-be45-a52f8160f1b9,rubbingoil.now,premium,,,,1,11,,,
 a0441a44-0636-4544-88d2-bf85ecf45bb8,assess.now,resell,,,78,14,6,Unstoppable Domains Inc.,04/10/2024 12:30,04/10/2026 12:30
-bb7aefd9-93da-4bb1-86a0-3958392cdfbf,enlarged.now,premium,,,66,1,8,,,
+bb7aefd9-93da-4bb1-86a0-3958392cdfbf,enlarged.now,premium,,,66,2,8,,,
 5af9effa-fc0e-4447-a6d2-1fdf8acd5022,wander.now,resell,,,64,32,6,Unstoppable Domains Inc.,11/10/2024 11:05,11/10/2026 11:05
 30e5fe4f-5780-435f-b445-677d218cae40,hotsauce.now,resell,,,72,9,9,Gandi SAS,19/02/2025 23:46,19/02/2027 23:46
 299b33e1-bcae-4910-ac52-0c62f8932536,adjustable.now,available,24.99,59.99,84,6,10,name.com,,
@@ -5648,7 +5648,7 @@ ece70328-2a8a-4987-9065-346c213c1110,dozen.now,available,24.99,59.99,82,12,5,nam
 f76d39fe-c74f-4b67-8246-2c430f276e69,transparency.now,resell,,,,20,12,Unstoppable Domains Inc.,05/11/2024 17:36,05/11/2026 17:36
 1432d1fd-d012-4f37-8f2d-2e7405e74fd7,print.now,resell,,,114,44,5,Porkbun LLC,30/09/2024 17:49,30/09/2026 17:49
 78803d6b-2afe-432b-bcd1-7fa18de5c091,condo.now,resell,,,70,27,5,Dynadot Inc,18/01/2025 20:39,18/01/2027 20:39
-58dcdb93-3e16-431c-9504-091dca0cd269,auroral.now,premium,,,70,5,7,,,
+58dcdb93-3e16-431c-9504-091dca0cd269,auroral.now,premium,,,70,6,7,,,
 7a830e28-8095-427d-b696-3cb015530148,ROTFL.now,premium,,,,3,5,,,
 4a87faf6-87e4-4c37-baaa-518022629ff5,actiongame.now,premium,,,74,2,11,,,
 8c9c9112-9b0b-4e2c-8a9c-bab20c2155fa,eyesight.now,premium,,,68,6,9,,,
@@ -5706,7 +5706,7 @@ bffc4c32-e113-48d2-baf3-5c7ff37a8f17,greatuncle.now,premium,,,52,1,11,,,
 0cfcce57-2275-43fb-ab98-ab03c07bd0a0,resignation.now,premium,,,66,3,11,,,
 49d52973-288d-4d6f-bdef-82e4c0687bb9,invent.now,resell,,,82,22,6,Dynadot Inc,03/10/2024 03:34,03/10/2026 03:34
 670688ff-47eb-44a3-a640-015e23cd6a16,returnticket.now,premium,,,76,1,13,,,
-613eb9dd-750f-4660-bf3e-1d99c272b2d8,bootleg.now,premium,,,100,12,7,,,
+613eb9dd-750f-4660-bf3e-1d99c272b2d8,bootleg.now,premium,,,100,11,7,,,
 93d50827-d4ac-45ce-99b2-e6bf6af90fc2,grew.now,resell,,,72,8,4,Dynadot Inc,03/06/2025 08:17,03/06/2026 08:17
 a7228247-b52d-44a8-973c-ac01cab81019,cruel.now,premium,,,112,11,5,,,
 6e115a9c-87af-49c6-b743-ac145360a4f8,goodgame.now,premium,,,56,21,9,,,
@@ -5809,7 +5809,7 @@ bccd6b6b-748c-4a30-8578-e068b03c98a0,riveravon.now,premium,,,70,1,10,,,
 4fe18631-d324-42c8-aa24-6918a808a803,exemplary.now,available,24.99,59.99,92,6,9,name.com,,
 6d094928-7294-4ba0-8c87-4121236d0b97,goodlife.now,resell,,,56,31,9,Porkbun LLC,05/10/2024 00:12,05/10/2026 00:12
 aa9f5c72-dd40-4ec0-a8bb-2be2461d8917,diversity.now,resell,,,76,21,9,"Spaceship, Inc.",11/07/2025 03:52,11/07/2026 03:52
-5666d2a4-af03-4df3-a4e7-388c19c77517,composed.now,available,24.99,59.99,71,11,8,name.com,,
+5666d2a4-af03-4df3-a4e7-388c19c77517,composed.now,available,24.99,59.99,71,12,8,name.com,,
 2887ceec-2d66-4f72-b85c-5b54e85a5a0b,gelpen.now,premium,,,82,1,7,,,
 e0590323-7170-4da5-af1b-3c13b5686825,distance.now,resell,,,90,13,8,Dynadot Inc,03/01/2025 12:57,03/01/2027 12:57
 404df848-8b30-4b23-a304-cff6e646be67,helmethair.now,premium,,,66,2,11,,,
