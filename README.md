@@ -1,10 +1,10 @@
-# Available .NOW One-Word Domains (8,149)
+# Available .NOW One-Word Domains (8,601)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C149%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C601%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .now one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **8,149 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **8,601 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 8,149 domains
+**Public extract:** 1,000 rows · **Live catalog:** 8,601 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/now`  
 **Best for:** founders, investors, studios
 
@@ -70,19 +70,19 @@ print(df.head())
 | RedSox.now      | available | $49.98     | —             | 72             | 60     | 7      | namecheap                |
 | robots.now      | resell    | —          | —             | 62             | 47     | 6      | Unstoppable Domains Inc. |
 | material.now    | premium   | $23,675.79 | —             | 78             | 24     | 8      | Spaceship, Inc.          |
-| unicorns.now    | available | $49.98     | —             | 73             | 21     | 8      | namecheap                |
+| Allie.now       | available | $49.98     | —             | 72             | 21     | 5      | namecheap                |
 | whynot.now      | resell    | —          | —             | 74             | 39     | 7      | Dynadot Inc              |
 | pls.now         | premium   | $125       | —             | 60             | 23     | 3      | name.com                 |
-| Allie.now       | available | $49.98     | —             | 72             | 21     | 5      | namecheap                |
+| faces.now       | available | $49.98     | —             | 60             | 21     | 5      | namecheap                |
 | WiFi.now        | resell    | —          | —             | 83             | 37     | 5      | Dynadot Inc              |
 | veterans.now    | premium   | $125       | —             | 56             | 23     | 8      | name.com                 |
-| faces.now       | available | $49.98     | —             | 60             | 21     | 5      | namecheap                |
+| HarryPotter.now | available | $49.98     | —             | 72             | 20     | 12     | namecheap                |
 | hawaii.now      | resell    | —          | —             | 70             | 37     | 6      | Dynadot Inc              |
 | studios.now     | premium   | $125       | —             | 54             | 21     | 7      | name.com                 |
-| HarryPotter.now | available | $49.98     | —             | 72             | 20     | 12     | namecheap                |
+| Eliza.now       | available | $49.98     | —             | 72             | 19     | 5      | namecheap                |
 | ideas.now       | resell    | —          | —             | 62             | 37     | 5      | NameCheap, Inc.          |
 | verb.now        | premium   | $94,166.57 | —             | 72             | 20     | 4      | Spaceship, Inc.          |
-| Eliza.now       | available | $49.98     | —             | 72             | 19     | 5      | namecheap                |
+| whitewater.now  | available | $49.98     | —             | 82             | 17     | 11     | namecheap                |
 | stories.now     | resell    | —          | —             | 58             | 36     | 7      | Spaceship, Inc.          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 8,149 live domains                               |
+| 1,000-row public sample | 8,601 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NOW One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NOW One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
