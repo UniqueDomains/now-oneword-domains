@@ -1,10 +1,10 @@
-# Available .NOW One-Word Domains (8,602)
+# Available .NOW One-Word Domains (8,608)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C602%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C608%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .now one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **8,602 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **8,608 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 8,602 domains
+**Public extract:** 1,000 rows · **Live catalog:** 8,608 domains · **Median ask:** $5,315.01 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/now`  
 **Best for:** founders, investors, studios
 
@@ -66,22 +66,22 @@ print(df.head())
 | --------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------ |
 | myspace.now     | available | $49.98     | —             | 80             | 65     | 7      | namecheap                |
 | donuts.now      | resell    | —          | —             | 54             | 62     | 6      | Spaceship, Inc.          |
-| justin.now      | premium   | $125       | —             | 58             | 38     | 7      | name.com                 |
+| spot.now        | premium   | $625       | —             | 65             | 40     | 4      | name.com                 |
 | RedSox.now      | available | $49.98     | —             | 72             | 60     | 7      | namecheap                |
 | robots.now      | resell    | —          | —             | 62             | 47     | 6      | Unstoppable Domains Inc. |
-| material.now    | premium   | $23,675.79 | —             | 78             | 24     | 8      | Spaceship, Inc.          |
+| justin.now      | premium   | $125       | —             | 58             | 38     | 7      | name.com                 |
 | Allie.now       | available | $49.98     | —             | 72             | 21     | 5      | namecheap                |
 | whynot.now      | resell    | —          | —             | 74             | 39     | 7      | Dynadot Inc              |
-| pls.now         | premium   | $125       | —             | 60             | 23     | 3      | name.com                 |
+| material.now    | premium   | $23,675.79 | —             | 78             | 24     | 8      | Spaceship, Inc.          |
 | faces.now       | available | $49.98     | —             | 60             | 21     | 5      | namecheap                |
 | WiFi.now        | resell    | —          | —             | 83             | 37     | 5      | Dynadot Inc              |
-| veterans.now    | premium   | $125       | —             | 56             | 23     | 8      | name.com                 |
+| pls.now         | premium   | $125       | —             | 60             | 23     | 3      | name.com                 |
 | HarryPotter.now | available | $49.98     | —             | 72             | 20     | 12     | namecheap                |
-| hawaii.now      | resell    | —          | —             | 70             | 37     | 6      | Dynadot Inc              |
-| studios.now     | premium   | $125       | —             | 54             | 21     | 7      | name.com                 |
-| Eliza.now       | available | $49.98     | —             | 72             | 19     | 5      | namecheap                |
 | ideas.now       | resell    | —          | —             | 62             | 37     | 5      | NameCheap, Inc.          |
-| verb.now        | premium   | $94,166.57 | —             | 72             | 20     | 4      | Spaceship, Inc.          |
+| veterans.now    | premium   | $125       | —             | 56             | 23     | 8      | name.com                 |
+| Eliza.now       | available | $49.98     | —             | 72             | 19     | 5      | namecheap                |
+| hawaii.now      | resell    | —          | —             | 70             | 36     | 6      | Dynadot Inc              |
+| studios.now     | premium   | $125       | —             | 54             | 21     | 7      | name.com                 |
 | whitewater.now  | available | $49.98     | —             | 82             | 17     | 11     | namecheap                |
 | stories.now     | resell    | —          | —             | 58             | 36     | 7      | Spaceship, Inc.          |
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 8,602 live domains                               |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 8,608 live domains                         |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This set is entirely focused on one-word .now domains. The strongest names are simple, easy to say, and immediately readable with the .now ending. Words like interact.now, leave.now, and brass.now are clear and direct, while longer options such as nutritious.now or supersize.now may fit narrower use cases. Pricing matters here because the median ask is $5,315, which makes quality differences worth weighing carefully. For founders, the key question is whether the word feels memorable and commercially usable. For investors, the question is whether the word has enough breadth, clarity, and resale appeal to justify the ask. Be cautious with obvious brand conflicts such as Volvo.now.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prefer clear dictionary words that read naturally with .now
+- Use the $5,315 median ask as a pricing reality check
+- Shorter, broader words usually offer better resale flexibility
+- Screen out likely trademark conflicts like Volvo.now
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NOW One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NOW One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

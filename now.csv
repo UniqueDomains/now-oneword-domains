@@ -31,6 +31,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 026babd9-1b4e-4617-a77c-c12ac59ba8b1,estateagency.now,available,49.98,,42,4,13,namecheap,,
 0279ca1b-2159-4205-8b88-2611eb02a248,rakeout.now,available,49.98,,66,1,8,namecheap,,
 02943d89-69e0-4a4a-ac18-b36b7ee32a07,gonegative.now,available,49.98,,66,1,11,namecheap,,
+02a282c3-cdd0-41be-96c3-739ee0bcd255,spot.now,premium,625,,65,40,4,name.com,,
 02a8f7a5-1ded-469f-811b-c8b76b1d0416,distinctiveness.now,available,38.99,38.99,72,1,15,namesilo,,
 02ab5003-1907-439a-9b63-f97844766f97,ifyouwill.now,available,49.98,,61,2,11,namecheap,,
 02cfe6e0-b5c4-4187-b6f7-d68a2f429227,alcoholusedisorder.now,available,49.98,,48,1,20,namecheap,,
@@ -147,7 +148,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0c32c6a5-c397-46c4-aafb-60ceb4065b8c,ladiesandgentlemen.now,available,49.98,,70,3,20,namecheap,,
 0c675655-0699-4091-9db6-82a292917a3d,movingforward.now,available,49.98,,56,8,14,namecheap,,
 0c6fb211-ee73-4c30-9425-8f5c02a70b6f,exclaims.now,available,38.99,38.99,50,1,8,namesilo,,
-0c863e13-df85-419b-ab4f-c4c3ea9bf183,numbers.now,resell,,,74,28,7,Dynadot Inc,04/12/2024 04:52,04/12/2026 04:52
+0c863e13-df85-419b-ab4f-c4c3ea9bf183,numbers.now,resell,,,74,29,7,Dynadot Inc,04/12/2024 04:52,04/12/2026 04:52
 0cdea636-3565-4118-97cd-302b15d78312,forests.now,available,49.98,,60,11,7,namecheap,,
 0ce25cdf-3510-4946-a6af-e4aa56df47d7,manualworker.now,available,49.98,,42,0,13,namecheap,,
 0cec27d0-5603-4472-a906-70bcf5d5e426,chickensoup.now,available,49.98,,84,4,12,namecheap,,
@@ -338,7 +339,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1fa640e4-535f-4e0e-ae39-366eb08b68c2,invogue.now,available,49.98,,70,6,8,namecheap,,
 1fad2e45-7696-4422-adbe-b46963db9605,bicycles.now,premium,116,116,68,9,8,namesilo,,
 1fe2e433-7400-4bdc-ac76-dd757d81a515,goneover.now,available,38.99,38.99,50,1,9,namesilo,,
-1ffbd856-007d-47c6-b133-3cf6a5fd5f1e,hawaii.now,resell,,,70,37,6,Dynadot Inc,11/10/2024 14:50,11/10/2026 14:50
+1ffbd856-007d-47c6-b133-3cf6a5fd5f1e,hawaii.now,resell,,,70,36,6,Dynadot Inc,11/10/2024 14:50,11/10/2026 14:50
 203b0138-93ad-4662-a06c-d92c82069f51,resorted.now,available,38.99,38.99,50,1,8,namesilo,,
 204c42c4-bf61-452f-8dcf-49c497ecd650,cometopass.now,available,49.98,,74,1,12,namecheap,,
 204f2c75-9ca3-442f-949b-0588cd59fead,elects.now,available,38.99,38.99,56,4,6,namesilo,,
@@ -378,10 +379,10 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 232a52ca-1594-45d6-8efe-a01e1008f9a4,flashmemory.now,available,49.98,,76,2,12,namecheap,,
 232ab1c6-a4cd-47c6-b240-1c7e2c79ec6e,leavetown.now,available,49.98,,58,1,10,namecheap,,
 23486e20-1a38-4e2b-a74d-76b5b97e593b,retailbanking.now,available,49.98,,59,3,14,namecheap,,
-234fe825-84f0-474e-98ff-41db2e3204d6,education.now,resell,,,86,32,9,Dynadot Inc,01/10/2024 01:43,01/10/2026 01:43
+234fe825-84f0-474e-98ff-41db2e3204d6,education.now,resell,,,86,33,9,Dynadot Inc,01/10/2024 01:43,01/10/2026 01:43
 239243cd-7437-4144-841f-bc2b2e8bc3ff,RedSox.now,available,49.98,,72,60,7,namecheap,,
 239fe46d-478a-4482-8367-f40e9b981cff,towels.now,premium,125,,68,9,6,name.com,,
-23be6020-443f-4a87-9d83-a80d9e5de9d7,barbecue.now,resell,,,86,13,8,"Spaceship, Inc.",29/07/2025 10:11,29/07/2026 10:11
+23be6020-443f-4a87-9d83-a80d9e5de9d7,barbecue.now,resell,,,86,12,8,"Spaceship, Inc.",29/07/2025 10:11,29/07/2026 10:11
 23eb6d4e-e6fd-4462-be54-c482ed13abe3,makesomethingof.now,available,49.98,,70,0,17,namecheap,,
 2417cafd-5bcf-4cd6-b578-d3ddb9888835,coats.now,premium,125,,68,12,5,name.com,,
 241b1c11-daca-4ef6-8d2e-d6efce6551fb,mathematics.now,premium,125,,68,19,11,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 59f8ae6e-2b3e-423b-ad74-b61dad589273,quartertone.now,available,49.98,,70,3,12,namecheap,,
 5a1d1bdb-3956-4532-ba94-babb9438ea68,Ihaveasthma.now,available,49.98,,50,1,13,namecheap,,
 5a2b1ac3-49b4-4fb1-8d8d-939cb5c553b9,textures.now,available,49.98,,50,9,8,namecheap,,
-5a3a829d-e386-4808-8d5d-dc797b152b97,inorderfor.now,available,49.98,,60,0,12,namecheap,,
