@@ -338,6 +338,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1f78ad0b-8dbd-4a5e-ace7-bdc60fad96f0,havetherunof.now,available,49.98,,60,1,15,namecheap,,
 1fa640e4-535f-4e0e-ae39-366eb08b68c2,invogue.now,available,49.98,,70,6,8,namecheap,,
 1fad2e45-7696-4422-adbe-b46963db9605,bicycles.now,premium,116,116,68,9,8,namesilo,,
+1fcdd0e5-5b1f-43c1-95c8-cca2837d2f4d,traveling.now,resell,,,72,16,9,"NameCheap, Inc.",08/11/2024 19:03,08/11/2026 19:03
 1fe2e433-7400-4bdc-ac76-dd757d81a515,goneover.now,available,38.99,38.99,50,1,9,namesilo,,
 1ffbd856-007d-47c6-b133-3cf6a5fd5f1e,hawaii.now,resell,,,70,36,6,Dynadot Inc,11/10/2024 14:50,11/10/2026 14:50
 203b0138-93ad-4662-a06c-d92c82069f51,resorted.now,available,38.99,38.99,50,1,8,namesilo,,
@@ -406,6 +407,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 267c4994-aed6-46fa-a817-bf47275b4b98,shortages.now,available,38.99,38.99,48,3,9,namesilo,,
 267db57e-2bc2-4f90-bcaf-052e6762de91,rides.now,resell,,,56,15,5,Gandi SAS,07/11/2024 13:13,07/11/2026 13:13
 2696fd4c-3265-447c-aad8-4366b5bc159c,extends.now,available,49.98,,54,5,7,namecheap,,
+2697293e-4780-4f46-b0c5-6cbaa46f22a2,affirm.now,resell,,,80,77,6,Dynadot Inc,14/11/2024 12:58,14/11/2026 12:58
 26976dac-4511-416a-adfc-4d472ad46b76,standupguy.now,available,49.98,,72,2,12,namecheap,,
 26a5995c-06b0-423e-8029-7db6333f834c,basedon.now,available,49.98,,50,4,8,namecheap,,
 26d90e75-8d05-43ac-956c-ffc7e3c15984,introspection.now,available,49.98,,66,8,13,namecheap,,
@@ -487,6 +489,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2ce0d25d-7872-4e49-aa88-4e1d441e4857,wellmanaged.now,available,49.98,,60,4,12,namecheap,,
 2d0b3acb-e31b-4585-a0ba-613cce1b4aa0,personallife.now,available,49.98,,68,3,13,namecheap,,
 2d1e5024-a625-423c-9d06-7c5985916d90,uponthewhole.now,available,49.98,,46,1,14,namecheap,,
+2d40a78c-ffb4-48dc-865d-b01ebc7e4239,year.now,resell,,,88,14,4,Dynadot Inc,04/07/2025 10:32,04/07/2026 10:32
 2d4fb439-cbaa-48ea-94d2-d55931640050,inwithashout.now,available,49.98,,60,1,15,namecheap,,
 2d89df96-04d6-40f6-9ecc-324e86a1fc3c,magicians.now,available,38.99,38.99,60,8,9,namesilo,,
 2d8df605-2aba-4aff-9ff3-54e71df86387,Ihavecancer.now,available,49.98,,44,2,13,namecheap,,
@@ -996,6 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 598f34e9-5387-476b-a372-0bf30578193f,liquors.now,premium,116,116,52,7,7,namesilo,,
 59a00240-c149-4f35-afee-60fef2f9fcff,cheesecakes.now,available,38.99,38.99,60,4,11,namesilo,,
 59a60378-c8d6-4e54-9043-e37398901af8,stared.now,available,49.98,,56,4,6,namecheap,,
-59b4baca-3312-43a5-8736-1b78c00fb03a,lunchmaking.now,available,49.98,,78,1,11,namecheap,,
-59f8ae6e-2b3e-423b-ad74-b61dad589273,quartertone.now,available,49.98,,70,3,12,namecheap,,
-5a1d1bdb-3956-4532-ba94-babb9438ea68,Ihaveasthma.now,available,49.98,,50,1,13,namecheap,,
