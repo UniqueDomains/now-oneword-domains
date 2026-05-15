@@ -176,6 +176,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0f8f6a7b-18e6-4617-b6f7-1cb0c1b06d80,keeptrackof.now,available,49.98,,48,1,13,namecheap,,
 0f99b568-5d92-4615-bd29-21f4034d390d,joints.now,available,38.99,38.99,48,8,6,namesilo,,
 0fc9398d-ce66-45cd-87ff-3429b93e7600,backs.now,available,49.98,,56,5,5,namecheap,,
+0fe6381f-8223-48a1-abdf-1e5617ec1afa,diamonds.now,premium,8285.58,,89,19,8,Dynadot Inc,11/07/2025 23:49,11/07/2026 23:49
 0ff5eca4-cc55-4f51-ab6d-c52e93a3ce90,explanation.now,available,49.98,,68,7,11,namecheap,,
 1021a03d-52e0-46cd-a07d-a331e2d577a6,gobananas.now,available,49.98,,74,7,10,namecheap,,
 10354ed7-042c-49c7-bcd1-1e5fcfe736b1,hanginthere.now,available,49.98,,54,3,13,namecheap,,
@@ -662,6 +663,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3bb962fe-b388-4483-a1a1-c8ac662ca42b,takealeak.now,available,49.98,,63,1,11,namecheap,,
 3be21b79-e899-49c5-b553-7befb18c94cc,goalongwith.now,available,49.98,,70,1,13,namecheap,,
 3bed6f62-467d-4ef4-90bb-6d543f628abc,communities.now,premium,125,,68,19,11,name.com,,
+3bf71de9-ff75-4ebc-9133-8a68fb24b1ea,bears.now,available,38.99,38.99,64,19,5,namesilo,,
 3bffece4-a936-46e8-8950-d0e8e89a7806,costcontrol.now,available,49.98,,52,4,12,namecheap,,
 3c0ee6a3-5ddf-454e-b82e-50a98e7fd1a0,secondyear.now,available,38.99,38.99,66,1,11,namesilo,,
 3c23f1fc-f53b-4ab8-938f-2e8c682af4ab,deepdiving.now,available,49.98,,76,2,11,namecheap,,
@@ -997,5 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 593dea36-02af-4334-a8ed-d31a9fb26983,privateparts.now,available,49.98,,61,3,13,namecheap,,
 595e88ed-f361-4a27-99e7-55dc4b470e90,inwaiting.now,available,49.98,,50,1,10,namecheap,,
 598f34e9-5387-476b-a372-0bf30578193f,liquors.now,premium,116,116,52,7,7,namesilo,,
-59a00240-c149-4f35-afee-60fef2f9fcff,cheesecakes.now,available,38.99,38.99,60,4,11,namesilo,,
-59a60378-c8d6-4e54-9043-e37398901af8,stared.now,available,49.98,,56,4,6,namecheap,,
