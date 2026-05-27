@@ -65,25 +65,25 @@ print(df.head())
 | domain          | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                |
 | --------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------ |
 | myspace.now     | available | $49.98     | —             | 80             | 66     | 7      | namecheap                |
-| persistence.now | resell    | $49.98     | —             | 72             | 12     | 11     | Porkbun LLC              |
+| faces.now       | resell    | $49.98     | —             | 60             | 20     | 5      | Spaceship, Inc.          |
 | spot.now        | premium   | $625       | —             | 65             | 40     | 4      | name.com                 |
 | RedSox.now      | available | $49.98     | —             | 72             | 60     | 7      | namecheap                |
-| affirm.now      | resell    | —          | —             | 80             | 77     | 6      | Dynadot Inc              |
+| persistence.now | resell    | $49.98     | —             | 72             | 12     | 11     | Porkbun LLC              |
 | justin.now      | premium   | $125       | —             | 58             | 38     | 7      | name.com                 |
 | Allie.now       | available | $49.98     | —             | 72             | 21     | 5      | namecheap                |
-| donuts.now      | resell    | —          | —             | 54             | 62     | 6      | Spaceship, Inc.          |
+| affirm.now      | resell    | —          | —             | 80             | 77     | 6      | Dynadot Inc              |
 | material.now    | premium   | $23,675.79 | —             | 78             | 24     | 8      | Spaceship, Inc.          |
-| faces.now       | available | $49.98     | —             | 60             | 21     | 5      | namecheap                |
-| robots.now      | resell    | —          | —             | 62             | 47     | 6      | Unstoppable Domains Inc. |
-| pls.now         | premium   | $125       | —             | 60             | 23     | 3      | name.com                 |
 | HarryPotter.now | available | $49.98     | —             | 72             | 20     | 12     | namecheap                |
-| whynot.now      | resell    | —          | —             | 74             | 44     | 7      | Dynadot Inc              |
-| veterans.now    | premium   | $125       | —             | 56             | 23     | 8      | name.com                 |
+| donuts.now      | resell    | —          | —             | 54             | 62     | 6      | Spaceship, Inc.          |
+| pls.now         | premium   | $125       | —             | 60             | 23     | 3      | name.com                 |
 | Eliza.now       | available | $49.98     | —             | 72             | 19     | 5      | namecheap                |
-| WiFi.now        | resell    | —          | —             | 83             | 37     | 5      | Dynadot Inc              |
-| studios.now     | premium   | $125       | —             | 54             | 21     | 7      | name.com                 |
+| robots.now      | resell    | —          | —             | 62             | 47     | 6      | Unstoppable Domains Inc. |
+| veterans.now    | premium   | $125       | —             | 56             | 23     | 8      | name.com                 |
 | bears.now       | available | $38.99     | $38.99        | 64             | 19     | 5      | namesilo                 |
-| hawaii.now      | resell    | —          | —             | 70             | 36     | 6      | Dynadot Inc              |
+| whynot.now      | resell    | —          | —             | 74             | 44     | 7      | Dynadot Inc              |
+| studios.now     | premium   | $125       | —             | 54             | 21     | 7      | name.com                 |
+| reallife.now    | available | $49.98     | —             | 68             | 18     | 9      | namecheap                |
+| WiFi.now        | resell    | —          | —             | 83             | 37     | 5      | Dynadot Inc              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
