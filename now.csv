@@ -56,7 +56,7 @@ ed26cfaa-f828-416f-8cce-ad86afe50ccc,accomplished.now,available,38.99,38.99,high
 8835f3ba-5dee-4234-a6f2-e059bae18da5,pizzashop.now,available,38.99,38.99,high,low,10,namesilo,,
 cd17fa12-0e00-4418-8e7c-2c1ebba0f112,flew.now,resell,,,high,low,4,Dynadot Inc,23/10/2025 23:38,23/10/2026 23:38
 b729be03-7363-454f-b969-e3e0033f244c,twice.now,resell,,,medium,low,5,"Spaceship, Inc.",11/07/2025 08:55,11/07/2027 08:55
-e127b570-eab1-430f-b900-c5fcf61357b2,arts.now,resell,,,high,low,4,Dynadot Inc,06/02/2026 15:24,06/02/2027 15:24
+e127b570-eab1-430f-b900-c5fcf61357b2,arts.now,resell,,,medium,low,4,Atom.com Domains LLC,06/02/2026 15:24,06/02/2028 15:24
 09611270-3b37-4a1e-8c0e-4874f4900a48,thong.now,available,38.99,38.99,medium,low,5,namesilo,,
 e695d8ee-c3f2-4180-a37e-154f9130d266,keepthepeace.now,available,38.99,38.99,high,low,14,namesilo,,
 06c138c4-3c59-447b-b1e6-4d276102214d,rotation.now,resell,,,medium,low,8,Dynadot Inc,22/01/2025 22:22,22/01/2027 22:22
@@ -229,7 +229,7 @@ c9491c6e-4c7e-40aa-833a-0bd7851aa964,necessity.now,available,49.98,,high,low,9,n
 0b948e3e-bd55-4b22-b938-273f56475693,atpresent.now,available,38.99,38.99,medium,low,10,namesilo,,
 5c8dabd8-6516-45a5-aee0-4a671d6f4a36,backwardslash.now,available,38.99,38.99,medium,low,14,namesilo,,
 c47381d8-2800-40ee-a0f0-aa37d03f3a9c,watching.now,resell,,,medium,low,8,Porkbun LLC,01/10/2024 02:06,01/10/2026 02:06
-1b934319-3eb8-4231-aea4-c86ec4a23f6e,capital.now,resell,,,medium,medium,7,Dynadot Inc,08/01/2025 08:41,08/01/2027 08:41
+1b934319-3eb8-4231-aea4-c86ec4a23f6e,capital.now,resell,,,medium,low,7,Dynadot Inc,08/01/2025 08:41,08/01/2027 08:41
 0c3469c5-ab77-4330-a0a3-65d52822fdb3,norwegian.now,premium,116,116,medium,low,9,namesilo,,
 1ad67618-942e-4b6d-89da-99dc0ee1e1dc,keytothecity.now,available,38.99,38.99,high,low,15,namesilo,,
 bbd2519d-cedf-423e-8088-8faad69f9f9d,inthehell.now,available,38.99,38.99,medium,low,11,namesilo,,
@@ -688,7 +688,7 @@ b001eee6-f4e0-47fd-ad99-9732ebff6766,saucer.now,available,38.99,38.99,high,low,6
 dfa49938-4b93-462b-a2e9-801b66722c3b,refrigerator.now,premium,116,116,high,low,12,namesilo,,
 2d3ff31b-812c-4e0a-9b78-3b352eb1ad9d,extension.now,resell,,,high,low,9,Dynadot Inc,23/07/2025 01:15,23/07/2026 01:15
 c0093ab3-c4c6-4194-9d4e-f326f8b5907c,beating.now,available,38.99,38.99,high,low,7,namesilo,,
-6557b9a2-bf01-457d-b354-06597bdfd76d,businessman.now,premium,125,,high,low,11,name.com,,
+6557b9a2-bf01-457d-b354-06597bdfd76d,businessman.now,premium,116,116,medium,low,11,namesilo,,
 741e2511-ede9-4a10-935d-c8453d48c559,affirmative.now,available,38.99,38.99,high,low,11,namesilo,,
 76626066-bd86-4fde-b9f8-f3a59954dbb4,ohmygosh.now,available,38.99,38.99,high,low,8,namesilo,,
 5bc59735-a2be-4472-b826-cddf7b6661dc,meandthee.now,available,38.99,38.99,medium,low,11,namesilo,,
@@ -930,7 +930,7 @@ b54ec46b-4d0e-4f39-82ec-60808644a124,condolences.now,available,38.99,38.99,high,
 3818b6dd-d282-48bf-99b2-df78ed23160f,leather.now,premium,116,116,medium,low,7,namesilo,,
 d46c27d6-18a5-4ad5-b1e2-f5332298ed37,disease.now,premium,116,116,high,low,7,namesilo,,
 50a50db6-5a27-4ffa-b733-2c1c5d15ef82,making.now,resell,,,high,low,6,Dynadot Inc,02/10/2024 12:30,02/10/2027 12:30
-8bef563d-989f-4762-85e6-1863af30bf1c,asset.now,resell,,,medium,medium,5,Porkbun LLC,29/10/2024 20:39,29/10/2026 20:39
+8bef563d-989f-4762-85e6-1863af30bf1c,asset.now,resell,,,medium,low,5,Porkbun LLC,29/10/2024 20:39,29/10/2026 20:39
 b711a8c1-b592-4f93-b7e7-c68823203529,retained.now,available,49.98,,medium,low,8,namecheap,,
 6db0b049-b645-423e-b41f-a8788d998faf,axe.now,premium,116,116,medium,low,3,namesilo,,
 69629ab5-7ca1-4528-b505-c801db713ed1,cheesy.now,available,49.98,,medium,low,6,namecheap,,
