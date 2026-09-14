@@ -2,7 +2,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 e6b6818b-60e1-4712-8ff4-7368e91f1a26,taxshift.now,available,38.99,38.99,medium,low,9,namesilo,,
 a418e302-c224-4d6d-a776-988f63b1647b,weed.now,resell,,,medium,low,4,101domain GRS Limited,27/09/2024 13:04,27/09/2026 13:04
 2b9ef1bc-eb87-44b3-a2a4-7eb92b7b106d,other.now,premium,116,116,medium,low,5,namesilo,,
-9abe0437-aafb-41f1-8808-27f1e1843b3e,oncemore.now,available,38.99,38.99,low,low,9,namesilo,,
+9abe0437-aafb-41f1-8808-27f1e1843b3e,oncemore.now,available,38.98,49.98,low,low,9,namecheap,,
 5d284372-1e77-4000-937d-750da3947804,generalpublic.now,available,38.99,38.99,high,low,14,namesilo,,
 cee7c300-6b6b-4f72-b64e-3ef048974339,determined.now,available,38.99,38.99,high,low,10,namesilo,,
 75bf1139-26c4-4287-9d17-6ae29ebdf506,xvii.now,available,24.99,59.99,medium,low,4,name.com,,
@@ -116,6 +116,7 @@ cd30ce91-8f7d-4b25-8d5e-2c77ed002564,midday.now,available,38.99,38.99,high,low,6
 4e239e4b-85f1-41dd-9a0e-1adbf4ec91a9,grandfather.now,premium,116,116,high,low,11,namesilo,,
 08a4888c-5558-47ae-b1a6-337cc5349ac2,balsamic.now,available,38.99,38.99,high,low,8,namesilo,,
 6292e517-e5b8-46de-9d04-aab8074efae1,tracking.now,resell,,,medium,low,8,"NameCheap, Inc.",01/10/2024 12:57,01/10/2026 12:57
+7501e68c-bd4b-41ac-bff1-a907f48264ad,data.now,resell,,,medium,medium,4,Porkbun LLC,03/10/2024 23:16,03/10/2027 23:16
 1f42d9f9-8f3d-4879-be07-47a7294ac88d,seek.now,premium,625,,high,low,4,name.com,,
 e15ce794-baea-4b73-8e15-78928b672df8,genuine.now,resell,,,high,low,7,"Spaceship, Inc.",14/11/2024 18:14,14/11/2026 18:14
 0f51218a-cfc8-4665-b2a6-eec2fe0f2e09,gummybear.now,available,38.99,38.99,high,low,10,namesilo,,
@@ -176,7 +177,7 @@ fe83eec5-1e93-484c-bdfb-df1a0be3c170,Ihaveatemperature.now,available,38.99,38.99
 00b7d967-c2da-4e8b-ab78-088e92b6754a,secluded.now,available,38.99,38.99,medium,low,8,namesilo,,
 766036b6-dc6a-4687-8706-cf40e4651db9,yesandno.now,available,38.99,38.99,low,low,10,namesilo,,
 144cda18-649a-431c-9d9d-ae086897924f,measurement.now,available,49.98,,medium,low,11,namecheap,,
-2264461f-a89e-4085-9140-ea402a2998c3,buffet.now,resell,,,high,high,6,Gandi SAS,02/11/2024 03:20,02/11/2026 03:20
+2264461f-a89e-4085-9140-ea402a2998c3,buffet.now,resell,,,medium,low,6,Gandi SAS,02/11/2024 03:20,02/11/2026 03:20
 08fc2e50-daa1-4e0c-a15d-2b53390d5ee0,coast.now,resell,,,high,low,5,"Spaceship, Inc.",10/07/2025 23:32,10/07/2026 23:32
 58226b24-3eb3-4df0-979f-0e1c31eedc62,great.now,resell,,,high,low,5,Dynadot Inc,24/10/2024 13:08,24/10/2026 13:08
 177d817b-cd76-4b72-97c5-2c2f94dbb1a0,fanletter.now,available,38.99,38.99,medium,low,10,namesilo,,
@@ -229,7 +230,7 @@ c9491c6e-4c7e-40aa-833a-0bd7851aa964,necessity.now,available,49.98,,high,low,9,n
 0b948e3e-bd55-4b22-b938-273f56475693,atpresent.now,available,38.99,38.99,medium,low,10,namesilo,,
 5c8dabd8-6516-45a5-aee0-4a671d6f4a36,backwardslash.now,available,38.99,38.99,medium,low,14,namesilo,,
 c47381d8-2800-40ee-a0f0-aa37d03f3a9c,watching.now,resell,,,medium,low,8,Porkbun LLC,01/10/2024 02:06,01/10/2026 02:06
-1b934319-3eb8-4231-aea4-c86ec4a23f6e,capital.now,resell,,,medium,low,7,Dynadot Inc,08/01/2025 08:41,08/01/2027 08:41
+1b934319-3eb8-4231-aea4-c86ec4a23f6e,capital.now,resell,,,medium,medium,7,Dynadot Inc,08/01/2025 08:41,08/01/2027 08:41
 0c3469c5-ab77-4330-a0a3-65d52822fdb3,norwegian.now,premium,116,116,medium,low,9,namesilo,,
 1ad67618-942e-4b6d-89da-99dc0ee1e1dc,keytothecity.now,available,38.99,38.99,high,low,15,namesilo,,
 bbd2519d-cedf-423e-8088-8faad69f9f9d,inthehell.now,available,38.99,38.99,medium,low,11,namesilo,,
@@ -998,4 +999,3 @@ a400232a-2bdf-447b-b3e8-55c6b3e35260,howaboutno.now,available,49.98,,medium,low,
 d0936192-8961-4c80-8440-5395f03498ac,haveseenthisfilm.now,available,38.99,38.99,medium,low,19,namesilo,,
 f8245d28-9fbb-427b-b4db-af49b1fab7ba,sliced.now,available,38.99,38.99,high,low,6,namesilo,,
 44af94f9-251a-4259-941a-dedca0a81357,nyse.now,available,38.99,38.99,medium,low,4,namesilo,,
-1cb60801-f48e-4918-ac54-f877f96737d9,coldwar.now,available,38.99,38.99,medium,low,8,namesilo,,
