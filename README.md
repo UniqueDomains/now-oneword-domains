@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .now one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,872 domains · **Median ask:** $880.15 · **High-demand under $2,500:** 21
 
-**Last updated:** 2026-09-15
+**Last updated:** 2026-09-16
 **Canonical page:** `https://unique.domains/domains/tld/now`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------ |
+| half.now        | premium   | $116      | $116          | high           | low    | 4      | namesilo                 |
 | ahuh.now        | available | $38.99    | $38.99        | high           | low    | 4      | namesilo                 |
 | buck.now        | resell    | $125      | —             | medium         | low    | 4      | Unstoppable Domains Inc. |
 | abc.now         | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo                 |
@@ -83,7 +84,6 @@ print(df.head())
 | bad.now         | resell    | —         | —             | high           | medium | 3      | Dynadot Inc              |
 | icu.now         | premium   | $116      | $116          | high           | low    | 3      | namesilo                 |
 | thou.now        | available | $24.99    | $59.99        | medium         | low    | 4      | name.com                 |
-| dip.now         | resell    | —         | —             | high           | low    | 3      | Dynadot Inc              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -115,6 +115,7 @@ If this sample already feels useful, Unique Domains is where the exact search be
 - `registrar`, Registrar name when known.
 - `created_at`, Creation timestamp when known.
 - `expires_at`, Expiry timestamp when known.
+- `status_verified_at`, When status was last established against the registry. Null means never checked.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
@@ -132,6 +133,7 @@ See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 ## 🔄 Update policy
 
 - This repository is refreshed regularly from the same export pipeline used for public dataset repos.
+- The snapshot date above is when this file was written, not when each row was checked. Read `status_verified_at` for that: a name whose status was last established months ago is exported with its real date rather than the snapshot's.
 - The README count targets the live catalog count from the public landing response when available.
 - The CSV and JSON files contain the public extract only and may not match the full live catalog size.
 - Stable historical references should be published via GitHub Releases outside this repository snapshot.
@@ -142,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NOW One-Word Domains*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NOW One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
