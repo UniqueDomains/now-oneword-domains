@@ -134,7 +134,7 @@ f16dd117-cc61-43a5-bccf-a2e53f53b642,purchaseorder.now,available,38.99,38.99,hig
 529d6492-d4e9-434e-b9f9-6b02cd679848,giftcertificate.now,available,38.99,38.99,high,low,16,namesilo,,,
 5e053116-4ad7-4273-87b7-340c02e9f22e,savingsaccount.now,available,38.99,38.99,high,low,15,namesilo,,,
 dcdf1527-7ce8-463d-93df-4deff953ea12,giveahoot.now,available,38.99,38.99,high,low,11,namesilo,,,
-b4ff6679-07b5-4a2f-ad8a-472681759d3d,moveon.now,resell,,,high,low,7,Dynadot Inc,21/07/2025 20:36,21/07/2026 20:36,
+b4ff6679-07b5-4a2f-ad8a-472681759d3d,moveon.now,resell,,,low,low,7,Dynadot Inc,21/07/2025 20:36,21/07/2027 20:36,16/09/2026 16:07
 fd8735f2-8c38-46e7-b4d3-dfd71879fe99,neutral.now,resell,,,high,low,7,Gandi SAS,16/07/2025 18:17,16/07/2027 18:17,
 4cec53c7-aad7-4672-97cf-6ca96e8a4dfa,easily.now,resell,,,high,low,6,Porkbun LLC,10/07/2025 17:19,10/07/2026 17:19,
 17c8f2a0-dc9f-4c5b-8bcd-256ca9ee29ce,mahfucka.now,available,38.99,38.99,medium,low,8,namesilo,,,
@@ -741,7 +741,7 @@ e9df6621-f16f-4ab5-88be-020b89f7adb7,late.now,premium,116,116,high,low,4,namesil
 b5b1bee1-5c35-458e-98f1-5f70a0d201c9,giveamanafish.now,available,38.99,38.99,medium,low,17,namesilo,,,
 52a36a03-cd72-4aa8-ad2a-25ee9ae653da,iron.now,resell,,,high,low,4,Unstoppable Domains Inc.,05/10/2024 20:36,05/10/2026 20:36,
 9364be01-6ebd-43d6-83f3-790446f6c3ca,unconvinced.now,available,38.99,38.99,medium,low,11,namesilo,,,
-ef85712e-8ca4-4750-8c96-773fa5c1fc6f,goover.now,available,38.99,38.99,high,low,7,namesilo,,,
+ef85712e-8ca4-4750-8c96-773fa5c1fc6f,goover.now,available,38.99,38.99,low,low,7,namesilo,,,16/09/2026 10:25
 565ed783-b326-4067-951c-bbe53e5e570e,childofthekitchen.now,available,38.99,38.99,medium,low,20,namesilo,,,
 1b115d85-12c2-4f0d-a356-44b73b9c2a89,giveout.now,available,38.99,38.99,medium,low,8,namesilo,,,
 f9b0949b-7317-4544-ba40-1bb8640d73f9,generalknowledge.now,available,38.99,38.99,high,low,17,namesilo,,,
@@ -934,7 +934,7 @@ b711a8c1-b592-4f93-b7e7-c68823203529,retained.now,available,49.98,,medium,low,8,
 6db0b049-b645-423e-b41f-a8788d998faf,axe.now,premium,116,116,medium,low,3,namesilo,,,
 69629ab5-7ca1-4528-b505-c801db713ed1,cheesy.now,available,49.98,,medium,low,6,namecheap,,,
 cccabeee-d047-4245-908c-146496513462,tears.now,available,24.99,59.99,medium,low,5,name.com,,,
-e8431880-ebe1-4693-8897-10483e9e5a16,signin.now,resell,,,high,low,7,Dynadot Inc,03/02/2026 13:49,03/02/2027 13:49,
+e8431880-ebe1-4693-8897-10483e9e5a16,signin.now,resell,,,medium,low,7,Dynadot Inc,03/02/2026 13:49,03/02/2027 13:49,17/09/2026 03:42
 91ac0dc1-a9dc-4910-8a2d-809039e19cd4,makeright.now,available,38.99,38.99,high,low,10,namesilo,,,
 1792bce6-b794-48ba-adbf-13fd34066237,beach.now,resell,,,medium,low,5,Dynadot Inc,30/12/2024 16:18,30/12/2026 16:18,
 c28f55ce-0918-4356-8780-773d596ff46f,despite.now,premium,116,116,high,low,7,namesilo,,,
