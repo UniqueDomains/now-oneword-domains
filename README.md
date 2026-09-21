@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .now one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 26,846 domains · **Median ask:** $740.78 · **High-demand under $2,500:** 18
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-21
 **Canonical page:** `https://unique.domains/domains/tld/now`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,9 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------ |
+| half.now        | premium   | $116      | $116          | high           | low    | 4      | namesilo                 |
+| bad.now         | resell    | —         | —             | high           | medium | 3      | Dynadot Inc              |
+| great.now       | resell    | —         | —             | high           | low    | 5      | Dynadot Inc              |
 | ahuh.now        | available | $38.99    | $38.99        | high           | low    | 4      | namesilo                 |
 | buck.now        | resell    | $125      | —             | medium         | low    | 4      | Unstoppable Domains Inc. |
 | abc.now         | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo                 |
@@ -81,9 +84,6 @@ print(df.head())
 | ear.now         | premium   | $116      | $116          | high           | low    | 3      | namesilo                 |
 | nyse.now        | available | $38.99    | $38.99        | medium         | low    | 4      | namesilo                 |
 | thinktwice.now  | resell    | $49.98    | —             | medium         | low    | 11     | Dynadot Inc              |
-| icu.now         | premium   | $116      | $116          | high           | low    | 3      | namesilo                 |
-| thou.now        | available | $24.99    | $59.99        | medium         | low    | 4      | name.com                 |
-| bad.now         | resell    | —         | —             | high           | medium | 3      | Dynadot Inc              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NOW One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NOW One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
