@@ -1,10 +1,10 @@
-# Available .NOW One-Word Domains (30,357)
+# Available .NOW One-Word Domains (20,139)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C357%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-20%2C139%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .now one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **30,357 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **20,139 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 30,357 domains · **Median ask:** $145.05 · **High-demand under $2,500:** 17
+**Public extract:** 1,000 rows · **Live catalog:** 20,139 domains · **Median ask:** $113.11 · **High-demand under $2,500:** 19
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/now`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------ |
-| ahuh.now       | available | $38.99    | $38.99        | high           | low    | 4      | namesilo                 |
-| buck.now       | resell    | $125      | —             | high           | low    | 4      | Unstoppable Domains Inc. |
-| abc.now        | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo                 |
-| atop.now       | available | $38.99    | $38.99        | high           | low    | 4      | namesilo                 |
-| grey.now       | resell    | $125      | —             | high           | low    | 4      | Unstoppable Domains Inc. |
-| ala.now        | premium   | $116      | $116          | high           | low    | 3      | namesilo                 |
-| avon.now       | available | $38.99    | $38.99        | high           | low    | 4      | namesilo                 |
-| fraud.now      | resell    | $49.98    | —             | high           | low    | 5      | Spaceship, Inc.          |
-| ann.now        | premium   | $116      | $116          | high           | low    | 3      | namesilo                 |
-| calf.now       | available | $38.99    | $38.99        | high           | low    | 4      | namesilo                 |
-| tours.now      | resell    | $625      | —             | high           | low    | 5      | Dynadot Inc              |
-| ate.now        | premium   | $116      | $116          | high           | low    | 3      | namesilo                 |
-| died.now       | available | $38.99    | $38.99        | low            | low    | 4      | namesilo                 |
-| racing.now     | resell    | $625      | —             | high           | low    | 6      | Dynadot Inc              |
-| axe.now        | premium   | $116      | $116          | high           | low    | 3      | namesilo                 |
-| djia.now       | available | $38.99    | $38.99        | high           | low    | 4      | namesilo                 |
-| cabbage.now    | resell    | $49.98    | —             | high           | low    | 7      | Dynadot Inc              |
-| boo.now        | premium   | $125      | —             | high           | low    | 3      | name.com                 |
-| fran.now       | available | $38.99    | $38.99        | high           | low    | 4      | namesilo                 |
-| provisions.now | resell    | $49.98    | —             | high           | low    | 10     | Dynadot Inc              |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| abbe.now       | available | $38.99    | $38.99        | medium         | low    | 4      | namesilo                                                  |
+| axial.now      | resell    | $38.99    | $38.99        | high           | low    | 5      | Porkbun LLC                                               |
+| ail.now        | premium   | $130      | $130          | high           | low    | 3      | namecheap                                                 |
+| alms.now       | available | $38.99    | $38.99        | medium         | low    | 4      | namesilo                                                  |
+| travel.now     | resell    | $3,125    | —             | high           | medium | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
+| atp.now        | premium   | $125      | —             | high           | low    | 3      | name.com                                                  |
+| awny.now       | available | $38.98    | $49.98        | medium         | low    | 4      | namecheap                                                 |
+| details.now    | resell    | $49.98    | —             | high           | low    | 7      | Porkbun LLC                                               |
+| aum.now        | premium   | $116      | $116          | high           | low    | 3      | namesilo                                                  |
+| axes.now       | available | $24.98    | $49.98        | low            | low    | 4      | namecheap                                                 |
+| assisted.now   | resell    | $24.99    | $59.99        | high           | low    | 8      | Spaceship, Inc.                                           |
+| avo.now        | premium   | $116      | $116          | high           | low    | 3      | namesilo                                                  |
+| baya.now       | available | $59.99    | $59.99        | medium         | low    | 4      | name.com                                                  |
+| anticancer.now | resell    | $49.98    | —             | high           | low    | 10     | Dynadot Inc                                               |
+| awl.now        | premium   | $116      | $116          | high           | low    | 3      | namesilo                                                  |
+| brit.now       | available | $38.98    | $49.98        | high           | low    | 4      | namecheap                                                 |
+| recovering.now | resell    | $24.99    | $59.99        | high           | low    | 10     | Dynadot Inc                                               |
+| boo.now        | premium   | $125      | —             | high           | low    | 3      | name.com                                                  |
+| burp.now       | available | $38.99    | $38.99        | high           | low    | 4      | namesilo                                                  |
+| pen.now        | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 30,357 live domains                        |
+| 1,000-row public sample | 20,139 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 17 high-demand names under $2,500          |
+| Basic exported fields   | 19 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NOW One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NOW One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
