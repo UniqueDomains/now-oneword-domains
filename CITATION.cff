@@ -1,12 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it using the metadata below."
-title: "Available .NOW One-Word Domains"
+title: "One-word .now domains"
 type: dataset
 authors:
-  - name: "Unique Domains"
-version: "2026-10-03"
-date-released: "2026-10-03"
-url: "https://unique.domains/domains/tld/now"
+  - name: "Unique.domains"
+version: "2026-11-25"
+date-released: "2026-11-25"
+url: "https://unique.domains/tld/now"
 repository-code: "https://github.com/UniqueDomains/now-oneword-domains"
-license: "See LICENSE"
-abstract: "Daily-updated public extract of available and resale .now one-word domains from Unique Domains."
+license: CC-BY-4.0
+abstract: "Daily-updated public extract of available and resale .now one-word domains from Unique.domains."
