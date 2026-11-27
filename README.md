@@ -4,9 +4,9 @@
 
 1,000 real .now one-word domain names, refreshed every night, with their status and, when known, the price to register or buy them and what they renew at. One line of pandas, no scraping, no key.
 
-Each word exists once on each ending. Unique.domains tracks [77,833 names on .now](https://unique.domains/tld/now); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
+Each word exists once on each ending. Unique.domains tracks [77,918 names on .now](https://unique.domains/tld/now); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
 
-59,872 one-word .now names are free to register today, from $10.81 the first year at Porkbun. Renewal there $31.41, three times the first year. 87 .now sales in the last 12 months, median $320.
+59,965 one-word .now names are free to register today, from $10.81 the first year at Porkbun. Renewal there $31.41, three times the first year. 89 .now sales in the last 12 months, median $322.
 
 Live page: [unique.domains/tld/now](https://unique.domains/tld/now?utm_source=github&utm_medium=referral&utm_campaign=repo_now_oneword_domains&utm_content=top_tld_page)
 
@@ -70,7 +70,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 35,684 names in the live list today.
+- The files hold 1,000 rows of the 35,846 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
