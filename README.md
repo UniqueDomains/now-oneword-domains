@@ -4,9 +4,9 @@
 
 1,000 real .now one-word domain names, refreshed every night, with their status and, when known, the price to register or buy them and what they renew at. One line of pandas, no scraping, no key.
 
-Each word exists once on each ending. Unique.domains tracks [77,918 names on .now](https://unique.domains/tld/now); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
+Each word exists once on each ending. Unique.domains tracks [78,110 names on .now](https://unique.domains/tld/now); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
 
-59,965 one-word .now names are free to register today, from $10.81 the first year at Porkbun. Renewal there $31.41, three times the first year. 89 .now sales in the last 12 months, median $322.
+60,175 one-word .now names are free to register today, from $10.81 the first year at Porkbun. Renewal there $31.41, three times the first year. 89 .now sales in the last 12 months, median $322.
 
 Live page: [unique.domains/tld/now](https://unique.domains/tld/now?utm_source=github&utm_medium=referral&utm_campaign=repo_now_oneword_domains&utm_content=top_tld_page)
 
@@ -41,7 +41,7 @@ The first 20 rows of the file, in the file's order.
 | mfh.now        | premium   | $103.70        | $103.70       | high           | low    | 3      |
 | rodents.now    | available | $38.99         | $38.99        | medium         | low    | 7      |
 | infamous.now   | available | $32.32         | $32.32        | high           | medium | 8      |
-| quickdraw.now  | available | $59.99         | $59.99        | high           | low    | 9      |
+| quickdraw.now  | available | $38.99         | $38.99        | high           | medium | 9      |
 | hairband.now   | available | $38.99         | $38.99        | high           | low    | 8      |
 | donors.now     | available | $38.99         | $38.99        | medium         | low    | 6      |
 | cerium.now     | available | $38.98         | $49.98        | high           | low    | 6      |
@@ -70,7 +70,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 35,846 names in the live list today.
+- The files hold 1,000 rows of the 35,960 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
